@@ -69,7 +69,42 @@
       "transliteration": "Dah-lah-wah ay mahs mah-gahn-dah, kay-sah ee-sah.",
       "category": "Numbers",
       "generated_at": "2026-06-16T12:06:42.092639"
+    },
+    {
+      "english": "My heart, beats for you.",
+      "filipino": "Puso ko, tumitibok para sa'yo.",
+      "transliteration": "Pu-so ko, tu-mi-ti-bok pa-ra sa'yo.",
+      "category": "Love",
+      "generated_at": "2026-06-16T12:31:19.528429"
+    },
+    {
+      "english": "You are, my everything.",
+      "filipino": "Ikaw ang, aking lahat.",
+      "transliteration": "I-kaw ang, a-king la-hat.",
+      "category": "Love",
+      "generated_at": "2026-06-16T12:31:19.528441"
+    },
+    {
+      "english": "I miss you, so much.",
+      "filipino": "Miss na kita, sobra.",
+      "transliteration": "Miss na ki-ta, so-bra.",
+      "category": "Love",
+      "generated_at": "2026-06-16T12:31:19.528442"
+    },
+    {
+      "english": "Thinking of you, always.",
+      "filipino": "Ini-isip ka, palagi.",
+      "transliteration": "I-ni-i-sip ka, pa-la-gi.",
+      "category": "Love",
+      "generated_at": "2026-06-16T12:31:19.528444"
+    },
+    {
+      "english": "You make me, happy.",
+      "filipino": "Pinapasaya mo, ako.",
+      "transliteration": "Pi-na-pa-sa-ya mo, a-ko.",
+      "category": "Love",
+      "generated_at": "2026-06-16T12:31:19.528445"
     }
   ],
-  "last_updated": "2026-06-16T12:06:42.092641"
+  "last_updated": "2026-06-16T12:31:19.528447"
 }
