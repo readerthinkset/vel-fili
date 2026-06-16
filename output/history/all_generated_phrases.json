@@ -209,7 +209,42 @@
       "transliteration": "Nah-lee-gahw ah-koh.",
       "category": "Emergency",
       "generated_at": "2026-06-16T20:14:05.939822"
+    },
+    {
+      "english": "Hello, friend. Nice to meet you.",
+      "filipino": "Kamusta, kaibigan. Mabuti kang makilala.",
+      "transliteration": "Ka-moos-tah, ka-ee-bee-gan. Ma-boo-tee kang ma-kee-la-la.",
+      "category": "Greetings",
+      "generated_at": "2026-06-16T22:16:28.374243"
+    },
+    {
+      "english": "Good morning. How are you?",
+      "filipino": "Magandang umaga. Kumusta ka?",
+      "transliteration": "Ma-gan-dang oo-ma-ga. Ko-moos-tah ka?",
+      "category": "Greetings",
+      "generated_at": "2026-06-16T22:16:28.374253"
+    },
+    {
+      "english": "Welcome! Come inside, please.",
+      "filipino": "Mabuhay! Pasok ka, pakiusap.",
+      "transliteration": "Ma-boo-hai! Pa-sok ka, pa-kee-oo-sap.",
+      "category": "Greetings",
+      "generated_at": "2026-06-16T22:16:28.374255"
+    },
+    {
+      "english": "Hi there. What's your name?",
+      "filipino": "Uy. Ano ang pangalan mo?",
+      "transliteration": "Oo-ee. A-no ang pan-ga-lan mo?",
+      "category": "Greetings",
+      "generated_at": "2026-06-16T22:16:28.374256"
+    },
+    {
+      "english": "Good afternoon. How's your day?",
+      "filipino": "Magandang hapon. Kumusta ang araw mo?",
+      "transliteration": "Ma-gan-dang ha-pon. Ko-moos-tah ang a-raw mo?",
+      "category": "Greetings",
+      "generated_at": "2026-06-16T22:16:28.374257"
     }
   ],
-  "last_updated": "2026-06-16T20:14:05.939824"
+  "last_updated": "2026-06-16T22:16:28.374259"
 }
