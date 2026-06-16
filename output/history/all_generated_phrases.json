@@ -34,7 +34,42 @@
       "transliteration": "Tu-ma-yo nang ma-ta-tag, ma-gi-ng ma-ta-tag.",
       "category": "Strength",
       "generated_at": "2026-06-16T11:59:51.675226"
+    },
+    {
+      "english": "One, two, three, count together.",
+      "filipino": "Isa, dalawa, tatlo, bilang tayo.",
+      "transliteration": "Ee-sah, dah-lah-wah, tah-tloh, bee-lang tah-yo.",
+      "category": "Numbers",
+      "generated_at": "2026-06-16T12:06:42.092624"
+    },
+    {
+      "english": "How many, please? Tell me.",
+      "filipino": "Ilan po? Sabihin mo.",
+      "transliteration": "Ee-lan poh? Sah-bee-hin moh.",
+      "category": "Numbers",
+      "generated_at": "2026-06-16T12:06:42.092635"
+    },
+    {
+      "english": "Ten fingers, ten toes.",
+      "filipino": "Sampung daliri, sampung paa.",
+      "transliteration": "Sahm-poong dah-lee-ree, sahm-poong pah-ah.",
+      "category": "Numbers",
+      "generated_at": "2026-06-16T12:06:42.092637"
+    },
+    {
+      "english": "One whole day, it's enough.",
+      "filipino": "Isang buong araw, sapat na.",
+      "transliteration": "Ee-sahng boo-ohng ah-rahw, sah-paht nah.",
+      "category": "Numbers",
+      "generated_at": "2026-06-16T12:06:42.092638"
+    },
+    {
+      "english": "Two are better, than one.",
+      "filipino": "Dalawa ay mas maganda, kaysa isa.",
+      "transliteration": "Dah-lah-wah ay mahs mah-gahn-dah, kay-sah ee-sah.",
+      "category": "Numbers",
+      "generated_at": "2026-06-16T12:06:42.092639"
     }
   ],
-  "last_updated": "2026-06-16T11:59:51.675228"
+  "last_updated": "2026-06-16T12:06:42.092641"
 }
