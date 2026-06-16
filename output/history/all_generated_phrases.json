@@ -174,7 +174,42 @@
       "transliteration": "Mahalin ang sandali, madama ang biyaya.",
       "category": "Happiness",
       "generated_at": "2026-06-16T18:25:07.484040"
+    },
+    {
+      "english": "Help me, please.",
+      "filipino": "Tulungan mo ako, pakiusap.",
+      "transliteration": "Too-loo-ngan moh ah-koh, pah-kee-oo-sap.",
+      "category": "Emergency",
+      "generated_at": "2026-06-16T20:14:05.939808"
+    },
+    {
+      "english": "I need a doctor.",
+      "filipino": "Kailangan ko ng doktor.",
+      "transliteration": "Kah-ee-lah-ngan koh nang dok-tor.",
+      "category": "Emergency",
+      "generated_at": "2026-06-16T20:14:05.939817"
+    },
+    {
+      "english": "Where is the hospital?",
+      "filipino": "Nasaan ang ospital?",
+      "transliteration": "Nah-sah-an ang os-pee-tal?",
+      "category": "Emergency",
+      "generated_at": "2026-06-16T20:14:05.939819"
+    },
+    {
+      "english": "Call the police.",
+      "filipino": "Tawagin ang pulis.",
+      "transliteration": "Tah-wah-gin ang poo-lees.",
+      "category": "Emergency",
+      "generated_at": "2026-06-16T20:14:05.939820"
+    },
+    {
+      "english": "I am lost.",
+      "filipino": "Naligaw ako.",
+      "transliteration": "Nah-lee-gahw ah-koh.",
+      "category": "Emergency",
+      "generated_at": "2026-06-16T20:14:05.939822"
     }
   ],
-  "last_updated": "2026-06-16T18:25:07.484041"
+  "last_updated": "2026-06-16T20:14:05.939824"
 }
