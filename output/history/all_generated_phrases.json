@@ -244,7 +244,42 @@
       "transliteration": "Ma-gan-dang ha-pon. Ko-moos-tah ang a-raw mo?",
       "category": "Greetings",
       "generated_at": "2026-06-16T22:16:28.374257"
+    },
+    {
+      "english": "Hello, where is the toilet?",
+      "filipino": "Kumusta, nasaan ang banyo?",
+      "transliteration": "Kooh-moos-tah, nah-sah-ahn ahng bahn-yoh?",
+      "category": "Travel",
+      "generated_at": "2026-06-17T04:20:05.547324"
+    },
+    {
+      "english": "Can I have the bill, please?",
+      "filipino": "Maaari ko bang makuha ang bill?",
+      "transliteration": "Mah-ah-ree koh bahng mah-koo-hah ahng bill?",
+      "category": "Travel",
+      "generated_at": "2026-06-17T04:20:05.547334"
+    },
+    {
+      "english": "How much is this, friend?",
+      "filipino": "Magkano po ito, kaibigan?",
+      "transliteration": "Mahg-kah-noh poh ee-toh, kah-ee-bee-gahn?",
+      "category": "Travel",
+      "generated_at": "2026-06-17T04:20:05.547336"
+    },
+    {
+      "english": "I need help, please.",
+      "filipino": "Kailangan ko ng tulong, pakiusap.",
+      "transliteration": "Kah-ee-lah-gahn koh nahng too-long, pah-kee-oo-sahp.",
+      "category": "Travel",
+      "generated_at": "2026-06-17T04:20:05.547337"
+    },
+    {
+      "english": "Where can I buy water?",
+      "filipino": "Saan ako makakabili ng tubig?",
+      "transliteration": "Sah-ahn ah-koh mah-kah-kah-bee-lee nahng too-beeg?",
+      "category": "Travel",
+      "generated_at": "2026-06-17T04:20:05.547338"
     }
   ],
-  "last_updated": "2026-06-16T22:16:28.374259"
+  "last_updated": "2026-06-17T04:20:05.547340"
 }
