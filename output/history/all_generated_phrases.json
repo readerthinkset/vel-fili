@@ -454,7 +454,42 @@
       "transliteration": "ahng sah-rahp poh nee-toh, tah-lah-gah!",
       "category": "Restaurant",
       "generated_at": "2026-06-18T04:17:54.203220"
+    },
+    {
+      "english": "Speak slow, listen close.",
+      "filipino": "Magsalita nang mabagal, makinig nang mabuti.",
+      "transliteration": "Mag-sa-li-ta nang ma-ba-gal, ma-ki-nig nang ma-bu-ti.",
+      "category": "Success",
+      "generated_at": "2026-06-18T15:10:11.515741"
+    },
+    {
+      "english": "Practice daily, progress surely.",
+      "filipino": "Magsanay araw-araw, umunlad tiyak.",
+      "transliteration": "Mag-sa-nay a-raw-a-raw, u-mun-lad ti-yak.",
+      "category": "Success",
+      "generated_at": "2026-06-18T15:10:11.515749"
+    },
+    {
+      "english": "Try again, don't give up.",
+      "filipino": "Subukan muli, huwag sumuko.",
+      "transliteration": "Su-bu-kan mu-li, hu-wag su-mu-ko.",
+      "category": "Success",
+      "generated_at": "2026-06-18T15:10:11.515751"
+    },
+    {
+      "english": "Learn a word, use it.",
+      "filipino": "Matuto ng salita, gamitin ito.",
+      "transliteration": "Ma-tu-to nang sa-li-ta, ga-mi-tin i-to.",
+      "category": "Success",
+      "generated_at": "2026-06-18T15:10:11.515752"
+    },
+    {
+      "english": "Every sentence, a step forward.",
+      "filipino": "Bawat pangungusap, isang hakbang.",
+      "transliteration": "Ba-wat pang-u-nu-sap, i-sang hak-bang.",
+      "category": "Success",
+      "generated_at": "2026-06-18T15:10:11.515753"
     }
   ],
-  "last_updated": "2026-06-18T04:17:54.203222"
+  "last_updated": "2026-06-18T15:10:11.515754"
 }
