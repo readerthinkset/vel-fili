@@ -419,7 +419,42 @@
       "transliteration": "Mas ma-la-kas ka, kay-sa ee-sip mo.",
       "category": "Courage",
       "generated_at": "2026-06-17T22:04:20.101412"
+    },
+    {
+      "english": "Hello, may I have a table, please?",
+      "filipino": "Kumusta, pwede po bang makahingi ng mesa?",
+      "transliteration": "koo-moos-tah, pwdeh poh bahng mah-kah-heen-gee nahng meh-sah?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-18T04:17:54.203207"
+    },
+    {
+      "english": "What is your specialty, chef?",
+      "filipino": "Ano po ang espesyal ninyo, chef?",
+      "transliteration": "ah-noh poh ahng es-peh-shyahl neen-yoh, chef?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-18T04:17:54.203216"
+    },
+    {
+      "english": "I'd like to order, now.",
+      "filipino": "Gusto ko pong umorder, ngayon.",
+      "transliteration": "goos-toh koh pohng oo-mor-der, nah-yohn.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-18T04:17:54.203218"
+    },
+    {
+      "english": "Can you recommend something, delicious?",
+      "filipino": "May maire-rekomenda po ba kayo, masarap?",
+      "transliteration": "mah-ee reh-koh-men-dah poh bah kah-yoh, mah-sah-rahp?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-18T04:17:54.203219"
+    },
+    {
+      "english": "This tastes, amazing!",
+      "filipino": "Ang sarap po nito, talaga!",
+      "transliteration": "ahng sah-rahp poh nee-toh, tah-lah-gah!",
+      "category": "Restaurant",
+      "generated_at": "2026-06-18T04:17:54.203220"
     }
   ],
-  "last_updated": "2026-06-17T22:04:20.101413"
+  "last_updated": "2026-06-18T04:17:54.203222"
 }
