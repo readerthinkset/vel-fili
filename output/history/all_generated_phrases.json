@@ -629,7 +629,42 @@
       "transliteration": "Mah-SAH-yah AH-koh, mah-KEE-tah KAH!",
       "category": "Joy",
       "generated_at": "2026-06-19T04:41:13.716253"
+    },
+    {
+      "english": "Friends forever, truly.",
+      "filipino": "Kaibigan magpakailanman, tunay.",
+      "transliteration": "Kai-bee-gan mag-pa-ka-il-man, too-nai.",
+      "category": "Friendship",
+      "generated_at": "2026-06-19T14:36:43.311377"
+    },
+    {
+      "english": "You're my best friend.",
+      "filipino": "Ikaw ang aking kaibigan.",
+      "transliteration": "Ee-kow ang a-king kai-bee-gan.",
+      "category": "Friendship",
+      "generated_at": "2026-06-19T14:36:43.311386"
+    },
+    {
+      "english": "Let's hang out soon.",
+      "filipino": "Magkita tayo, malapit na.",
+      "transliteration": "Mag-kee-ta ta-yo, ma-la-pit na.",
+      "category": "Friendship",
+      "generated_at": "2026-06-19T14:36:43.311388"
+    },
+    {
+      "english": "Thanks for everything.",
+      "filipino": "Salamat sa lahat.",
+      "transliteration": "Sa-la-mat sa la-hat.",
+      "category": "Friendship",
+      "generated_at": "2026-06-19T14:36:43.311389"
+    },
+    {
+      "english": "We always have fun.",
+      "filipino": "Lagi tayong nagkakatuwaan.",
+      "transliteration": "La-gee ta-yo nag-ka-ka-too-a-an.",
+      "category": "Friendship",
+      "generated_at": "2026-06-19T14:36:43.311391"
     }
   ],
-  "last_updated": "2026-06-19T04:41:13.716255"
+  "last_updated": "2026-06-19T14:36:43.311393"
 }
