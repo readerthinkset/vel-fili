@@ -664,7 +664,42 @@
       "transliteration": "La-gee ta-yo nag-ka-ka-too-a-an.",
       "category": "Friendship",
       "generated_at": "2026-06-19T14:36:43.311391"
+    },
+    {
+      "english": "Three wishes, I will make.",
+      "filipino": "Tatlong hiling, gagawin ko.",
+      "transliteration": "Taht-long hee-ling, gah-gah-wee-in koh.",
+      "category": "Numbers",
+      "generated_at": "2026-06-19T16:27:53.247802"
+    },
+    {
+      "english": "Zero, is a new start.",
+      "filipino": "Sero, ay bagong simula.",
+      "transliteration": "Seh-roh, ay bah-gohng see-moo-lah.",
+      "category": "Numbers",
+      "generated_at": "2026-06-19T16:27:53.247814"
+    },
+    {
+      "english": "Five senses, to explore.",
+      "filipino": "Limang pandama, upang tuklasin.",
+      "transliteration": "Lee-mahng pahn-dah-mah, oo-pahng took-lah-seen.",
+      "category": "Numbers",
+      "generated_at": "2026-06-19T16:27:53.247815"
+    },
+    {
+      "english": "Six friends, playing now.",
+      "filipino": "Anim na kaibigan, naglalaro ngayon.",
+      "transliteration": "Ah-neem nah kah-ee-bee-gahn, nahg-lah-lah-roh nah-yohn.",
+      "category": "Numbers",
+      "generated_at": "2026-06-19T16:27:53.247817"
+    },
+    {
+      "english": "Seven days, in a week.",
+      "filipino": "Pitong araw, sa isang linggo.",
+      "transliteration": "Pee-tong ah-rahw, sah ee-sahng ling-goh.",
+      "category": "Numbers",
+      "generated_at": "2026-06-19T16:27:53.247818"
     }
   ],
-  "last_updated": "2026-06-19T14:36:43.311393"
+  "last_updated": "2026-06-19T16:27:53.247820"
 }
