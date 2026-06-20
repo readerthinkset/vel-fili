@@ -839,7 +839,42 @@
       "transliteration": "hin-dee koh mah-in-tin-dee-han",
       "category": "Basic Phrases",
       "generated_at": "2026-06-20T13:21:41.310119"
+    },
+    {
+      "english": "Hello. Glad to see you.",
+      "filipino": "Hello. Masaya akong makita ka.",
+      "transliteration": "Heh-lo. Ma-sa-ya a-kong ma-kee-ta ka.",
+      "category": "Greetings",
+      "generated_at": "2026-06-20T15:28:19.740680"
+    },
+    {
+      "english": "Good evening. Enjoy your meal.",
+      "filipino": "Magandang gabi. Kain tayo.",
+      "transliteration": "Ma-gan-dang ga-bee. Ka-in ta-yo.",
+      "category": "Greetings",
+      "generated_at": "2026-06-20T15:28:19.740691"
+    },
+    {
+      "english": "Hey! How have you been?",
+      "filipino": "Hoy! Kamusta ka na?",
+      "transliteration": "Hoy! Ka-moos-tah ka na?",
+      "category": "Greetings",
+      "generated_at": "2026-06-20T15:28:19.740693"
+    },
+    {
+      "english": "Welcome, visitor. Make yourself at home.",
+      "filipino": "Maligayang pagdating, bisita. Huwag kang mahiya.",
+      "transliteration": "Ma-lee-ga-yang pag-da-ting, bee-see-ta. Hoo-wag kang ma-hee-ya.",
+      "category": "Greetings",
+      "generated_at": "2026-06-20T15:28:19.740694"
+    },
+    {
+      "english": "Hi. Hope you're doing well.",
+      "filipino": "Hello. Sana okay ka.",
+      "transliteration": "Heh-lo. Sa-na o-kay ka.",
+      "category": "Greetings",
+      "generated_at": "2026-06-20T15:28:19.740696"
     }
   ],
-  "last_updated": "2026-06-20T13:21:41.310121"
+  "last_updated": "2026-06-20T15:28:19.740698"
 }
