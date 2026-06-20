@@ -804,7 +804,42 @@
       "transliteration": "Ang i-yong pag-si-si-kap, nag-li-li-wa-nag.",
       "category": "Inspiration",
       "generated_at": "2026-06-20T03:55:12.378225"
+    },
+    {
+      "english": "Hello, how are you?",
+      "filipino": "Kumusta ka,?",
+      "transliteration": "koo-moos-tah kah",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-20T13:21:41.310105"
+    },
+    {
+      "english": "Thank you very much.",
+      "filipino": "Maraming salamat, po.",
+      "transliteration": "mah-rah-ming sah-lah-mat poh",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-20T13:21:41.310115"
+    },
+    {
+      "english": "You're welcome.",
+      "filipino": "Walang anuman, po.",
+      "transliteration": "wah-lang ah-noo-man poh",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-20T13:21:41.310117"
+    },
+    {
+      "english": "Excuse me, please.",
+      "filipino": "Paumanhin, po.",
+      "transliteration": "pah-oo-mahn-hin poh",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-20T13:21:41.310118"
+    },
+    {
+      "english": "I don't understand.",
+      "filipino": "Hindi ko maintindihan,.",
+      "transliteration": "hin-dee koh mah-in-tin-dee-han",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-20T13:21:41.310119"
     }
   ],
-  "last_updated": "2026-06-20T03:55:12.378227"
+  "last_updated": "2026-06-20T13:21:41.310121"
 }
