@@ -909,7 +909,42 @@
       "transliteration": "Hu-wag su-mu-ko, tu-loy lang.",
       "category": "Strength",
       "generated_at": "2026-06-20T18:15:06.315658"
+    },
+    {
+      "english": "Breathe in, breathe out, peace.",
+      "filipino": "Hinga papasok, hinga palabas, kapayapaan.",
+      "transliteration": "Hee-nga pah-pah-sook, hee-nga pah-lah-bas, kah-pah-yah-pahn.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-20T21:21:51.740527"
+    },
+    {
+      "english": "Stillness within, calm without.",
+      "filipino": "Katahimikan sa loob, banayad sa labas.",
+      "transliteration": "Kah-tah-hee-mee-khan sah lo-ob, bah-nyah-yad sah lah-bas.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-20T21:21:51.740538"
+    },
+    {
+      "english": "Feel your feet, on the ground.",
+      "filipino": "Damhin ang iyong mga paa, sa lupa.",
+      "transliteration": "Dahm-heen ang ee-yong mah-nga pah-ah, sah loo-pah.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-20T21:21:51.740539"
+    },
+    {
+      "english": "This moment, is all we have.",
+      "filipino": "Ang sandaling ito, ang lahat meron tayo.",
+      "transliteration": "Ang sahn-dah-leeng ee-toh, ang lah-hat meh-ron tah-yo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-20T21:21:51.740541"
+    },
+    {
+      "english": "Open your eyes, to the world.",
+      "filipino": "Buksan ang iyong mga mata, sa mundo.",
+      "transliteration": "Boo-ksan ang ee-yong mah-nga mah-tah, sah moon-doh.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-20T21:21:51.740542"
     }
   ],
-  "last_updated": "2026-06-20T18:15:06.315659"
+  "last_updated": "2026-06-20T21:21:51.740544"
 }
