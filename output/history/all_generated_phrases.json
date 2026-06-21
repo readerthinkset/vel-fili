@@ -1049,7 +1049,42 @@
       "transliteration": "Soo-moo-god pa-la-gi, pa-soo-long.",
       "category": "Perseverance",
       "generated_at": "2026-06-21T15:45:08.293297"
+    },
+    {
+      "english": "Good morning, friend.",
+      "filipino": "Magandang umaga, kaibigan.",
+      "transliteration": "Ma-gan-dang u-ma-ga, ka-i-bi-gan.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-21T18:20:50.576188"
+    },
+    {
+      "english": "How are you doing?",
+      "filipino": "Kumusta ka na?",
+      "transliteration": "Ku-mus-ta ka na?",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-21T18:20:50.576196"
+    },
+    {
+      "english": "I am fine, thanks.",
+      "filipino": "Ayos lang ako, salamat.",
+      "transliteration": "A-yos lang a-ko, sa-la-mat.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-21T18:20:50.576197"
+    },
+    {
+      "english": "What is your name?",
+      "filipino": "Ano ang pangalan mo?",
+      "transliteration": "A-no ang pa-nga-lan mo?",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-21T18:20:50.576199"
+    },
+    {
+      "english": "My name is Maria.",
+      "filipino": "Maria ang pangalan ko.",
+      "transliteration": "Ma-ri-a ang pa-nga-lan ko.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-21T18:20:50.576200"
     }
   ],
-  "last_updated": "2026-06-21T15:45:08.293299"
+  "last_updated": "2026-06-21T18:20:50.576201"
 }
