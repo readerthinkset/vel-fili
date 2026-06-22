@@ -1119,7 +1119,42 @@
       "transliteration": "Ma-tu-tong yu-mu-ko, ma-tu-tong tu-ma-yo.",
       "category": "Balance",
       "generated_at": "2026-06-21T21:19:05.010267"
+    },
+    {
+      "english": "Taste the food, truly.",
+      "filipino": "Tikman ang pagkain, nang totoo.",
+      "transliteration": "Tik-man ang pag-ka-in, nang to-to-o.",
+      "category": "Purpose",
+      "generated_at": "2026-06-22T16:23:42.817752"
+    },
+    {
+      "english": "Sing the songs, joyfully.",
+      "filipino": "Awitin ang mga kanta, nang masaya.",
+      "transliteration": "A-wi-tin ang mga kan-ta, nang ma-sa-ya.",
+      "category": "Purpose",
+      "generated_at": "2026-06-22T16:23:42.817760"
+    },
+    {
+      "english": "Read the stories, often.",
+      "filipino": "Basahin ang mga kwento, nang madalas.",
+      "transliteration": "Ba-sa-hin ang mga kwen-to, nang ma-da-las.",
+      "category": "Purpose",
+      "generated_at": "2026-06-22T16:23:42.817762"
+    },
+    {
+      "english": "Ask questions, bravely.",
+      "filipino": "Magtanong, nang matapang.",
+      "transliteration": "Mag-ta-nong, nang ma-ta-pang.",
+      "category": "Purpose",
+      "generated_at": "2026-06-22T16:23:42.817763"
+    },
+    {
+      "english": "Live the language, fully.",
+      "filipino": "Isabuhay ang wika, nang lubusan.",
+      "transliteration": "I-sa-bu-hay ang wi-ka, nang lu-bu-san.",
+      "category": "Purpose",
+      "generated_at": "2026-06-22T16:23:42.817764"
     }
   ],
-  "last_updated": "2026-06-21T21:19:05.010269"
+  "last_updated": "2026-06-22T16:23:42.817766"
 }
