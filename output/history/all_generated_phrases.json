@@ -1294,7 +1294,42 @@
       "transliteration": "Ma-ra-ming sa-la-mat, ka-i-bi-gan.",
       "category": "Gratitude",
       "generated_at": "2026-06-23T03:45:39.530346"
+    },
+    {
+      "english": "Could we have the bill, please?",
+      "filipino": "Pakiabot po ng bill, pakiusap.",
+      "transliteration": "pah-kee-ah-boht poh nahng bill, pah-kee-oo-sahp.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-23T16:19:20.386992"
+    },
+    {
+      "english": "Is this spicy, or mild?",
+      "filipino": "Maanghang po ba, ito, o hindi?",
+      "transliteration": "mah-ahng-hahng poh bah, ee-toh, oh heen-dee?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-23T16:19:20.387001"
+    },
+    {
+      "english": "We are ready, to order.",
+      "filipino": "Handa na po kami, umorder.",
+      "transliteration": "hah-nah nah poh kah-mee, oo-mor-der.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-23T16:19:20.387002"
+    },
+    {
+      "english": "Thank you for the meal.",
+      "filipino": "Salamat po, sa masarap na pagkain.",
+      "transliteration": "sah-lah-maht poh, sah mah-sah-rahp nah pahg-kah-een.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-23T16:19:20.387004"
+    },
+    {
+      "english": "Do you have, vegetarian options?",
+      "filipino": "Mayroon po bang, vegetarian options?",
+      "transliteration": "mah-ee-roon poh bahng, veh-jeh-tah-ree-ahn op-shyons?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-23T16:19:20.387005"
     }
   ],
-  "last_updated": "2026-06-23T03:45:39.530348"
+  "last_updated": "2026-06-23T16:19:20.387006"
 }
