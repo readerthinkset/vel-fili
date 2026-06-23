@@ -1364,7 +1364,42 @@
       "transliteration": "I-kaw ang, pan-ga-rap ko.",
       "category": "Love",
       "generated_at": "2026-06-23T19:10:26.170131"
+    },
+    {
+      "english": "Now, let's begin.",
+      "filipino": "Ngayon, simulan na natin.",
+      "transliteration": "Ngayon, si-mu-lan na na-tin.",
+      "category": "Time",
+      "generated_at": "2026-06-23T21:45:37.725293"
+    },
+    {
+      "english": "Later, maybe tomorrow.",
+      "filipino": "Mamaya, baka bukas.",
+      "transliteration": "Ma-ma-ya, ba-ka bu-kas.",
+      "category": "Time",
+      "generated_at": "2026-06-23T21:45:37.725302"
+    },
+    {
+      "english": "Early, before sunrise.",
+      "filipino": "Maaga, bago sumikat.",
+      "transliteration": "Ma-a-ga, ba-go su-mi-kat.",
+      "category": "Time",
+      "generated_at": "2026-06-23T21:45:37.725303"
+    },
+    {
+      "english": "Late, after sunset.",
+      "filipino": "Huli, paglubog ng araw.",
+      "transliteration": "Hu-li, pa-g-lu-bog ng a-raw.",
+      "category": "Time",
+      "generated_at": "2026-06-23T21:45:37.725304"
+    },
+    {
+      "english": "Once, a long time ago.",
+      "filipino": "Noong unang panahon.",
+      "transliteration": "No-ong u-nang pa-na-hon.",
+      "category": "Time",
+      "generated_at": "2026-06-23T21:45:37.725305"
     }
   ],
-  "last_updated": "2026-06-23T19:10:26.170133"
+  "last_updated": "2026-06-23T21:45:37.725307"
 }
