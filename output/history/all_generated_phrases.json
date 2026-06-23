@@ -1259,7 +1259,42 @@
       "transliteration": "Ka-mag-a-nak na ma-la-yo, la-ging bi-si-ta.",
       "category": "Family Terms",
       "generated_at": "2026-06-22T22:07:07.602306"
+    },
+    {
+      "english": "Thank you, for everything.",
+      "filipino": "Salamat, sa lahat.",
+      "transliteration": "Sa-la-mat, sa la-hat.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-23T03:45:39.530332"
+    },
+    {
+      "english": "I appreciate, your help.",
+      "filipino": "Salamat, sa tulong mo.",
+      "transliteration": "Sa-la-mat, sa tu-long mo.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-23T03:45:39.530342"
+    },
+    {
+      "english": "Very grateful, for this.",
+      "filipino": "Lubos na pasasalamat, dito.",
+      "transliteration": "Lu-bos na pa-sa-sa-la-mat, di-to.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-23T03:45:39.530343"
+    },
+    {
+      "english": "You are kind, thank you.",
+      "filipino": "Mabait ka, salamat.",
+      "transliteration": "Ma-ba-it ka, sa-la-mat.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-23T03:45:39.530345"
+    },
+    {
+      "english": "Deepest thanks, my friend.",
+      "filipino": "Maraming salamat, kaibigan.",
+      "transliteration": "Ma-ra-ming sa-la-mat, ka-i-bi-gan.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-23T03:45:39.530346"
     }
   ],
-  "last_updated": "2026-06-22T22:07:07.602308"
+  "last_updated": "2026-06-23T03:45:39.530348"
 }
