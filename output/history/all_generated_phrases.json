@@ -1434,7 +1434,42 @@
       "transliteration": "Ha-ya-ang u-ma-gos ang in-spi-ra-syon, sa-ka bu-mu-o.",
       "category": "Creativity",
       "generated_at": "2026-06-24T03:48:28.563702"
+    },
+    {
+      "english": "You understand me.",
+      "filipino": "Nauunawaan mo ako.",
+      "transliteration": "Na-oo-oo-na-wa-an mo a-ko.",
+      "category": "Friendship",
+      "generated_at": "2026-06-24T14:02:11.232128"
+    },
+    {
+      "english": "I'm here for you.",
+      "filipino": "Nandito lang ako.",
+      "transliteration": "Nan-dee-to lang a-ko.",
+      "category": "Friendship",
+      "generated_at": "2026-06-24T14:02:11.232137"
+    },
+    {
+      "english": "Glad we met.",
+      "filipino": "Masaya akong nakilala ka.",
+      "transliteration": "Ma-sa-ya a-kong na-kee-la-la ka.",
+      "category": "Friendship",
+      "generated_at": "2026-06-24T14:02:11.232139"
+    },
+    {
+      "english": "Let's share secrets.",
+      "filipino": "Magbahagi tayo ng sikreto.",
+      "transliteration": "Mag-ba-ha-gee ta-yo ng see-kre-to.",
+      "category": "Friendship",
+      "generated_at": "2026-06-24T14:02:11.232140"
+    },
+    {
+      "english": "True friends stick together.",
+      "filipino": "Tunay na kaibigan, dikit.",
+      "transliteration": "Too-nai na kai-bee-gan, dee-keet.",
+      "category": "Friendship",
+      "generated_at": "2026-06-24T14:02:11.232141"
     }
   ],
-  "last_updated": "2026-06-24T03:48:28.563704"
+  "last_updated": "2026-06-24T14:02:11.232142"
 }
