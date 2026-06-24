@@ -1469,7 +1469,42 @@
       "transliteration": "Too-nai na kai-bee-gan, dee-keet.",
       "category": "Friendship",
       "generated_at": "2026-06-24T14:02:11.232141"
+    },
+    {
+      "english": "Fire! Fire!",
+      "filipino": "Sunog! Sunog!",
+      "transliteration": "Soo-nog! Soo-nog!",
+      "category": "Emergency",
+      "generated_at": "2026-06-24T16:07:22.346713"
+    },
+    {
+      "english": "I can't breathe.",
+      "filipino": "Hindi ako makahinga.",
+      "transliteration": "Hee-dee ah-koh mah-kah-hee-nga.",
+      "category": "Emergency",
+      "generated_at": "2026-06-24T16:07:22.346720"
+    },
+    {
+      "english": "It's an emergency.",
+      "filipino": "Emergency ito.",
+      "transliteration": "Em-er-jen-see ee-toh.",
+      "category": "Emergency",
+      "generated_at": "2026-06-24T16:07:22.346722"
+    },
+    {
+      "english": "Is anyone there?",
+      "filipino": "May tao ba diyan?",
+      "transliteration": "May tah-oh bah dee-yan?",
+      "category": "Emergency",
+      "generated_at": "2026-06-24T16:07:22.346723"
+    },
+    {
+      "english": "My wallet is gone.",
+      "filipino": "Nawala ang wallet ko.",
+      "transliteration": "Nah-wah-lah ang wah-let koh.",
+      "category": "Emergency",
+      "generated_at": "2026-06-24T16:07:22.346724"
     }
   ],
-  "last_updated": "2026-06-24T14:02:11.232142"
+  "last_updated": "2026-06-24T16:07:22.346726"
 }
