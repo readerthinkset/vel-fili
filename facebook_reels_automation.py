@@ -78,7 +78,27 @@ CATEGORIES_ENGLISH = [
     "Growth",
     "Purpose",
     "Mindfulness"
-]
+
+    "Daily Routine",
+    "Weather",
+    "Feelings",
+    "Food",
+    "Health",
+    "Work",
+    "Technology",
+    "Nature",
+    "Animals",
+    "Colors",
+    "Directions",
+    "Body Parts",
+    "Clothes",
+    "Music",
+    "Sports",
+    "Holidays",
+    "Education",
+    "Culture",
+    "Finance",
+    "Relationships",]
 
 CATEGORIES_NATIVE = {
     "Greetings": "Mga Pagbati",
@@ -123,7 +143,7 @@ NATIVE_VOICE = "fil-PH-AngeloNeural"
 
 PHRASE_HISTORY_FILE = HISTORY_DIR / "all_generated_phrases.json"
 RECENT_CATEGORIES_FILE = HISTORY_DIR / "recent_categories.json"
-MAX_RECENT_CATEGORIES = 15
+MAX_RECENT_CATEGORIES = 25
 
 
 def load_phrase_history():
@@ -198,6 +218,10 @@ def get_available_category():
 def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
     category_native = CATEGORIES_NATIVE[category_english]
     max_attempts = 3
+
+    history = load_phrase_history()
+    recent_english = [p["english"] for p in history.get("phrases", []) if p.get("category") == category_english][-30:]
+
     for attempt in range(max_attempts):
         try:
             import requests
@@ -207,7 +231,11 @@ def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
                 "Content-Type": "application/json"
             }
 
-            prompt = f"""Create {num_phrases * 2} unique {category_english} phrases for English speakers learning Filipino.
+            avoid_text = ""
+            if recent_english:
+                avoid_text = "\nABSOLUTELY AVOID these already-used phrases:\n" + "\n".join(f"- {p}" for p in recent_english)
+
+            prompt = f"""Create {num_phrases * 6} unique and creative {category_english} phrases for English speakers learning Filipino.{avoid_text}
 
 IMPORTANT RULES FOR NATURAL SPEECH:
 1. Keep phrases SHORT (5-12 words max per language)
@@ -218,6 +246,7 @@ IMPORTANT RULES FOR NATURAL SPEECH:
 6. Filipino text should be CLEAN - use standard Filipino script
 7. Do NOT include multiple versions or slashes - just ONE clean Filipino translation
 8. Transliteration should be in Roman script for pronunciation
+9. BE CREATIVE AND VARIED - do NOT repeat themes from the avoid list
 
 For each phrase:
 1. English phrase (with commas for natural pauses)
@@ -233,10 +262,10 @@ IMPORTANT: Filipino text must be clean - no slashes, no multiple versions."""
             payload = {
                 "model": AI_MODEL,
                 "messages": [
-                    {"role": "system", "content": "You are a Filipino teacher. Create short, natural phrases with pauses."},
+                    {"role": "system", "content": "You are a Filipino teacher. Create short, natural phrases with pauses. Each generation must produce completely different, creative phrases."},
                     {"role": "user", "content": prompt}
                 ],
-                "temperature": 0.9
+                "temperature": min(0.95 + attempt * 0.03, 1.0)
             }
 
             response = requests.post(url, headers=headers, json=payload, timeout=60)
@@ -277,6 +306,11 @@ IMPORTANT: Filipino text must be clean - no slashes, no multiple versions."""
                 add_phrases_to_history(unique_phrases[:num_phrases], category_english)
                 return unique_phrases[:num_phrases]
 
+            print(f"[content] Attempt {attempt + 1}: API returned {len(phrases)} phrases, only {len(unique_phrases)} are new (need {num_phrases})")
+            for p in unique_phrases:
+                if p["english"] not in recent_english:
+                    recent_english.append(p["english"])
+
         except Exception as e:
             print(f"[content] Attempt {attempt + 1} failed: {e}")
 
@@ -288,22 +322,58 @@ IMPORTANT: Filipino text must be clean - no slashes, no multiple versions."""
 def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
     """Return simple English fallback phrases when AI generation fails"""
     generic_fallbacks = [
-        {"english": "Hello, nice to meet you.", "filipino": "[FI] Hello", "transliteration": "hello"},
-        {"english": "Thank you very much.", "filipino": "[FI] Thank you", "transliteration": "thank you"},
-        {"english": "Good morning, have a great day.", "filipino": "[FI] Good morning", "transliteration": "good morning"},
-        {"english": "I love learning new languages.", "filipino": "[FI] Love learning", "transliteration": "love learning"},
-        {"english": "Never give up on your dreams.", "filipino": "[FI] Never give up", "transliteration": "never give up"},
-        {"english": "Every day is a fresh start.", "filipino": "[FI] Fresh start", "transliteration": "fresh start"},
-        {"english": "Believe in yourself always.", "filipino": "[FI] Believe", "transliteration": "believe"},
-        {"english": "Small steps lead to big changes.", "filipino": "[FI] Small steps", "transliteration": "small steps"},
-        {"english": "You are stronger than you think.", "filipino": "[FI] Stronger", "transliteration": "stronger"},
-        {"english": "Happiness is a choice, choose it.", "filipino": "[FI] Happiness", "transliteration": "happiness"},
+        {"english": "Hello, nice to meet you.", "filipino": "Kumusta, ikinagagalak kitang makilala.", "transliteration": "Koo-moo-stah, ee-kee-nah-gah-lahk kee-tahng mah-kee-lah-lah."},
+        {"english": "Thank you very much.", "filipino": "Maraming salamat po.", "transliteration": "Mah-rah-ming sah-lah-maht poh."},
+        {"english": "Good morning, have a great day.", "filipino": "Magandang umaga, magkaroon ka ng magandang araw.", "transliteration": "Mah-gahn-dahng oo-mah-gah, mahg-kah-rohn kah nahng mah-gahn-dahng ah-row."},
+        {"english": "I love learning new languages.", "filipino": "Mahilig akong matuto ng mga bagong wika.", "transliteration": "Mah-hee-leeg ah-kohng mah-too-toh nahng mah-gah bah-gohng wee-kah."},
+        {"english": "Never give up on your dreams.", "filipino": "Huwag na huwag mong isuko ang iyong mga pangarap.", "transliteration": "Hoo-wahg nah hoo-wahg mohng ee-soo-koh ahng ee-yong mah-gah pahng-ah-rahp."},
+        {"english": "Every day is a fresh start.", "filipino": "Bawat araw ay isang bagong simula.", "transliteration": "Bah-waht ah-row ah-ee ee-sahng bah-gohng see-moo-lah."},
+        {"english": "Believe in yourself always.", "filipino": "Manalig ka palagi sa iyong sarili.", "transliteration": "Mah-nah-leeg kah pah-lah-gee sah ee-yong sah-ree-lee."},
+        {"english": "Small steps lead to big changes.", "filipino": "Maliliit na hakbang ang patungo sa malalaking pagbabago.", "transliteration": "Mah-lee-eet nah hahk-bahng ahng pah-too-ngoh sah mah-lah-lah-keeng pahg-bah-goh."},
+        {"english": "You are stronger than you think.", "filipino": "Mas malakas ka kaysa sa iniisip mo.", "transliteration": "Mahs mah-lah-kahs kah kay-sah sah ee-nee-ee-seep moh."},
+        {"english": "Happiness is a choice, choose it.", "filipino": "Ang kaligayahan ay isang pagpili, piliin mo ito.", "transliteration": "Ahng kah-lee-gah-yah-han ah-ee ee-sahng pahg-pee-lee, pee-lee-een moh ee-toh."},
+        {"english": "What time is it please.", "filipino": "Anong oras na po.", "transliteration": "Ah-nohng oh-rahs nah poh."},
+        {"english": "Where is the train station.", "filipino": "Nasaan ang istasyon ng tren.", "transliteration": "Nah-sah-ahn ahng ees-tah-shyon nahng trehn."},
+        {"english": "How much does this cost.", "filipino": "Magkano po ito.", "transliteration": "Mahg-kah-noh poh ee-toh."},
+        {"english": "Can you help me please.", "filipino": "Maaari mo ba akong tulungan.", "transliteration": "Mah-ah-rah-ree moh bah ah-kohng too-loo-ngahn."},
+        {"english": "I would like a coffee please.", "filipino": "Gusto ko ng kape po.", "transliteration": "Goo-stoh koh nahng kah-peh poh."},
+        {"english": "The food is delicious today.", "filipino": "Masarap ang pagkain ngayon.", "transliteration": "Mah-sah-rahp ahng pahg-kah-een nah-goh-yon."},
+        {"english": "Have a wonderful weekend.", "filipino": "Magkaroon ka ng magandang katapusan ng linggo.", "transliteration": "Mahg-kah-rohn kah nahng mah-gahn-dahng kah-tah-poo-sahn nahng leeng-goh."},
+        {"english": "Take care of yourself.", "filipino": "Alagaan mo ang iyong sarili.", "transliteration": "Ah-lah-gah-ahn moh ahng ee-yong sah-ree-lee."},
+        {"english": "See you tomorrow my friend.", "filipino": "Hanggang sa muli, kaibigan.", "transliteration": "Hahng-gahng sah moo-lee, kah-ee-bee-gahn."},
+        {"english": "The weather is beautiful outside.", "filipino": "Maganda ang panahon sa labas.", "transliteration": "Mah-gahn-dah ahng pah-nah-hon sah lah-bahs."},
+        {"english": "I am very happy today.", "filipino": "Masaya ako ngayon.", "transliteration": "Mah-sah-yah ah-koh nah-goh-yon."},
+        {"english": "Learning a language opens new doors.", "filipino": "Ang pag-aaral ng wika ay nagbubukas ng mga bagong pintuan.", "transliteration": "Ahng pahg-ah-rah-ahl nahng wee-kah ah-ee nahg-boo-booh-kahs nahng mah-gah bah-gohng peen-too-ahn."},
+        {"english": "Keep practicing every single day.", "filipino": "Patuloy na magsanay araw-araw.", "transliteration": "Pah-too-looy nah mahg-sah-nahy ah-row-ah-row."},
+        {"english": "You can achieve anything you want.", "filipino": "Kaya mong makamit ang anumang gusto mo.", "transliteration": "Kah-yah mohng mah-kah-meet ahng ah-noo-mahng goo-stoh moh."},
+        {"english": "Rest when you are tired.", "filipino": "Magpahinga kapag pagod ka.", "transliteration": "Mahg-pah-hee-ngah kah-pahg pah-gohd kah."},
+        {"english": "Focus on the positive things.", "filipino": "Mag-pokus sa mga positibong bagay.", "transliteration": "Mahg-poh-koos sah mah-gah poh-see-tee-bohng bah-gay."},
+        {"english": "Learn from your mistakes.", "filipino": "Matuto mula sa iyong mga pagkakamali.", "transliteration": "Mah-too-toh moo-lah sah ee-yong mah-gah pahg-kah-kah-mah-lee."},
+        {"english": "Trust the process completely.", "filipino": "Magtiwala nang lubos sa proseso.", "transliteration": "Mahg-tee-wah-lah nahng loo-boos sah proh-seh-soh."},
+        {"english": "Breathe deeply and stay calm.", "filipino": "Humihinga nang malalim at manatiling kalmado.", "transliteration": "Hoo-mee-hee-ngah nahng mah-lah-leem aht mah-nah-tee-lee-ng kah-lahm-ah-doh."},
+        {"english": "Enjoy the little moments in life.", "filipino": "I-enjoy ang maliliit na sandali sa buhay.", "transliteration": "Ee-en-joy ahng mah-lee-lee-it nah sahn-dah-lee sah boo-hay."},
+        {"english": "Smile more, worry less.", "filipino": "Mas ngumiti, mas kaunti ang pag-aalala.", "transliteration": "Mahs ngoo-mee-tee, mahs kah-oon-tee ahng pahg-ah-lah-lah."},
+        {"english": "Be kind to everyone you meet.", "filipino": "Maging mabait sa lahat ng iyong makikilala.", "transliteration": "Mah-geeng mah-bah-eet sah lah-haht nahng ee-yong mah-kee-kee-lah-lah."},
+        {"english": "Help others without expecting anything back.", "filipino": "Tulungan ang iba nang walang inaasahang kapalit.", "transliteration": "Too-loo-ngahn ahng ee-bah nahng wah-lahng ee-nah-ah-sah-hahng kah-pah-leet."},
+        {"english": "Forgive yourself and move forward.", "filipino": "Patawarin ang iyong sarili at magpatuloy.", "transliteration": "Pah-tah-wah-reen ahng ee-yong sah-ree-lee aht mahg-pah-too-looy."},
+        {"english": "Stay strong in difficult times.", "filipino": "Manatiling matatag sa mahihirap na panahon.", "transliteration": "Mah-nah-tee-lee-ng mah-tah-tahg sah mah-hee-hee-rahp nah pah-nah-hon."},
+        {"english": "Every moment is a new beginning.", "filipino": "Bawat sandali ay isang bagong simula.", "transliteration": "Bah-waht sahn-dah-lee ah-ee ee-sahng bah-gohng see-moo-lah."},
+        {"english": "Listen to your heart always.", "filipino": "Makinig palagi sa iyong puso.", "transliteration": "Mah-kee-neeg pah-lah-gee sah ee-yong poo-soh."},
+        {"english": "Do what makes you happy.", "filipino": "Gawin ang nagpapasaya sa iyo.", "transliteration": "Gah-ween ahng nahg-pah-pah-sah-yah sah ee-yoh."},
+        {"english": "Your potential is unlimited.", "filipino": "Walang hangganan ang iyong potensyal.", "transliteration": "Wah-lahng hahng-gah-nahn ahng ee-yong poh-ten-syal."},
+        {"english": "Be brave and take risks.", "filipino": "Maging matapang at sumubok ng mga panganib.", "transliteration": "Mah-geeng mah-tah-pahng aht soo-bohk nahng mah-gah pahng-ah-neeb."},
+        {"english": "Celebrate your progress every day.", "filipino": "Ipagdiwang ang iyong pag-unlad araw-araw.", "transliteration": "Ee-pahg-dee-wahng ahng ee-yong pahg-oo-nlahd ah-row-ah-row."},
+        {"english": "Surround yourself with good people.", "filipino": "Paligiran ang iyong sarili ng mabubuting tao.", "transliteration": "Pah-lee-gee-rahn ahng ee-yong sah-ree-lee nahng mah-boo-tee-hahnng tah-oh."},
+        {"english": "Read books and grow your mind.", "filipino": "Magbasa ng mga libro at palaguin ang iyong isipan.", "transliteration": "Mahg-bah-sah nahng mah-gah lee-broh aht pah-lah-goo-een ahng ee-yong ee-see-pahn."},
+        {"english": "Travel and discover new places.", "filipino": "Maglakbay at tumuklas ng mga bagong lugar.", "transliteration": "Mahg-lahk-bahy aht too-too-klahs nahng mah-gah bah-gohng loo-gahr."},
+        {"english": "Appreciate what you already have.", "filipino": "Pahalagahan ang mga bagay na mayroon ka na.", "transliteration": "Pah-hah-lah-gah-han ahng mah-gah bah-gay nah mahy-rohn kah nah."},
+        {"english": "Dance like nobody is watching.", "filipino": "Sumayaw na parang walang nanonood.", "transliteration": "Soo-mah-yahw nah pah-rahng wah-lahng nah-nah-noh-ohd."},
+        {"english": "Sing from your heart out loud.", "filipino": "Kumanta mula sa iyong puso nang malakas.", "transliteration": "Koo-mahn-tah moo-lah sah ee-yong poo-soh nahng mah-lah-kahs."},
+        {"english": "Plant seeds of kindness everywhere.", "filipino": "Magtanim ng kabutihan saan man.", "transliteration": "Mahg-tah-neem nahng kah-boo-tee-han sah-ahn mahn."},
+        {"english": "Let go of what you cannot control.", "filipino": "Bitawan ang mga bagay na hindi mo kontrolado.", "transliteration": "Bee-tah-wahn ahng mah-gah bah-gay nah hah-dee moh kohn-troh-lah-doh."},
+        {"english": "Be present in the here and now.", "filipino": "Maging naroroon sa kasalukuyan.", "transliteration": "Mah-geeng nah-rah-roh-ohn sah kah-sah-loo-goo-yahn."}
     ]
     fresh = [p for p in generic_fallbacks if not is_phrase_used(p["english"])]
-    # Assign the right language key
-    lang_key = "filipino"
-    for p in fresh:
-        p[lang_key] = p.pop("filipino")
     return fresh[:num_phrases]
 async def generate_single_audio(text: str, voice: str, output_path: str):
     try:
@@ -1389,7 +1459,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
         b = draw.textbbox((0, 0), "Ag", font=font)
         return b[3] - b[1]
 
-    max_text_w = VIDEO_WIDTH - 180
+    max_text_w = VIDEO_WIDTH - 140
     cat_native = CATEGORIES_NATIVE.get(category_english, category_english)
 
     nat_font, nat_lines = pick_native_font(native, max_text_w - 40)
@@ -1426,7 +1496,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     cy = start_y
 
     # Category bar (rounded)
-    cat_text = cat_native
+    cat_text = category_english
     cat_bb = draw.textbbox((0, 0), cat_text, font=font_category)
     cat_tw = cat_bb[2] - cat_bb[0]
     cat_th = cat_bb[3] - cat_bb[1]
@@ -1446,7 +1516,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     cy += gap_cat_nat
 
     # English phrase (top)
-    en_margin = 50
+    en_margin = 60
     rounded_rect(draw, (en_margin, cy, VIDEO_WIDTH - en_margin, cy + en_box_h), 28,
                  fill=(20, 40, 100, 220))
     for i, line in enumerate(en_lines):
@@ -1458,7 +1528,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     cy += en_box_h + gap_nat_en
 
     # Native phrase (below English)
-    nat_margin = 70
+    nat_margin = 50
     rounded_rect(draw, (nat_margin, cy, VIDEO_WIDTH - nat_margin, cy + nat_box_h), 24,
                  fill=(139, 0, 0, 220))
     for i, line in enumerate(nat_lines):
@@ -1471,7 +1541,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
 
     # Transliteration
     if trans_lines:
-        trans_margin = 90
+        trans_margin = 70
         rounded_rect(draw, (trans_margin, cy, VIDEO_WIDTH - trans_margin, cy + trans_box_h), 18,
                      fill=(40, 40, 40, 220))
         for i, line in enumerate(trans_lines):
