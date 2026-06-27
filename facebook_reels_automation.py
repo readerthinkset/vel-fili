@@ -77,8 +77,7 @@ CATEGORIES_ENGLISH = [
     "Balance",
     "Growth",
     "Purpose",
-    "Mindfulness"
-
+    "Mindfulness",
     "Daily Routine",
     "Weather",
     "Feelings",
@@ -135,7 +134,27 @@ CATEGORIES_NATIVE = {
     "Balance": "Balanse",
     "Growth": "Paglago",
     "Purpose": "Layunin",
-    "Mindfulness": "Pag-iisip"
+    "Mindfulness": "Pag-iisip",
+    "Daily Routine": "Pang-araw-araw na Gawain",
+    "Weather": "Panahon",
+    "Feelings": "Damdamin",
+    "Food": "Pagkain",
+    "Health": "Kalusugan",
+    "Work": "Trabaho",
+    "Technology": "Teknolohiya",
+    "Nature": "Kalikasan",
+    "Animals": "Hayop",
+    "Colors": "Kulay",
+    "Directions": "Direksyon",
+    "Body Parts": "Mga Bahagi ng Katawan",
+    "Clothes": "Damit",
+    "Music": "Musika",
+    "Sports": "Palakasan",
+    "Holidays": "Mga Piyesta",
+    "Education": "Edukasyon",
+    "Culture": "Kultura",
+    "Finance": "Pananalapi",
+    "Relationships": "Relasyon"
 }
 
 ENGLISH_VOICE = "en-US-GuyNeural"
