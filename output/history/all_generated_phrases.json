@@ -1574,7 +1574,42 @@
       "transliteration": "Ha-lo-ha-lo, i-sang ma-ta-mis na sor-be-tes.",
       "category": "Food",
       "generated_at": "2026-06-27T03:39:03.505353"
+    },
+    {
+      "english": "Listen closely, to your heart.",
+      "filipino": "Makinig mabuti, sa puso mo.",
+      "transliteration": "mah-KEE-neeg mah-BOO-tee, sah POO-soh moh.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-27T13:04:00.100952"
+    },
+    {
+      "english": "Gentle breath, flowing freely.",
+      "filipino": "Mahinang hininga, malayang dumadaloy.",
+      "transliteration": "mah-HEE-nahng hee-NEE-ngah, mah-LAH-yahng doo-mah-DAH-loy.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-27T13:04:00.100961"
+    },
+    {
+      "english": "Notice the light, around you.",
+      "filipino": "Pansinin ang liwanag, sa paligid mo.",
+      "transliteration": "pahn-SEE-neen ahng lee-WAH-nahg, sah pah-LEE-geed moh.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-27T13:04:00.100963"
+    },
+    {
+      "english": "A quiet thought, gently passing.",
+      "filipino": "Isang tahimik na isip, dahan-dahang lumilipas.",
+      "transliteration": "ee-SAHNG tah-HEE-meek nah EE-seep, dah-HAHN-dah-HAHNG loo-mee-LEE-pahs.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-27T13:04:00.100965"
+    },
+    {
+      "english": "Feel the warmth, on your skin.",
+      "filipino": "Damhin ang init, sa balat mo.",
+      "transliteration": "DAHM-heem ahng EE-neet, sah bah-LAHT moh.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-27T13:04:00.100966"
     }
   ],
-  "last_updated": "2026-06-27T03:39:03.505354"
+  "last_updated": "2026-06-27T13:04:00.100968"
 }
