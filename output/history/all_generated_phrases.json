@@ -1644,7 +1644,42 @@
       "transliteration": "A-sul ng da-gat, pa-ya-pang a-lon.",
       "category": "Colors",
       "generated_at": "2026-06-27T15:07:17.604522"
+    },
+    {
+      "english": "Breathe deep, feel calm.",
+      "filipino": "Hinga ng malalim, maramdaman ang payapa.",
+      "transliteration": "Hee-nga nang ma-la-leem, ma-ram-da-man ang pa-ya-pa.",
+      "category": "Health",
+      "generated_at": "2026-06-27T18:07:10.909211"
+    },
+    {
+      "english": "Eat well, live fully.",
+      "filipino": "Kumain ng mabuti, mabuhay ng sagana.",
+      "transliteration": "Koo-ma-een nang ma-boo-tee, ma-boo-hay nang sa-ga-na.",
+      "category": "Health",
+      "generated_at": "2026-06-27T18:07:10.909220"
+    },
+    {
+      "english": "Sleep soundly, wake refreshed.",
+      "filipino": "Matulog nang mahimbing, gising na masigla.",
+      "transliteration": "Ma-too-log nang ma-heem-beeng, gee-seeng na ma-see-gla.",
+      "category": "Health",
+      "generated_at": "2026-06-27T18:07:10.909222"
+    },
+    {
+      "english": "Move your body, feel alive.",
+      "filipino": "Galawin ang katawan, maramdaman ang buhay.",
+      "transliteration": "Ga-la-ween ang ka-ta-wan, ma-ram-da-man ang boo-hay.",
+      "category": "Health",
+      "generated_at": "2026-06-27T18:07:10.909223"
+    },
+    {
+      "english": "Hydrate often, stay energetic.",
+      "filipino": "Uminom ng madalas, manatiling masigla.",
+      "transliteration": "Oo-meenom nang ma-da-las, ma-na-tee-leeng ma-see-gla.",
+      "category": "Health",
+      "generated_at": "2026-06-27T18:07:10.909224"
     }
   ],
-  "last_updated": "2026-06-27T15:07:17.604524"
+  "last_updated": "2026-06-27T18:07:10.909226"
 }
