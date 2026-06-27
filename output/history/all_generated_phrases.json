@@ -1539,7 +1539,42 @@
       "transliteration": "Tu-ma-yo kang ma-ta-tag, lu-ma-ban.",
       "category": "Courage",
       "generated_at": "2026-06-24T21:28:47.692404"
+    },
+    {
+      "english": "This adobo, it's delicious.",
+      "filipino": "Masarap itong adobo.",
+      "transliteration": "Ma-sa-rap i-tong a-do-bo.",
+      "category": "Food",
+      "generated_at": "2026-06-27T03:39:03.505342"
+    },
+    {
+      "english": "Savor the sinigang, so sour.",
+      "filipino": "Tikman ang sinigang, maasim.",
+      "transliteration": "Tik-man ang si-ni-gang, ma-a-sim.",
+      "category": "Food",
+      "generated_at": "2026-06-27T03:39:03.505349"
+    },
+    {
+      "english": "Lechon, crispy skin, wow!",
+      "filipino": "Lechon, malutong balat, wow!",
+      "transliteration": "Le-chon, ma-lu-tong ba-lat, wow!",
+      "category": "Food",
+      "generated_at": "2026-06-27T03:39:03.505350"
+    },
+    {
+      "english": "Lumpia, fresh and tasty.",
+      "filipino": "Lumpia, sariwa at masarap.",
+      "transliteration": "Lum-pi-a, sa-ri-wa at ma-sa-rap.",
+      "category": "Food",
+      "generated_at": "2026-06-27T03:39:03.505352"
+    },
+    {
+      "english": "Halo-halo, a sweet treat.",
+      "filipino": "Halo-halo, isang matamis na sorbetes.",
+      "transliteration": "Ha-lo-ha-lo, i-sang ma-ta-mis na sor-be-tes.",
+      "category": "Food",
+      "generated_at": "2026-06-27T03:39:03.505353"
     }
   ],
-  "last_updated": "2026-06-24T21:28:47.692406"
+  "last_updated": "2026-06-27T03:39:03.505354"
 }
