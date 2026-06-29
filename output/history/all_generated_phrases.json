@@ -1959,7 +1959,42 @@
       "transliteration": "Ma-hi-nang pag-u-sad, ay pag-u-sad pa rin.",
       "category": "Patience",
       "generated_at": "2026-06-29T15:25:31.440852"
+    },
+    {
+      "english": "The cat, sleeps soundly.",
+      "filipino": "Ang pusa, tahimik na natutulog.",
+      "transliteration": "Ang poo-sah, tah-heem-eek nah nah-too-too-log.",
+      "category": "Animals",
+      "generated_at": "2026-06-29T16:49:12.090243"
+    },
+    {
+      "english": "Dog barks, at the mailman.",
+      "filipino": "Aso tumatahol, sa nagdadala ng sulat.",
+      "transliteration": "Ah-soh too-mah-tah-hol, sah nahg-dah-dah-lah nahng soo-laht.",
+      "category": "Animals",
+      "generated_at": "2026-06-29T16:49:12.090252"
+    },
+    {
+      "english": "Bird sings, a sweet melody.",
+      "filipino": "Ibon umaawit, ng matamis na himig.",
+      "transliteration": "Ee-bon oo-mah-ah-weet, nahng mah-tah-mees nah hee-meeg.",
+      "category": "Animals",
+      "generated_at": "2026-06-29T16:49:12.090254"
+    },
+    {
+      "english": "Fish swims, in the blue sea.",
+      "filipino": "Isda lumalangoy, sa dagat na bughaw.",
+      "transliteration": "Ees-dah loo-mah-lahng-oy, sah dah-gaht nah boog-how.",
+      "category": "Animals",
+      "generated_at": "2026-06-29T16:49:12.090256"
+    },
+    {
+      "english": "Lion roars, with great power.",
+      "filipino": "Leon umuugong, na may malaking lakas.",
+      "transliteration": "Leh-on oo-moo-oo-gong, nah mahy mah-lah-king lah-kahs.",
+      "category": "Animals",
+      "generated_at": "2026-06-29T16:49:12.090257"
     }
   ],
-  "last_updated": "2026-06-29T15:25:31.440854"
+  "last_updated": "2026-06-29T16:49:12.090259"
 }
