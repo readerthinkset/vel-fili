@@ -2099,7 +2099,42 @@
       "transliteration": "I-sang a-raw, ma-ka-ra-ting ka rin.",
       "category": "Perseverance",
       "generated_at": "2026-06-30T03:52:24.735857"
+    },
+    {
+      "english": "This view, wow, is amazing.",
+      "filipino": "Ang tanawin, wow, nakakamangha.",
+      "transliteration": "Ang tanawin, wow, na-ka-ma-mang-ha.",
+      "category": "Travel",
+      "generated_at": "2026-06-30T13:50:36.559586"
+    },
+    {
+      "english": "May I try this, please?",
+      "filipino": "Maaari ko bang subukan ito?",
+      "transliteration": "Ma-a-a-ri ko bang su-bu-kan i-to?",
+      "category": "Travel",
+      "generated_at": "2026-06-30T13:50:36.559594"
+    },
+    {
+      "english": "What is this called, again?",
+      "filipino": "Ano nga ulit ang tawag dito?",
+      "transliteration": "A-no nga u-lit ang ta-wag di-to?",
+      "category": "Travel",
+      "generated_at": "2026-06-30T13:50:36.559596"
+    },
+    {
+      "english": "A little bit, slower, please.",
+      "filipino": "Medyo dahan-dahan, po.",
+      "transliteration": "Me-dyo da-han-da-han, po.",
+      "category": "Travel",
+      "generated_at": "2026-06-30T13:50:36.559597"
+    },
+    {
+      "english": "This tastes, really, good.",
+      "filipino": "Masarap talaga, ito.",
+      "transliteration": "Ma-sa-rap ta-la-ga, i-to.",
+      "category": "Travel",
+      "generated_at": "2026-06-30T13:50:36.559602"
     }
   ],
-  "last_updated": "2026-06-30T03:52:24.735859"
+  "last_updated": "2026-06-30T13:50:36.559604"
 }
