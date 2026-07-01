@@ -2379,7 +2379,42 @@
       "transliteration": "Ang anak ko, ay may sakit.",
       "category": "Emergency",
       "generated_at": "2026-07-01T19:00:35.128020"
+    },
+    {
+      "english": "My compliments, to the kitchen.",
+      "filipino": "Batiin ninyo ang kusina.",
+      "transliteration": "Ba-teen nee-yo ang koo-see-na.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-01T21:40:54.225108"
+    },
+    {
+      "english": "This dish, is quite unique.",
+      "filipino": "Ang ulam na ito, kakaiba.",
+      "transliteration": "Ang oo-lam na ee-toh, ka-ka-ee-ba.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-01T21:40:54.225116"
+    },
+    {
+      "english": "May I have, a glass of water?",
+      "filipino": "Maaari bang humingi, ng tubig?",
+      "transliteration": "Ma-a-a-ree bang hoo-meen-ge, nang too-beeg?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-01T21:40:54.225118"
+    },
+    {
+      "english": "We're still deciding, thank you.",
+      "filipino": "Naga-isip pa kami, salamat.",
+      "transliteration": "Na-ga-ee-seep pa ka-mee, sa-la-mat.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-01T21:40:54.225119"
+    },
+    {
+      "english": "What's good, to share?",
+      "filipino": "Ano ang masarap, ipabahagi?",
+      "transliteration": "A-no ang ma-sa-rap, ee-pa-ba-ha-gee?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-01T21:40:54.225120"
     }
   ],
-  "last_updated": "2026-07-01T19:00:35.128022"
+  "last_updated": "2026-07-01T21:40:54.225122"
 }
