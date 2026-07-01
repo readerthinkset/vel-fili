@@ -2344,7 +2344,42 @@
       "transliteration": "Ma-hee-na-hong ee-seep, ta-hee-meek na poo-so.",
       "category": "Inner Peace",
       "generated_at": "2026-07-01T16:15:35.741937"
+    },
+    {
+      "english": "I need, immediate, assistance.",
+      "filipino": "Kailangan ko, ng tulong, agad.",
+      "transliteration": "Kailangan ko, ng tulong, agad.",
+      "category": "Emergency",
+      "generated_at": "2026-07-01T19:00:35.128008"
+    },
+    {
+      "english": "My arm, is broken.",
+      "filipino": "Ang braso ko, ay bali.",
+      "transliteration": "Ang braso ko, ay bali.",
+      "category": "Emergency",
+      "generated_at": "2026-07-01T19:00:35.128016"
+    },
+    {
+      "english": "Someone help, I'm hurt.",
+      "filipino": "May tumulong, ako'y nasaktan.",
+      "transliteration": "May tumulong, ako'y nasaktan.",
+      "category": "Emergency",
+      "generated_at": "2026-07-01T19:00:35.128018"
+    },
+    {
+      "english": "We need, an ambulance, quickly.",
+      "filipino": "Kailangan namin, ng ambulansya, mabilis.",
+      "transliteration": "Kailangan namin, ng ambulansya, mabilis.",
+      "category": "Emergency",
+      "generated_at": "2026-07-01T19:00:35.128019"
+    },
+    {
+      "english": "My child, is sick.",
+      "filipino": "Ang anak ko, ay may sakit.",
+      "transliteration": "Ang anak ko, ay may sakit.",
+      "category": "Emergency",
+      "generated_at": "2026-07-01T19:00:35.128020"
     }
   ],
-  "last_updated": "2026-07-01T16:15:35.741939"
+  "last_updated": "2026-07-01T19:00:35.128022"
 }
