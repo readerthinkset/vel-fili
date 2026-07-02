@@ -2484,7 +2484,42 @@
       "transliteration": "Pag-ha-lu-in ang ku-lay ng i-sip, gu-ma-wa ng o-bra ma-es-tra.",
       "category": "Creativity",
       "generated_at": "2026-07-02T13:25:23.156382"
+    },
+    {
+      "english": "Listen closely, then repeat.",
+      "filipino": "Makinig mabuti, saka ulitin.",
+      "transliteration": "Ma-ki-nig ma-bu-ti, sa-ka u-li-tin.",
+      "category": "Directions",
+      "generated_at": "2026-07-02T15:59:32.080383"
+    },
+    {
+      "english": "Speak slowly, with feeling.",
+      "filipino": "Magsalita ka nang dahan-dahan, may damdamin.",
+      "transliteration": "Mag-sa-li-ta ka nang da-han-da-han, ma-y dam-da-min.",
+      "category": "Directions",
+      "generated_at": "2026-07-02T15:59:32.080390"
+    },
+    {
+      "english": "Try to pronounce, clearly.",
+      "filipino": "Subukang bigkasin, nang malinaw.",
+      "transliteration": "Su-buk-ang big-ka-sin, nang ma-li-naw.",
+      "category": "Directions",
+      "generated_at": "2026-07-02T15:59:32.080392"
+    },
+    {
+      "english": "Understand the context, first.",
+      "filipino": "Unawain muna, ang konteksto.",
+      "transliteration": "U-na-wa-in mu-na, ang kon-tek-sto.",
+      "category": "Directions",
+      "generated_at": "2026-07-02T15:59:32.080393"
+    },
+    {
+      "english": "Ask questions, if unsure.",
+      "filipino": "Magtanong ka, kung 'di sigurado.",
+      "transliteration": "Mag-ta-nong ka, kung 'di si-gu-ra-do.",
+      "category": "Directions",
+      "generated_at": "2026-07-02T15:59:32.080394"
     }
   ],
-  "last_updated": "2026-07-02T13:25:23.156385"
+  "last_updated": "2026-07-02T15:59:32.080396"
 }
