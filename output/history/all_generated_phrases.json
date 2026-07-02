@@ -2554,7 +2554,42 @@
       "transliteration": "Tah-wah-nan nah-min, mah-sah-yah.",
       "category": "Family Terms",
       "generated_at": "2026-07-02T18:27:17.275947"
+    },
+    {
+      "english": "The sun shines, bright and warm.",
+      "filipino": "Araw, sumisikat, maliwanag at mainit.",
+      "transliteration": "Ah-raw, soo-mee-see-kaht, mah-lee-wah-nahg ah-t mah-ee-neet.",
+      "category": "Nature",
+      "generated_at": "2026-07-02T21:12:58.573674"
+    },
+    {
+      "english": "Green leaves, sway in the breeze.",
+      "filipino": "Luntiang dahon, humahampas sa hangin.",
+      "transliteration": "Loon-tee-ahng dah-hon, hoo-mah-hahm-pahs sah hah-ngin.",
+      "category": "Nature",
+      "generated_at": "2026-07-02T21:12:58.573683"
+    },
+    {
+      "english": "Listen to, the river flow.",
+      "filipino": "Makinig ka, sa agos ng ilog.",
+      "transliteration": "Mah-kee-neeg kah, sah ah-gohs nahng ee-log.",
+      "category": "Nature",
+      "generated_at": "2026-07-02T21:12:58.573685"
+    },
+    {
+      "english": "Birds sing, a sweet melody.",
+      "filipino": "Mga ibon, umaawit, kay tamis na himig.",
+      "transliteration": "Mee-gah ee-bon, oo-mah-ah-weet, kai tah-mees nah hee-meeg.",
+      "category": "Nature",
+      "generated_at": "2026-07-02T21:12:58.573686"
+    },
+    {
+      "english": "Stars twinkle, in the night sky.",
+      "filipino": "Mga bituin, kumikislap, sa langit sa gabi.",
+      "transliteration": "Mee-gah bee-too-in, koo-mee-kislahp, sah lah-ngit sah gah-bee.",
+      "category": "Nature",
+      "generated_at": "2026-07-02T21:12:58.573687"
     }
   ],
-  "last_updated": "2026-07-02T18:27:17.275949"
+  "last_updated": "2026-07-02T21:12:58.573689"
 }
