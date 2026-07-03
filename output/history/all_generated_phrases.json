@@ -2624,7 +2624,42 @@
       "transliteration": "Ha-ya-ANG lu-mi-LAD ang I-sip, TU-lad ng U-lap.",
       "category": "Mindfulness",
       "generated_at": "2026-07-03T03:28:39.136030"
+    },
+    {
+      "english": "Such a lovely, sunny day.",
+      "filipino": "Ang ganda, tirik ang araw.",
+      "transliteration": "Ang gan-da, ti-rik ang a-raw.",
+      "category": "Weather",
+      "generated_at": "2026-07-03T13:29:07.504982"
+    },
+    {
+      "english": "It's raining, stay inside.",
+      "filipino": "Umuulan, dito na lang.",
+      "transliteration": "U-mu-u-lan, di-to na lang.",
+      "category": "Weather",
+      "generated_at": "2026-07-03T13:29:07.504989"
+    },
+    {
+      "english": "Windy today, hold on tight.",
+      "filipino": "Mahangin ngayon, kapit lang.",
+      "transliteration": "Ma-han-gin nag-yon, ka-pit lang.",
+      "category": "Weather",
+      "generated_at": "2026-07-03T13:29:07.504991"
+    },
+    {
+      "english": "A bit cloudy, maybe rain.",
+      "filipino": "Medyo maulap, baka umulan.",
+      "transliteration": "Me-dyo ma-u-lap, ba-ka u-mu-lan.",
+      "category": "Weather",
+      "generated_at": "2026-07-03T13:29:07.504992"
+    },
+    {
+      "english": "Thunderstorm is coming, be safe.",
+      "filipino": "Parating ang kulog, mag-ingat.",
+      "transliteration": "Pa-ra-ting ang ku-log, mag-i-ngat.",
+      "category": "Weather",
+      "generated_at": "2026-07-03T13:29:07.504993"
     }
   ],
-  "last_updated": "2026-07-03T03:28:39.136032"
+  "last_updated": "2026-07-03T13:29:07.504995"
 }
