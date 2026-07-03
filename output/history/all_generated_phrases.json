@@ -2729,7 +2729,42 @@
       "transliteration": "Nag-pa-pa-sa-la-mat, ang a-king dee-wa.",
       "category": "Gratitude",
       "generated_at": "2026-07-03T18:14:57.540348"
+    },
+    {
+      "english": "Just one, maybe two.",
+      "filipino": "Isa lang, baka dalawa.",
+      "transliteration": "Isa lang, baka dalawa.",
+      "category": "Numbers",
+      "generated_at": "2026-07-03T21:11:39.125748"
+    },
+    {
+      "english": "Found four, not five.",
+      "filipino": "Nakahanap ng apat, hindi lima.",
+      "transliteration": "Nakahanap ng apat, hindi lima.",
+      "category": "Numbers",
+      "generated_at": "2026-07-03T21:11:39.125757"
+    },
+    {
+      "english": "Need nine, for the team.",
+      "filipino": "Kailangan ng siyam, para sa koponan.",
+      "transliteration": "Kailangan ng siyam, para sa koponan.",
+      "category": "Numbers",
+      "generated_at": "2026-07-03T21:11:39.125759"
+    },
+    {
+      "english": "Twelve months, make a year.",
+      "filipino": "Labindalawang buwan, bumubuo ng taon.",
+      "transliteration": "Labindalawang buwan, bumubuo ng taon.",
+      "category": "Numbers",
+      "generated_at": "2026-07-03T21:11:39.125760"
+    },
+    {
+      "english": "Twenty fingers, twenty toes.",
+      "filipino": "Dalawampung daliri, dalawampung paa.",
+      "transliteration": "Dalawampung daliri, dalawampung paa.",
+      "category": "Numbers",
+      "generated_at": "2026-07-03T21:11:39.125761"
     }
   ],
-  "last_updated": "2026-07-03T18:14:57.540350"
+  "last_updated": "2026-07-03T21:11:39.125763"
 }
