@@ -2939,7 +2939,42 @@
       "transliteration": "Ma-ki-nig nang hi-git, u-mu-na-wa nang lu-bos.",
       "category": "Growth",
       "generated_at": "2026-07-04T21:02:27.445371"
+    },
+    {
+      "english": "Just a moment, please.",
+      "filipino": "Sandali lang, po.",
+      "transliteration": "San-da-li lang, poh.",
+      "category": "Time",
+      "generated_at": "2026-07-05T03:37:24.566188"
+    },
+    {
+      "english": "In a little while, okay?",
+      "filipino": "Maya-maya lang, ha?",
+      "transliteration": "Ma-ya-ma-ya lang, ha?",
+      "category": "Time",
+      "generated_at": "2026-07-05T03:37:24.566196"
+    },
+    {
+      "english": "When the time comes...",
+      "filipino": "Pagdating ng panahon...",
+      "transliteration": "Pag-da-ting ng pa-na-hon...",
+      "category": "Time",
+      "generated_at": "2026-07-05T03:37:24.566197"
+    },
+    {
+      "english": "Before you know it...",
+      "filipino": "Bago mo mapansin...",
+      "transliteration": "Ba-go mo map-pa-tin...",
+      "category": "Time",
+      "generated_at": "2026-07-05T03:37:24.566199"
+    },
+    {
+      "english": "The moment is here.",
+      "filipino": "Narito na ang sandali.",
+      "transliteration": "Na-ri-to na ang san-da-li.",
+      "category": "Time",
+      "generated_at": "2026-07-05T03:37:24.566200"
     }
   ],
-  "last_updated": "2026-07-04T21:02:27.445373"
+  "last_updated": "2026-07-05T03:37:24.566202"
 }
