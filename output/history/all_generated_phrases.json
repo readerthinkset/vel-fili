@@ -3149,7 +3149,42 @@
       "transliteration": "Ang tug-tog, a-y bu-hay, na bu-hay.",
       "category": "Travel",
       "generated_at": "2026-07-06T03:44:47.314342"
+    },
+    {
+      "english": "Let's eat, okay?",
+      "filipino": "Kain tayo, ha?",
+      "transliteration": "Kai-n ta-yo, ha?",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-06T14:51:47.944113"
+    },
+    {
+      "english": "Here is some water.",
+      "filipino": "Heto, tubig.",
+      "transliteration": "He-to, tu-big.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-06T14:51:47.944122"
+    },
+    {
+      "english": "That is delicious.",
+      "filipino": "Masarap 'yan.",
+      "transliteration": "Ma-sa-rap 'yan.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-06T14:51:47.944123"
+    },
+    {
+      "english": "See you later, friend.",
+      "filipino": "Kita tayo mamaya.",
+      "transliteration": "Ki-ta ta-yo ma-ma-ya.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-06T14:51:47.944125"
+    },
+    {
+      "english": "Where are we going?",
+      "filipino": "Saan tayo pupunta?",
+      "transliteration": "Sa-an ta-yo pu-pun-ta?",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-06T14:51:47.944126"
     }
   ],
-  "last_updated": "2026-07-06T03:44:47.314343"
+  "last_updated": "2026-07-06T14:51:47.944128"
 }
