@@ -3359,7 +3359,42 @@
       "transliteration": "Ya-ka-pin ang in-dyo-g, ng pa-na-na-li-ta.",
       "category": "Purpose",
       "generated_at": "2026-07-07T14:01:29.292674"
+    },
+    {
+      "english": "This sweet mango, so ripe.",
+      "filipino": "Ang matamis na mangga, hinog na.",
+      "transliteration": "Ang ma-ta-mees na man-ga, hi-nog na.",
+      "category": "Food",
+      "generated_at": "2026-07-07T21:27:54.671839"
+    },
+    {
+      "english": "A bite of this pastillas.",
+      "filipino": "Isang kagat nitong pastillas.",
+      "transliteration": "I-sang ka-gat ni-tong pas-ti-yas.",
+      "category": "Food",
+      "generated_at": "2026-07-07T21:27:54.671846"
+    },
+    {
+      "english": "So creamy, this leche flan.",
+      "filipino": "Malapot, itong leche flan.",
+      "transliteration": "Ma-la-pot, i-tong le-che flan.",
+      "category": "Food",
+      "generated_at": "2026-07-07T21:27:54.671848"
+    },
+    {
+      "english": "A little spicy, this sisig.",
+      "filipino": "Medyo anghang, itong sisig.",
+      "transliteration": "Med-yo an-ghang, i-tong si-sig.",
+      "category": "Food",
+      "generated_at": "2026-07-07T21:27:54.671849"
+    },
+    {
+      "english": "Warm pandesal, fresh from oven.",
+      "filipino": "Mainit na pandesal, bagong luto.",
+      "transliteration": "Ma-i-nit na pan-de-sal, ba-gong lu-to.",
+      "category": "Food",
+      "generated_at": "2026-07-07T21:27:54.671850"
     }
   ],
-  "last_updated": "2026-07-07T14:01:29.292675"
+  "last_updated": "2026-07-07T21:27:54.671851"
 }
