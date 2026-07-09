@@ -3709,7 +3709,42 @@
       "transliteration": "Medyo inis, talaga.",
       "category": "Feelings",
       "generated_at": "2026-07-09T18:51:42.943373"
+    },
+    {
+      "english": "Danger near, move back.",
+      "filipino": "Mapanganib dito, umalis kayo.",
+      "transliteration": "Ma-pa-nga-ni-b di-to, u-ma-lis ka-yo.",
+      "category": "Emergency",
+      "generated_at": "2026-07-09T21:26:30.425062"
+    },
+    {
+      "english": "Someone fell, over here.",
+      "filipino": "May nahulog, dito po.",
+      "transliteration": "May na-hu-log, di-to po.",
+      "category": "Emergency",
+      "generated_at": "2026-07-09T21:26:30.425073"
+    },
+    {
+      "english": "I think, I'm choking.",
+      "filipino": "Tingin ko, nahihirapan akong huminga.",
+      "transliteration": "Ti-ngin ko, na-hi-hi-ra-pan a-kong hu-mi-nga.",
+      "category": "Emergency",
+      "generated_at": "2026-07-09T21:26:30.425075"
+    },
+    {
+      "english": "My head hurts, badly.",
+      "filipino": "Masakit talaga, ulo ko.",
+      "transliteration": "Ma-sa-kit ta-la-ga, u-lo ko.",
+      "category": "Emergency",
+      "generated_at": "2026-07-09T21:26:30.425076"
+    },
+    {
+      "english": "Need water, right now.",
+      "filipino": "Kailangan ko, ng tubig, agad.",
+      "transliteration": "Ka-i-la-nga-n ko, ng tu-big, a-gad.",
+      "category": "Emergency",
+      "generated_at": "2026-07-09T21:26:30.425077"
     }
   ],
-  "last_updated": "2026-07-09T18:51:42.943375"
+  "last_updated": "2026-07-09T21:26:30.425079"
 }
