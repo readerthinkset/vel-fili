@@ -3744,7 +3744,42 @@
       "transliteration": "Ka-i-la-nga-n ko, ng tu-big, a-gad.",
       "category": "Emergency",
       "generated_at": "2026-07-09T21:26:30.425077"
+    },
+    {
+      "english": "Let's try this, together.",
+      "filipino": "Subukan natin 'to, nang magkasama.",
+      "transliteration": "Sub-khan ha-tin 'toh, nang mag-ka-sa-ma.",
+      "category": "Directions",
+      "generated_at": "2026-07-10T03:32:31.896856"
+    },
+    {
+      "english": "Say it again, please.",
+      "filipino": "Ulitin mo nga, pakiusap.",
+      "transliteration": "Oo-lee-tin mo nga, pa-kee-oo-sap.",
+      "category": "Directions",
+      "generated_at": "2026-07-10T03:32:31.896868"
+    },
+    {
+      "english": "Think about this, first.",
+      "filipino": "Pag-isipan mo muna, ito.",
+      "transliteration": "Pag-ee-see-pan mo moo-na, ee-toh.",
+      "category": "Directions",
+      "generated_at": "2026-07-10T03:32:31.896869"
+    },
+    {
+      "english": "Focus here, now.",
+      "filipino": "Itutok mo rito, ngayon.",
+      "transliteration": "Ee-too-tok mo ree-toh, nga-yon.",
+      "category": "Directions",
+      "generated_at": "2026-07-10T03:32:31.896870"
+    },
+    {
+      "english": "Open your book, then.",
+      "filipino": "Buksan mo ang libro, tapos.",
+      "transliteration": "Boo-ksan mo ang lee-broh, ta-pos.",
+      "category": "Directions",
+      "generated_at": "2026-07-10T03:32:31.896871"
     }
   ],
-  "last_updated": "2026-07-09T21:26:30.425079"
+  "last_updated": "2026-07-10T03:32:31.896873"
 }
