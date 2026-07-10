@@ -3779,7 +3779,42 @@
       "transliteration": "Boo-ksan mo ang lee-broh, ta-pos.",
       "category": "Directions",
       "generated_at": "2026-07-10T03:32:31.896871"
+    },
+    {
+      "english": "Something light, perhaps?",
+      "filipino": "Mayroon bang magaan?",
+      "transliteration": "May-roon bang ma-ga-an?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-10T13:51:10.246557"
+    },
+    {
+      "english": "Just a small bite, for now.",
+      "filipino": "Sandali lang, may kagat.",
+      "transliteration": "San-da-li lang, may ka-gat.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-10T13:51:10.246566"
+    },
+    {
+      "english": "What's fresh, today?",
+      "filipino": "Ano ang sariwa, ngayon?",
+      "transliteration": "A-no ang sa-ri-wa, nag-yon?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-10T13:51:10.246568"
+    },
+    {
+      "english": "I'm feeling adventurous, tonight.",
+      "filipino": "Gusto ko ng kakaiba, ngayong gabi.",
+      "transliteration": "Gus-to ko nang ka-ka-i-ba, nga-yong ga-bi.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-10T13:51:10.246569"
+    },
+    {
+      "english": "How is this prepared?",
+      "filipino": "Paano nila niluto 'to?",
+      "transliteration": "Pa-a-no ni-la ni-lu-to toh?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-10T13:51:10.246570"
     }
   ],
-  "last_updated": "2026-07-10T03:32:31.896873"
+  "last_updated": "2026-07-10T13:51:10.246572"
 }
