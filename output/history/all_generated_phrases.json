@@ -4234,7 +4234,42 @@
       "transliteration": "Ang pag-la-la-ba-y na ee-toh, ma-ra-ming lee-koh.",
       "category": "Patience",
       "generated_at": "2026-07-12T18:01:02.495274"
+    },
+    {
+      "english": "Sky's clear, perfect for a walk.",
+      "filipino": "Maliwanag ang langit, tamang-tama sa lakad.",
+      "transliteration": "Ma-li-wa-nang ang la-ngit, ta-mang-ta-ma sa lak-ad.",
+      "category": "Weather",
+      "generated_at": "2026-07-12T20:55:17.395959"
+    },
+    {
+      "english": "Gentle breeze, feels so good.",
+      "filipino": "Mahinahon ang hangin, masarap sa pakiramdam.",
+      "transliteration": "Ma-hi-na-hon ang ha-ngin, ma-sa-rap sa pa-ki-ram-dam.",
+      "category": "Weather",
+      "generated_at": "2026-07-12T20:55:17.395969"
+    },
+    {
+      "english": "Sun peaking through, nice warmth.",
+      "filipino": "Sumisilip ang araw, may tamang init.",
+      "transliteration": "Su-mi-si-lip ang a-raw, ma-y ta-mang i-nit.",
+      "category": "Weather",
+      "generated_at": "2026-07-12T20:55:17.395970"
+    },
+    {
+      "english": "Light shower, fresh air now.",
+      "filipino": "Bahagyang ambon, sariwa na ang hangin.",
+      "transliteration": "Ba-hag-yang am-bon, sa-ri-wa na ang ha-ngin.",
+      "category": "Weather",
+      "generated_at": "2026-07-12T20:55:17.395971"
+    },
+    {
+      "english": "Sky's a bit gray, still okay.",
+      "filipino": "Medyo maulap, ayos pa rin naman.",
+      "transliteration": "Med-yo ma-u-lap, a-yos pa rin na-man.",
+      "category": "Weather",
+      "generated_at": "2026-07-12T20:55:17.395972"
     }
   ],
-  "last_updated": "2026-07-12T18:01:02.495276"
+  "last_updated": "2026-07-12T20:55:17.395973"
 }
