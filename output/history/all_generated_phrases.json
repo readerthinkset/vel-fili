@@ -4899,7 +4899,42 @@
       "transliteration": "Hu-wag ma-ta-kot, sa di-ki-la-la.",
       "category": "Perseverance",
       "generated_at": "2026-07-16T18:09:49.277663"
+    },
+    {
+      "english": "My bag, it's missing.",
+      "filipino": "Nawala 'yung bag ko.",
+      "transliteration": "Na-wah-lah yoong bag koh.",
+      "category": "Emergency",
+      "generated_at": "2026-07-17T02:47:11.320469"
+    },
+    {
+      "english": "I feel dizzy, suddenly.",
+      "filipino": "Nahihilo ako, bigla.",
+      "transliteration": "Nah-hee-hee-loh ah-koh, bee-gla.",
+      "category": "Emergency",
+      "generated_at": "2026-07-17T02:47:11.320478"
+    },
+    {
+      "english": "This is urgent, please.",
+      "filipino": "Kailangan talaga 'to, pakiusap.",
+      "transliteration": "Kah-ee-lah-ngan tah-lah-gah toh, pah-kee-oos-ap.",
+      "category": "Emergency",
+      "generated_at": "2026-07-17T02:47:11.320480"
+    },
+    {
+      "english": "My phone, no signal.",
+      "filipino": "Walang signal, cellphone ko.",
+      "transliteration": "Wah-lang sig-nal, sel-fohn koh.",
+      "category": "Emergency",
+      "generated_at": "2026-07-17T02:47:11.320481"
+    },
+    {
+      "english": "I need a quiet place.",
+      "filipino": "Gusto ko ng tahimik na lugar.",
+      "transliteration": "Goos-toh koh nang tah-hee-meek nah loo-gar.",
+      "category": "Emergency",
+      "generated_at": "2026-07-17T02:47:11.320482"
     }
   ],
-  "last_updated": "2026-07-16T18:09:49.277664"
+  "last_updated": "2026-07-17T02:47:11.320484"
 }
