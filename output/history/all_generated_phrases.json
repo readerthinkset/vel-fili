@@ -5074,7 +5074,42 @@
       "transliteration": "Ma-sa-ya na-ting bi-big, ku-ma-kan-ta. Kan-ta, kan-ta.",
       "category": "Body Parts",
       "generated_at": "2026-07-18T02:38:46.361620"
+    },
+    {
+      "english": "Every tick, every tock.",
+      "filipino": "Bawat segundo, bawat minuto.",
+      "transliteration": "Bawat sek-un-do, bawat mi-nu-to.",
+      "category": "Time",
+      "generated_at": "2026-07-18T12:44:01.041869"
+    },
+    {
+      "english": "Soon, my friend.",
+      "filipino": "Malapit na, kaibigan.",
+      "transliteration": "Ma-la-pit na, ka-i-bi-gan.",
+      "category": "Time",
+      "generated_at": "2026-07-18T12:44:01.041878"
+    },
+    {
+      "english": "Right on time, perfect.",
+      "filipino": "Tamang-tama, perpekto.",
+      "transliteration": "Ta-mang-ta-ma, per-fek-to.",
+      "category": "Time",
+      "generated_at": "2026-07-18T12:44:01.041880"
+    },
+    {
+      "english": "Yesterday's dream, today's reality.",
+      "filipino": "Pangarap kahapon, katotohanan ngayon.",
+      "transliteration": "Pa-nga-rap ka-hap-on, ka-to-to-ha-nan ng-yon.",
+      "category": "Time",
+      "generated_at": "2026-07-18T12:44:01.041881"
+    },
+    {
+      "english": "The clock is ticking, fast.",
+      "filipino": "Umiikot ang orasan, mabilis.",
+      "transliteration": "U-mi-i-kot ang o-ra-san, ma-bi-lis.",
+      "category": "Time",
+      "generated_at": "2026-07-18T12:44:01.041882"
     }
   ],
-  "last_updated": "2026-07-18T02:38:46.361622"
+  "last_updated": "2026-07-18T12:44:01.041884"
 }
