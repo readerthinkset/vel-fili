@@ -5179,7 +5179,42 @@
       "transliteration": "su-buk-ang bi-gka-sin, u-lit",
       "category": "Success",
       "generated_at": "2026-07-18T17:57:03.884768"
+    },
+    {
+      "english": "A taste of home, this rice.",
+      "filipino": "Lasap ng tahanan, itong kanin.",
+      "transliteration": "La-sap ng ta-ha-nan, i-tong ka-nin.",
+      "category": "Food",
+      "generated_at": "2026-07-18T20:54:13.461684"
+    },
+    {
+      "english": "So refreshing, this buko juice.",
+      "filipino": "Nakakaginhawa, itong sabaw ng niyog.",
+      "transliteration": "Na-ka-ka-gi-ni-ha-wa, i-tong sa-baw ng ni-yog.",
+      "category": "Food",
+      "generated_at": "2026-07-18T20:54:13.461693"
+    },
+    {
+      "english": "Fragrant garlic, frying now.",
+      "filipino": "Mabango ang bawang, nagigisa.",
+      "transliteration": "Ma-ba-ngo ang ba-wang, nag-gi-gi-sa.",
+      "category": "Food",
+      "generated_at": "2026-07-18T20:54:13.461695"
+    },
+    {
+      "english": "Spicy pancit, my favorite.",
+      "filipino": "Maanghang na pancit, paborito ko.",
+      "transliteration": "Ma-a-nghang na pan-chit, pa-bo-ri-to ko.",
+      "category": "Food",
+      "generated_at": "2026-07-18T20:54:13.461696"
+    },
+    {
+      "english": "Sweet guava, a healthy snack.",
+      "filipino": "Matamis na bayabas, masustansyang meryenda.",
+      "transliteration": "Ma-ta-mis na ba-ya-bas, ma-sus-tan-syang me-ryen-da.",
+      "category": "Food",
+      "generated_at": "2026-07-18T20:54:13.461698"
     }
   ],
-  "last_updated": "2026-07-18T17:57:03.884770"
+  "last_updated": "2026-07-18T20:54:13.461699"
 }
