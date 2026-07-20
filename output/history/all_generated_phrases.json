@@ -5389,7 +5389,42 @@
       "transliteration": "A-nong mga ba-li-ta nga-yon?",
       "category": "Common Expressions",
       "generated_at": "2026-07-19T20:55:09.782960"
+    },
+    {
+      "english": "The owl, hoots softly, in the dark.",
+      "filipino": "Ang kuwago, tahimik humuhuni, sa dilim.",
+      "transliteration": "Ang ku-wa-go, ta-hi-mik hu-hu-ni, sa di-lim.",
+      "category": "Animals",
+      "generated_at": "2026-07-20T03:22:20.089499"
+    },
+    {
+      "english": "A playful otter, dives deep, then surfaces.",
+      "filipino": "Ang masiglang otser, malalim lumusong, saka sumulpot.",
+      "transliteration": "Ang ma-si-glang ot-ser, ma-la-lim lu-mu-song, sa-ka su-mul-pot.",
+      "category": "Animals",
+      "generated_at": "2026-07-20T03:22:20.089509"
+    },
+    {
+      "english": "The proud peacock, unfurls its feathers, so bright.",
+      "filipino": "Ang mayabang na pakong, binuklat ang balahibo, napakakintab.",
+      "transliteration": "Ang ma-ya-bang na pa-kong, bi-nuk-lat ang ba-la-hi-bo, na-pa-ka-kin-tab.",
+      "category": "Animals",
+      "generated_at": "2026-07-20T03:22:20.089511"
+    },
+    {
+      "english": "A graceful swan, glides across, the quiet lake.",
+      "filipino": "Ang magandang sisne, dahan-dahang umaagos, sa tahimik na lawa.",
+      "transliteration": "Ang ma-ga-dang sis-ne, da-han-da-han u-ma-a-gos, sa ta-hi-mik na la-wa.",
+      "category": "Animals",
+      "generated_at": "2026-07-20T03:22:20.089512"
+    },
+    {
+      "english": "The lumbering bear, searches for berries, on the hill.",
+      "filipino": "Ang mabigat na oso, naghahanap ng mga berry, sa burol.",
+      "transliteration": "Ang ma-bi-gat na o-so, nag-ha-ha-nap ng ma-ga berry, sa bu-rol.",
+      "category": "Animals",
+      "generated_at": "2026-07-20T03:22:20.089513"
     }
   ],
-  "last_updated": "2026-07-19T20:55:09.782961"
+  "last_updated": "2026-07-20T03:22:20.089514"
 }
