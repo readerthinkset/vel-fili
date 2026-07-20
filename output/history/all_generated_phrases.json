@@ -5529,7 +5529,42 @@
       "transliteration": "Pah-ngah-rahp nah-moo-moo-kahd-kahd, sah lee-wah-nahg.",
       "category": "Hope",
       "generated_at": "2026-07-20T18:54:29.015332"
+    },
+    {
+      "english": "Say this word, out loud.",
+      "filipino": "Sabihin itong salita, nang malakas.",
+      "transliteration": "Sabihin itong salita, nang malakas.",
+      "category": "Directions",
+      "generated_at": "2026-07-20T21:15:13.580163"
+    },
+    {
+      "english": "Let's begin, with this.",
+      "filipino": "Magsimula tayo, dito.",
+      "transliteration": "Magsimula tayo, dito.",
+      "category": "Directions",
+      "generated_at": "2026-07-20T21:15:13.580174"
+    },
+    {
+      "english": "Mimic the sound, precisely.",
+      "filipino": "Gayahin ang tunog, eksakto.",
+      "transliteration": "Gayahin ang tunog, eksakto.",
+      "category": "Directions",
+      "generated_at": "2026-07-20T21:15:13.580176"
+    },
+    {
+      "english": "Try to feel, the meaning.",
+      "filipino": "Subukang damhin, ang kahulugan.",
+      "transliteration": "Subukang damhin, ang kahulugan.",
+      "category": "Directions",
+      "generated_at": "2026-07-20T21:15:13.580177"
+    },
+    {
+      "english": "Repeat after me, slowly.",
+      "filipino": "Ulitin mo, pagkatapos ko, dahan-dahan.",
+      "transliteration": "Ulitin mo, pagkatapos ko, dahan-dahan.",
+      "category": "Directions",
+      "generated_at": "2026-07-20T21:15:13.580179"
     }
   ],
-  "last_updated": "2026-07-20T18:54:29.015334"
+  "last_updated": "2026-07-20T21:15:13.580180"
 }
