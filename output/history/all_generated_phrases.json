@@ -5669,7 +5669,42 @@
       "transliteration": "Nag-pa-pa-da-la ng ngi-ti, sa i-yong di-rek-syon.",
       "category": "Greetings",
       "generated_at": "2026-07-21T18:17:06.939667"
+    },
+    {
+      "english": "Sky's blushing, sunset's near.",
+      "filipino": "Pula ang langit, malapit na ang takipsilim.",
+      "transliteration": "Pu-la ang la-ngit, ma-la-pit na ang tak-ip-sil-im.",
+      "category": "Weather",
+      "generated_at": "2026-07-21T21:14:31.320381"
+    },
+    {
+      "english": "Air's crisp, feels so new.",
+      "filipino": "Malinaw ang hangin, sariwa ang pakiramdam.",
+      "transliteration": "Ma-li-nao ang ha-ngin, sa-ri-wa ang pak-i-ram-dam.",
+      "category": "Weather",
+      "generated_at": "2026-07-21T21:14:31.320393"
+    },
+    {
+      "english": "Heat's intense, find some shade.",
+      "filipino": "Mainit talaga, humanap ng lilim.",
+      "transliteration": "Ma-i-nit ta-la-ga, hu-ma-nap ng li-lim.",
+      "category": "Weather",
+      "generated_at": "2026-07-21T21:14:31.320394"
+    },
+    {
+      "english": "Clouds are racing, what a sight.",
+      "filipino": "Nag-uunahan ang mga ulap, ang ganda tingnan.",
+      "transliteration": "Nag-u-u-na-han ang ma-ga ul-ap, ang gan-da ting-nan.",
+      "category": "Weather",
+      "generated_at": "2026-07-21T21:14:31.320396"
+    },
+    {
+      "english": "Dewdrops glisten, morning's peace.",
+      "filipino": "Mamamanglaw ang hamog, payapa ang umaga.",
+      "transliteration": "Ma-ma-ma-nglaw ang ha-mog, pa-ya-pa ang u-ma-ga.",
+      "category": "Weather",
+      "generated_at": "2026-07-21T21:14:31.320397"
     }
   ],
-  "last_updated": "2026-07-21T18:17:06.939668"
+  "last_updated": "2026-07-21T21:14:31.320399"
 }
