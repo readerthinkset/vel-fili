@@ -5564,7 +5564,42 @@
       "transliteration": "Ulitin mo, pagkatapos ko, dahan-dahan.",
       "category": "Directions",
       "generated_at": "2026-07-20T21:15:13.580179"
+    },
+    {
+      "english": "Morning dew, glistens on grass.",
+      "filipino": "Hamog sa umaga, kumikinang sa damo.",
+      "transliteration": "Hamog sa oo-mah-ga, koo-mee-nee-nang sa dah-moh.",
+      "category": "Nature",
+      "generated_at": "2026-07-21T02:50:43.649882"
+    },
+    {
+      "english": "Clouds drift, lazy and white.",
+      "filipino": "Mga ulap, tahimik na lumilipad.",
+      "transliteration": "Mah-gah oo-lahp, tah-hee-mik nah loo-mee-lee-pahd.",
+      "category": "Nature",
+      "generated_at": "2026-07-21T02:50:43.649895"
+    },
+    {
+      "english": "Wind blows, carrying scents.",
+      "filipino": "Hangin ay umiihip, dala ang amoy.",
+      "transliteration": "Hang-in ah-ee oo-mee-ee-hip, dah-lah ang ah-moy.",
+      "category": "Nature",
+      "generated_at": "2026-07-21T02:50:43.649896"
+    },
+    {
+      "english": "A lone tree, stands strong.",
+      "filipino": "Isang puno, matatag na nakatayo.",
+      "transliteration": "Ee-sahng poo-noh, mah-tah-tahg nah nah-kah-tah-yo.",
+      "category": "Nature",
+      "generated_at": "2026-07-21T02:50:43.649896"
+    },
+    {
+      "english": "The earth breathes, after rain.",
+      "filipino": "Lupa ay humihinga, pagkatapos ng ulan.",
+      "transliteration": "Loo-pah ah-ee hoo-mee-hee-ngah, pah-gah-tah-pos nahng oo-lahn.",
+      "category": "Nature",
+      "generated_at": "2026-07-21T02:50:43.649897"
     }
   ],
-  "last_updated": "2026-07-20T21:15:13.580180"
+  "last_updated": "2026-07-21T02:50:43.649898"
 }
