@@ -5809,7 +5809,42 @@
       "transliteration": "Po-si-ble mo'y wan-lang hang-gan, ku-mi-nang.",
       "category": "Confidence",
       "generated_at": "2026-07-22T15:26:36.618495"
+    },
+    {
+      "english": "Explore virtual worlds, discover wonders.",
+      "filipino": "Galugarin ang mga virtual na mundo, tuklasin ang hiwaga.",
+      "transliteration": "Ga-lu-ga-rin ang mga vir-tu-al na mun-do, tuk-la-sin ang hi-wa-ga.",
+      "category": "Technology",
+      "generated_at": "2026-07-22T18:11:04.636672"
+    },
+    {
+      "english": "Code a program, build something new.",
+      "filipino": "Mag-code ng programa, bumuo ng bago.",
+      "transliteration": "Mag-code ng pro-gra-ma, bu-mo-wo ng ba-go.",
+      "category": "Technology",
+      "generated_at": "2026-07-22T18:11:04.636683"
+    },
+    {
+      "english": "Stream a movie, relax tonight.",
+      "filipino": "Manood ng pelikula, magpahinga ngayong gabi.",
+      "transliteration": "Ma-no-od ng pe-li-ku-la, mag-pa-hin-ga ng-a-yong ga-bi.",
+      "category": "Technology",
+      "generated_at": "2026-07-22T18:11:04.636684"
+    },
+    {
+      "english": "Upgrade your system, boost its speed.",
+      "filipino": "I-upgrade ang sistema, pabilisin ito.",
+      "transliteration": "I-ug-greyd ang sis-te-ma, pa-bi-li-sin i-to.",
+      "category": "Technology",
+      "generated_at": "2026-07-22T18:11:04.636685"
+    },
+    {
+      "english": "Chat with friends, near and far.",
+      "filipino": "Makipag-chat sa mga kaibigan, malapit at malayo.",
+      "transliteration": "Ma-ki-pag-chat sa mga ka-i-bi-gan, ma-la-pit at ma-la-yo.",
+      "category": "Technology",
+      "generated_at": "2026-07-22T18:11:04.636685"
     }
   ],
-  "last_updated": "2026-07-22T15:26:36.618497"
+  "last_updated": "2026-07-22T18:11:04.636687"
 }
