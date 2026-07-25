@@ -6299,7 +6299,42 @@
       "transliteration": "Ang i-yong la-kas sa lo-ob, i-yan ang gu-ma-ga-bay.",
       "category": "Inner Peace",
       "generated_at": "2026-07-25T14:54:42.774731"
+    },
+    {
+      "english": "Sun is bright, let’s play.",
+      "filipino": "Araw ay mainit, maglaro tayo.",
+      "transliteration": "Ah-rahw ah-ee mah-ee-neet, mahg-lah-roh tah-yo.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-25T17:59:49.381196"
+    },
+    {
+      "english": "Sky is blue, clouds drift.",
+      "filipino": "Langit ay bughaw, ulap lumilipad.",
+      "transliteration": "Lah-ngeet ah-ee boo-ghahw, oo-lahp loo-mee-lee-pahd.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-25T17:59:49.381206"
+    },
+    {
+      "english": "Rain is falling, stay inside.",
+      "filipino": "Ulan ay bumuhos, manatili sa loob.",
+      "transliteration": "Oo-lahn ah-ee boo-hoo-hos, mah-nah-tee-lee sah lohb.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-25T17:59:49.381208"
+    },
+    {
+      "english": "Wind is blowing, trees sway.",
+      "filipino": "Hangin ay umiihip, puno yumuyugyog.",
+      "transliteration": "Hah-ngeen ah-ee oo-mee-ee-hip, poo-noh yoo-moo-yoog-yog.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-25T17:59:49.381209"
+    },
+    {
+      "english": "Dog is barking, what is it?",
+      "filipino": "Aso ay tahol, ano iyon?",
+      "transliteration": "Ah-soh ah-ee tah-hol, ah-noh ee-yon?",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-25T17:59:49.381210"
     }
   ],
-  "last_updated": "2026-07-25T14:54:42.774732"
+  "last_updated": "2026-07-25T17:59:49.381212"
 }
