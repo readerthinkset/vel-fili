@@ -6754,7 +6754,42 @@
       "transliteration": "Balak sa bukas, bulungan, puno ng pag-asa. Para sa atin.",
       "category": "Relationships",
       "generated_at": "2026-07-29T15:44:24.490171"
+    },
+    {
+      "english": "Chameleon blends, perfectly unseen.",
+      "filipino": "Itik-itik, nagtatago, makulay.",
+      "transliteration": "Itik-itik, nag-ta-ta-go, ma-ku-lay.",
+      "category": "Animals",
+      "generated_at": "2026-07-29T21:00:30.983156"
+    },
+    {
+      "english": "Galloping horse, kicks up dust.",
+      "filipino": "Kabayo, tumatakbo, nagbubuga. ng alikabok.",
+      "transliteration": "Ka-ba-yo, tu-ma-tak-bo, nag-bu-bu-ga ng a-li-ka-bok.",
+      "category": "Animals",
+      "generated_at": "2026-07-29T21:00:30.983167"
+    },
+    {
+      "english": "Snoozing pig, in the mud.",
+      "filipino": "Babi, natutulog, sa putikan.",
+      "transliteration": "Ba-bi, na-tu-tu-log, sa pu-ti-kan.",
+      "category": "Animals",
+      "generated_at": "2026-07-29T21:00:30.983168"
+    },
+    {
+      "english": "Hissing snake, slithers low.",
+      "filipino": "Ahas, dumadamba, banayad.",
+      "transliteration": "A-has, du-ma-dam-ba, ba-na-yad.",
+      "category": "Animals",
+      "generated_at": "2026-07-29T21:00:30.983169"
+    },
+    {
+      "english": "Fluttering butterfly, sips nectar.",
+      "filipino": "Paru-paro, lumilipad, sumisipsip.",
+      "transliteration": "Pa-ru-pa-ro, lu-mi-li-pad, su-mi-sip-sip.",
+      "category": "Animals",
+      "generated_at": "2026-07-29T21:00:30.983169"
     }
   ],
-  "last_updated": "2026-07-29T15:44:24.490172"
+  "last_updated": "2026-07-29T21:00:30.983171"
 }
