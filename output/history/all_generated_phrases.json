@@ -6894,7 +6894,42 @@
       "transliteration": "Mga pin-san, sa-bay lu-ma-ki.",
       "category": "Family Terms",
       "generated_at": "2026-07-30T15:46:09.660020"
+    },
+    {
+      "english": "So, you're here.",
+      "filipino": "Ay, nandito ka pala.",
+      "transliteration": "Ay, nan-dee-toe ka pa-la.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-30T18:19:08.663262"
+    },
+    {
+      "english": "What's the plan, friend?",
+      "filipino": "Anong plano, kaibigan?",
+      "transliteration": "A-nong pla-no, ka-ee-bee-gan?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-30T18:19:08.663283"
+    },
+    {
+      "english": "This is, quite interesting.",
+      "filipino": "Ito, ay kakaiba talaga.",
+      "transliteration": "Ee-toe, ay ka-ka-ee-ba ta-la-ga.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-30T18:19:08.663284"
+    },
+    {
+      "english": "Let me try, this one.",
+      "filipino": "Subukan ko, itong isa.",
+      "transliteration": "Soo-boo-kan ko, ee-tong ee-sa.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-30T18:19:08.663285"
+    },
+    {
+      "english": "It feels, like home.",
+      "filipino": "Parang, sariling tahanan.",
+      "transliteration": "Pa-rang, sa-ree-ling ta-ha-nan.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-30T18:19:08.663286"
     }
   ],
-  "last_updated": "2026-07-30T15:46:09.660022"
+  "last_updated": "2026-07-30T18:19:08.663288"
 }
