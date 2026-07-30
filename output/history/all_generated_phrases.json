@@ -6824,7 +6824,42 @@
       "transliteration": "Punuin tayo, ng kapayapaan.",
       "category": "Forgiveness",
       "generated_at": "2026-07-30T02:32:07.327507"
+    },
+    {
+      "english": "Excuse me, what's to eat?",
+      "filipino": "Mawalang-galang, ano po ang kakainin?",
+      "transliteration": "Mawalang-galang, ano po ang kakainin?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-30T13:21:45.415263"
+    },
+    {
+      "english": "My appetite, is quite large.",
+      "filipino": "Malaki po ang aking gana.",
+      "transliteration": "Malaki po ang aking gana.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-30T13:21:45.415274"
+    },
+    {
+      "english": "A table for two, please.",
+      "filipino": "Isang mesa, dalawa po kami.",
+      "transliteration": "Isang mesa, dalawa po kami.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-30T13:21:45.415276"
+    },
+    {
+      "english": "What's your, most popular dish?",
+      "filipino": "Ano po ang inyong, sikat na ulam?",
+      "transliteration": "Ano po ang inyong, sikat na ulam?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-30T13:21:45.415278"
+    },
+    {
+      "english": "I'm craving, something savory.",
+      "filipino": "Gusto ko, ng maalat-alat.",
+      "transliteration": "Gusto ko, ng maalat-alat.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-30T13:21:45.415279"
     }
   ],
-  "last_updated": "2026-07-30T02:32:07.327509"
+  "last_updated": "2026-07-30T13:21:45.415281"
 }
