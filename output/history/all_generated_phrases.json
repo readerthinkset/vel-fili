@@ -6859,7 +6859,42 @@
       "transliteration": "Gusto ko, ng maalat-alat.",
       "category": "Restaurant",
       "generated_at": "2026-07-30T13:21:45.415279"
+    },
+    {
+      "english": "My siblings, my first friends.",
+      "filipino": "Mga kapatid ko, unang barkada.",
+      "transliteration": "Mga ka-pa-tid ko, u-nang bar-ka-da.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-30T15:46:09.660006"
+    },
+    {
+      "english": "Parents' wisdom, a guide.",
+      "filipino": "Payo ng magulang, gabay.",
+      "transliteration": "Pa-yo ng ma-tu-la-ngan, ga-bay.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-30T15:46:09.660016"
+    },
+    {
+      "english": "Grandkids' laughter, pure joy.",
+      "filipino": "Tawa ng apo, dalisay.",
+      "transliteration": "Ta-wa ng a-po, da-li-say.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-30T15:46:09.660018"
+    },
+    {
+      "english": "Our house, happy place.",
+      "filipino": "Bahay namin, masaya dito.",
+      "transliteration": "Ba-hay na-min, ma-sa-ya di-to.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-30T15:46:09.660019"
+    },
+    {
+      "english": "Cousins, shared childhood.",
+      "filipino": "Mga pinsan, sabay lumaki.",
+      "transliteration": "Mga pin-san, sa-bay lu-ma-ki.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-30T15:46:09.660020"
     }
   ],
-  "last_updated": "2026-07-30T13:21:45.415281"
+  "last_updated": "2026-07-30T15:46:09.660022"
 }
