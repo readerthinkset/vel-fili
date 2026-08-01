@@ -7139,7 +7139,42 @@
       "transliteration": "Hah-nah-pin ang kah-tah-hee-mee-kan, sah ee-yong hee-ning-ah.",
       "category": "Inner Peace",
       "generated_at": "2026-08-01T02:56:59.614317"
+    },
+    {
+      "english": "My ear, it's ringing, loudly.",
+      "filipino": "Tumatunog, tenga ko, malakas.",
+      "transliteration": "Too-ma-too-nog, te-nga ko, ma-la-kas.",
+      "category": "Emergency",
+      "generated_at": "2026-08-01T12:49:44.949093"
+    },
+    {
+      "english": "The door, it's stuck, help me.",
+      "filipino": "Napiit, pinto, pakitabi.",
+      "transliteration": "Na-pee-it, peen-toh, pa-kee-ta-bee.",
+      "category": "Emergency",
+      "generated_at": "2026-08-01T12:49:44.949103"
+    },
+    {
+      "english": "I can't see, clearly, now.",
+      "filipino": "Di ko na, makita, malinaw.",
+      "transliteration": "Dee koh na, ma-kee-ta, ma-lee-now.",
+      "category": "Emergency",
+      "generated_at": "2026-08-01T12:49:44.949104"
+    },
+    {
+      "english": "There's a leak, in the ceiling.",
+      "filipino": "May tagas, sa kisame, talaga.",
+      "transliteration": "My ta-gas, sa kee-sa-meh, ta-la-ga.",
+      "category": "Emergency",
+      "generated_at": "2026-08-01T12:49:44.949106"
+    },
+    {
+      "english": "My bag, it has, important things.",
+      "filipino": "Bag ko, na andun, mahalaga.",
+      "transliteration": "Bag koh, na an-doon, ma-ha-la-ga.",
+      "category": "Emergency",
+      "generated_at": "2026-08-01T12:49:44.949107"
     }
   ],
-  "last_updated": "2026-08-01T02:56:59.614318"
+  "last_updated": "2026-08-01T12:49:44.949109"
 }
