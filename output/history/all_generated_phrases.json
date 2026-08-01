@@ -7174,7 +7174,42 @@
       "transliteration": "Bag koh, na an-doon, ma-ha-la-ga.",
       "category": "Emergency",
       "generated_at": "2026-08-01T12:49:44.949107"
+    },
+    {
+      "english": "A warm bowl, of monggo soup.",
+      "filipino": "Isang mainit na sabaw, ng monggo.",
+      "transliteration": "Isang mai-nit na sa-baw, ng mong-go.",
+      "category": "Food",
+      "generated_at": "2026-08-01T14:51:40.323662"
+    },
+    {
+      "english": "Try this, crispy chicharon, please.",
+      "filipino": "Tikman mo ito, malutong na chicharon, sige.",
+      "transliteration": "Tik-man mo i-to, ma-lu-tong na chi-cha-ron, si-ge.",
+      "category": "Food",
+      "generated_at": "2026-08-01T14:51:40.323671"
+    },
+    {
+      "english": "Sweet sampaguita, a fragrant flower.",
+      "filipino": "Matamis na sampaguita, mabangong bulaklak.",
+      "transliteration": "Ma-ta-mis na sam-pa-gui-ta, ma-ba-ngong bu-lak-lak.",
+      "category": "Food",
+      "generated_at": "2026-08-01T14:51:40.323673"
+    },
+    {
+      "english": "A bite of bibingka, hot and soft.",
+      "filipino": "Isang kagat ng bibingka, mainit at malambot.",
+      "transliteration": "Isang ka-gat ng bi-bing-ka, ma-i-nit at ma-lam-bot.",
+      "category": "Food",
+      "generated_at": "2026-08-01T14:51:40.323675"
+    },
+    {
+      "english": "Savory tapa, with garlic rice.",
+      "filipino": "Masarap na tapa, may kasamang sinangag.",
+      "transliteration": "Ma-sa-rap na ta-pa, may ka-sa-mang si-na-nag.",
+      "category": "Food",
+      "generated_at": "2026-08-01T14:51:40.323676"
     }
   ],
-  "last_updated": "2026-08-01T12:49:44.949109"
+  "last_updated": "2026-08-01T14:51:40.323678"
 }
