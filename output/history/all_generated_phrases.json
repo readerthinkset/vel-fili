@@ -7209,7 +7209,42 @@
       "transliteration": "Ma-sa-rap na ta-pa, may ka-sa-mang si-na-nag.",
       "category": "Food",
       "generated_at": "2026-08-01T14:51:40.323676"
+    },
+    {
+      "english": "The jeepney, is coming, soon.",
+      "filipino": "Parating na, ang jeepney.",
+      "transliteration": "Parating na, ang jeepney.",
+      "category": "Travel",
+      "generated_at": "2026-08-01T18:02:33.150173"
+    },
+    {
+      "english": "Let's try, the local sweets.",
+      "filipino": "Tikman natin, ang mga matamis.",
+      "transliteration": "Tikman natin, ang mga matamis.",
+      "category": "Travel",
+      "generated_at": "2026-08-01T18:02:33.150184"
+    },
+    {
+      "english": "This market, is so, lively.",
+      "filipino": "Masigla, itong pamilihan.",
+      "transliteration": "Masigla, itong pamilihan.",
+      "category": "Travel",
+      "generated_at": "2026-08-01T18:02:33.150186"
+    },
+    {
+      "english": "I need, a moment, to breathe.",
+      "filipino": "Kailangan ko, ng sandali, para huminga.",
+      "transliteration": "Kailangan ko, ng sandali, para huminga.",
+      "category": "Travel",
+      "generated_at": "2026-08-01T18:02:33.150188"
+    },
+    {
+      "english": "The mountains, call to me.",
+      "filipino": "Tawag ng, mga bundok, sa akin.",
+      "transliteration": "Tawag ng, mga bundok, sa akin.",
+      "category": "Travel",
+      "generated_at": "2026-08-01T18:02:33.150189"
     }
   ],
-  "last_updated": "2026-08-01T14:51:40.323678"
+  "last_updated": "2026-08-01T18:02:33.150191"
 }
