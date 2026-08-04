@@ -7664,7 +7664,42 @@
       "transliteration": "Mga sa-lee-tang Fee-lee-pee-no, pa-rang ma-koo-lay na koo-in-tas.",
       "category": "Motivation",
       "generated_at": "2026-08-04T02:55:52.918967"
+    },
+    {
+      "english": "Your recommendations, please?",
+      "filipino": "Ang inyong, mga suhestiyon?",
+      "transliteration": "Ang inyong, mga suhestiyon?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-04T13:32:08.800186"
+    },
+    {
+      "english": "A table for four, outside?",
+      "filipino": "Mesa para sa apat, sa labas?",
+      "transliteration": "Mesa para sa apat, sa labas?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-04T13:32:08.800195"
+    },
+    {
+      "english": "What's the soup, of the day?",
+      "filipino": "Ano ang sabaw, ngayong araw?",
+      "transliteration": "Ano ang sabaw, ngayong araw?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-04T13:32:08.800197"
+    },
+    {
+      "english": "Could I see, the menu again?",
+      "filipino": "Maaari ko bang, makita muli ang menu?",
+      "transliteration": "Maaari ko bang, makita muli ang menu?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-04T13:32:08.800198"
+    },
+    {
+      "english": "This is so, satisfying, thank you.",
+      "filipino": "Nakakabusog ito, salamat po.",
+      "transliteration": "Nakakabusog ito, salamat po.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-04T13:32:08.800199"
     }
   ],
-  "last_updated": "2026-08-04T02:55:52.918968"
+  "last_updated": "2026-08-04T13:32:08.800201"
 }
