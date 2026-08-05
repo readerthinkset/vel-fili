@@ -7874,7 +7874,42 @@
       "transliteration": "Pagdugtungin ang mga tuldok, ng wika.",
       "category": "Growth",
       "generated_at": "2026-08-05T15:53:14.586647"
+    },
+    {
+      "english": "The sky, a canvas of blue.",
+      "filipino": "Langit, parang malaking asul na tela.",
+      "transliteration": "Lah-ngit, pah-rahng mah-lah-king ah-sool nah teh-lah.",
+      "category": "Weather",
+      "generated_at": "2026-08-05T18:23:28.447459"
+    },
+    {
+      "english": "Warm air, hugs the skin.",
+      "filipino": "Mainit na hangin, yumayakap sa balat.",
+      "transliteration": "Mah-hee-nit nah hah-ngin, yoo-mah-yah-kap sah bah-lat.",
+      "category": "Weather",
+      "generated_at": "2026-08-05T18:23:28.447468"
+    },
+    {
+      "english": "A soft mist, cools the day.",
+      "filipino": "Malambot na hamog, nagpapalamig sa araw.",
+      "transliteration": "Mah-lahm-bot nah hah-mog, nag-pah-pah-lah-mig sah ah-row.",
+      "category": "Weather",
+      "generated_at": "2026-08-05T18:23:28.447469"
+    },
+    {
+      "english": "Sunlight, a golden shower.",
+      "filipino": "Sinag ng araw, parang gintong ulan.",
+      "transliteration": "See-nahg ng ah-row, pah-rahng geen-tong oo-lahn.",
+      "category": "Weather",
+      "generated_at": "2026-08-05T18:23:28.447471"
+    },
+    {
+      "english": "Wind whispers, secrets untold.",
+      "filipino": "Buhol-buhol na simoy, may lihim na dalá.",
+      "transliteration": "Boo-hol-boo-hol nah see-moy, mahy lee-him nah dah-lah.",
+      "category": "Weather",
+      "generated_at": "2026-08-05T18:23:28.447472"
     }
   ],
-  "last_updated": "2026-08-05T15:53:14.586648"
+  "last_updated": "2026-08-05T18:23:28.447474"
 }
