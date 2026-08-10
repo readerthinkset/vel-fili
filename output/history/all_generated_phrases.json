@@ -8609,7 +8609,42 @@
       "transliteration": "Ma-ri-lag na gi-ting, su-mi-si-bol.",
       "category": "Strength",
       "generated_at": "2026-08-10T12:38:42.238152"
+    },
+    {
+      "english": "My stomach, is rumbling.",
+      "filipino": "Kumakalam na, ang sikmura ko.",
+      "transliteration": "Ku-ma-ka-lam na, ang sik-mu-ra ko.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-10T14:49:27.647160"
+    },
+    {
+      "english": "What's this, made of?",
+      "filipino": "Ano itong, sangkap nito?",
+      "transliteration": "A-no i-tong, sang-kap ni-to?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-10T14:49:27.647171"
+    },
+    {
+      "english": "I'm in the mood, for seafood.",
+      "filipino": "Gusto ko, ng lamang-dagat.",
+      "transliteration": "Gus-to ko, ng la-mang-da-gat.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-10T14:49:27.647173"
+    },
+    {
+      "english": "Something warm, please.",
+      "filipino": "Pahingi ng, mainit-init.",
+      "transliteration": "Pa-hin-gi ng, ma-i-nit-i-nit.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-10T14:49:27.647174"
+    },
+    {
+      "english": "A bit of everything, if possible.",
+      "filipino": "Pati ito, at 'yan din.",
+      "transliteration": "Pa-ti i-to, at 'yan din.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-10T14:49:27.647176"
     }
   ],
-  "last_updated": "2026-08-10T12:38:42.238154"
+  "last_updated": "2026-08-10T14:49:27.647177"
 }
