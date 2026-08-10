@@ -8539,7 +8539,42 @@
       "transliteration": "Apat lang, muna ngayon.",
       "category": "Numbers",
       "generated_at": "2026-08-09T17:34:29.491288"
+    },
+    {
+      "english": "Soon, very soon, we'll meet.",
+      "filipino": "Malapit na, malapit na, magkikita tayo.",
+      "transliteration": "Ma-la-pit na, ma-la-pit na, mag-ki-ki-ta ta-yo.",
+      "category": "Time",
+      "generated_at": "2026-08-10T01:56:19.881962"
+    },
+    {
+      "english": "Right then, I knew.",
+      "filipino": "Noon mismo, nalaman ko.",
+      "transliteration": "No-on mis-mo, na-la-man ko.",
+      "category": "Time",
+      "generated_at": "2026-08-10T01:56:19.881976"
+    },
+    {
+      "english": "For ages, they waited.",
+      "filipino": "Sa mahabang panahon, naghintay sila.",
+      "transliteration": "Sa ma-ha-bang pa-na-hon, nag-hin-tay si-la.",
+      "category": "Time",
+      "generated_at": "2026-08-10T01:56:19.881978"
+    },
+    {
+      "english": "Each passing second, counts.",
+      "filipino": "Bawat lumilipas na segundo, mahalaga.",
+      "transliteration": "Ba-wat lu-mi-li-pas na se-gun-do, ma-ha-la-ga.",
+      "category": "Time",
+      "generated_at": "2026-08-10T01:56:19.881979"
+    },
+    {
+      "english": "When the moment arrived, we cheered.",
+      "filipino": "Nang dumating ang sandali, sumigaw kami.",
+      "transliteration": "Nang du-ma-ting ang san-da-li, su-mi-gaw ka-mi.",
+      "category": "Time",
+      "generated_at": "2026-08-10T01:56:19.881981"
     }
   ],
-  "last_updated": "2026-08-09T17:34:29.491289"
+  "last_updated": "2026-08-10T01:56:19.881984"
 }
