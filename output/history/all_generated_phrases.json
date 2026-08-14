@@ -9309,7 +9309,42 @@
       "transliteration": "Hayaan sumayaw, ang mga salita.",
       "category": "Directions",
       "generated_at": "2026-08-14T14:43:49.791146"
+    },
+    {
+      "english": "Something's wrong, here.",
+      "filipino": "May mali, dito.",
+      "transliteration": "May mah-lee, dee-toh.",
+      "category": "Emergency",
+      "generated_at": "2026-08-14T17:55:19.674500"
+    },
+    {
+      "english": "Need help, urgently.",
+      "filipino": "Kailangan ko, tulong.",
+      "transliteration": "Kah-lah-ngan koh, too-long.",
+      "category": "Emergency",
+      "generated_at": "2026-08-14T17:55:19.674510"
+    },
+    {
+      "english": "Please, stay calm.",
+      "filipino": "Huwag mag-panic, po.",
+      "transliteration": "Hoo-wag mag-pah-neek, poh.",
+      "category": "Emergency",
+      "generated_at": "2026-08-14T17:55:19.674512"
+    },
+    {
+      "english": "My leg, it hurts.",
+      "filipino": "Masakit, binti ko.",
+      "transliteration": "Mah-sah-keet, been-tee koh.",
+      "category": "Emergency",
+      "generated_at": "2026-08-14T17:55:19.674513"
+    },
+    {
+      "english": "We are trapped, help!",
+      "filipino": "Nakulong kami, saklol!",
+      "transliteration": "Nah-koo-long kah-mee, sak-lol!",
+      "category": "Emergency",
+      "generated_at": "2026-08-14T17:55:19.674515"
     }
   ],
-  "last_updated": "2026-08-14T14:43:49.791147"
+  "last_updated": "2026-08-14T17:55:19.674516"
 }
