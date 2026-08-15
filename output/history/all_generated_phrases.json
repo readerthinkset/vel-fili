@@ -9379,7 +9379,42 @@
       "transliteration": "Hoo-moo-got nahng hee-nee-ngah, mahg-sah-lee-tah nahng mah-lah-yah.",
       "category": "Confidence",
       "generated_at": "2026-08-14T20:34:32.412937"
+    },
+    {
+      "english": "A lone star, twinkles high.",
+      "filipino": "Isang bituin, kumikislap sa itaas.",
+      "transliteration": "Ee-sang bee-twen, koo-mee-kislap sa ee-ta-as.",
+      "category": "Numbers",
+      "generated_at": "2026-08-15T01:19:12.571272"
+    },
+    {
+      "english": "Two boats, drift gently.",
+      "filipino": "Dalawang bangka, tahimik na umaanod.",
+      "transliteration": "Da-la-wang bang-ka, ta-hee-mik na oo-ma-a-nod.",
+      "category": "Numbers",
+      "generated_at": "2026-08-15T01:19:12.571282"
+    },
+    {
+      "english": "Three friends, share a secret.",
+      "filipino": "Tatlong kaibigan, may sikreto.",
+      "transliteration": "Tat-long ka-ee-bee-gan, may see-kre-to.",
+      "category": "Numbers",
+      "generated_at": "2026-08-15T01:19:12.571284"
+    },
+    {
+      "english": "Four wheels, spin around.",
+      "filipino": "Apat na gulong, umiikot.",
+      "transliteration": "A-pat na goo-long, oo-mee-ee-kot.",
+      "category": "Numbers",
+      "generated_at": "2026-08-15T01:19:12.571286"
+    },
+    {
+      "english": "Five notes, make a song.",
+      "filipino": "Limang nota, bumubuo ng kanta.",
+      "transliteration": "Lee-mang no-ta, boo-boo-oo-mo ng kan-ta.",
+      "category": "Numbers",
+      "generated_at": "2026-08-15T01:19:12.571287"
     }
   ],
-  "last_updated": "2026-08-14T20:34:32.412939"
+  "last_updated": "2026-08-15T01:19:12.571288"
 }
