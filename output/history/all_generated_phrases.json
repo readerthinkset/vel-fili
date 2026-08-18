@@ -9974,7 +9974,42 @@
       "transliteration": "Mabuting kaluluwa, hanapin ang saya dito.",
       "category": "Greetings",
       "generated_at": "2026-08-18T14:21:13.099744"
+    },
+    {
+      "english": "Sky's painted, sunrise soon.",
+      "filipino": "Langit, pintado, bukang-liwayway na.",
+      "transliteration": "Lah-ngit, pin-tah-doh, boo-kahng-lee-wah-yahyah nah.",
+      "category": "Weather",
+      "generated_at": "2026-08-18T17:42:18.704602"
+    },
+    {
+      "english": "Air's alive, with a cool gust.",
+      "filipino": "Hanging buhay, may malamig na ihip.",
+      "transliteration": "Hah-ng-ing boo-hai, mai mah-lah-meeg nah ee-hip.",
+      "category": "Weather",
+      "generated_at": "2026-08-18T17:42:18.704615"
+    },
+    {
+      "english": "Sun's shy, behind a veil.",
+      "filipino": "Araw'y mahihiyain, sa likod ng tabing.",
+      "transliteration": "Ah-raow'y mah-hee-hee-yai-in, sah lee-kod ng tah-beeng.",
+      "category": "Weather",
+      "generated_at": "2026-08-18T17:42:18.704616"
+    },
+    {
+      "english": "Drops are falling, earth drinks deep.",
+      "filipino": "Patak, bumubuhos, lupa'y umiinom.",
+      "transliteration": "Pah-tak, boo-boo-hohs, loo-pah'y oo-mee-ee-nohm.",
+      "category": "Weather",
+      "generated_at": "2026-08-18T17:42:18.704618"
+    },
+    {
+      "english": "Clouds drift, like fluffy sheep.",
+      "filipino": "Ulapa'y lumilipad, parang mga tupa.",
+      "transliteration": "Oo-lah-pah'y loo-mee-lee-pahd, pah-rahng mah-gah too-pah.",
+      "category": "Weather",
+      "generated_at": "2026-08-18T17:42:18.704619"
     }
   ],
-  "last_updated": "2026-08-18T14:21:13.099746"
+  "last_updated": "2026-08-18T17:42:18.704620"
 }
