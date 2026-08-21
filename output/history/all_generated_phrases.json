@@ -10499,7 +10499,42 @@
       "transliteration": "Ma-la-lim na hing-a, li-ni-sin ang i-sip.",
       "category": "Health",
       "generated_at": "2026-08-21T17:31:39.377113"
+    },
+    {
+      "english": "Right now, let's focus.",
+      "filipino": "Ngayon din, magtuon tayo.",
+      "transliteration": "N'gayon din, mag-too-on ta-yo.",
+      "category": "Time",
+      "generated_at": "2026-08-21T20:29:20.563418"
+    },
+    {
+      "english": "A little later, perhaps.",
+      "filipino": "Maya-maya lang, siguro.",
+      "transliteration": "Ma-ya-ma-ya lang, si-goo-ro.",
+      "category": "Time",
+      "generated_at": "2026-08-21T20:29:20.563427"
+    },
+    {
+      "english": "Way before dawn, quiet.",
+      "filipino": "Bago pa ang umaga, tahimik.",
+      "transliteration": "Ba-go pa ang u-ma-ga, ta-hi-mik.",
+      "category": "Time",
+      "generated_at": "2026-08-21T20:29:20.563429"
+    },
+    {
+      "english": "Long after dark, still awake.",
+      "filipino": "Matagal pagabi na, gising pa.",
+      "transliteration": "Ma-ta-gal pa-ga-bi na, gi-sing pa.",
+      "category": "Time",
+      "generated_at": "2026-08-21T20:29:20.563430"
+    },
+    {
+      "english": "Once upon a dream, it happened.",
+      "filipino": "Dati sa panaginip, nangyari.",
+      "transliteration": "Da-ti sa pa-na-gi-nip, nang-ya-ri.",
+      "category": "Time",
+      "generated_at": "2026-08-21T20:29:20.563431"
     }
   ],
-  "last_updated": "2026-08-21T17:31:39.377115"
+  "last_updated": "2026-08-21T20:29:20.563433"
 }
