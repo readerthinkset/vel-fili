@@ -11024,7 +11024,42 @@
       "transliteration": "Ang ee-yong koo-wen-tong Fee-lee-pee-no, nag-hee-heen-tay na.",
       "category": "Motivation",
       "generated_at": "2026-08-24T20:34:05.059091"
+    },
+    {
+      "english": "Suddenly, I'm lost, very lost.",
+      "filipino": "Bigla, nawala ako, nang malala.",
+      "transliteration": "Bigla, nawala ako, nang malala.",
+      "category": "Emergency",
+      "generated_at": "2026-08-25T01:20:38.057912"
+    },
+    {
+      "english": "My breathing, is very shallow.",
+      "filipino": "Hinga ko, manipis na manipis.",
+      "transliteration": "Hinga ko, manipis na manipis.",
+      "category": "Emergency",
+      "generated_at": "2026-08-25T01:20:38.057922"
+    },
+    {
+      "english": "Something smells, like gas, strong.",
+      "filipino": "May amoy, parang gas, matalas.",
+      "transliteration": "May amoy, parang gas, matalas.",
+      "category": "Emergency",
+      "generated_at": "2026-08-25T01:20:38.057924"
+    },
+    {
+      "english": "My vision, is blurring, fast.",
+      "filipino": "Paningin ko, lumalabo, mabilis.",
+      "transliteration": "Paningin ko, lumalabo, mabilis.",
+      "category": "Emergency",
+      "generated_at": "2026-08-25T01:20:38.057925"
+    },
+    {
+      "english": "I can't feel, my legs, at all.",
+      "filipino": "Di ko maramdaman, mga paa, talaga.",
+      "transliteration": "Di ko maramdaman, mga paa, talaga.",
+      "category": "Emergency",
+      "generated_at": "2026-08-25T01:20:38.057926"
     }
   ],
-  "last_updated": "2026-08-24T20:34:05.059093"
+  "last_updated": "2026-08-25T01:20:38.057928"
 }
