@@ -12249,7 +12249,42 @@
       "transliteration": "Ang ganda, dito.",
       "category": "Basic Phrases",
       "generated_at": "2026-09-01T04:05:24.419604"
+    },
+    {
+      "english": "The building, is shaking, hard.",
+      "filipino": "Ang gusali, ay yumanig, malakas.",
+      "transliteration": "Ang goo-sa-lee, ay yu-ma-nig, ma-la-kas.",
+      "category": "Emergency",
+      "generated_at": "2026-09-01T15:39:16.057417"
+    },
+    {
+      "english": "Fire, in the kitchen, now!",
+      "filipino": "Apoy, sa kusina, ngayon!",
+      "transliteration": "A-poy, sa koo-see-na, na-goy!",
+      "category": "Emergency",
+      "generated_at": "2026-09-01T15:39:16.057429"
+    },
+    {
+      "english": "Someone's trapped, inside.",
+      "filipino": "May nakulong, sa loob.",
+      "transliteration": "My na-ka-loong, sa lo-ob.",
+      "category": "Emergency",
+      "generated_at": "2026-09-01T15:39:16.057431"
+    },
+    {
+      "english": "Need a doctor, very sick.",
+      "filipino": "Kailangan ng doktor, malubha.",
+      "transliteration": "Ka-la-nga-an ng dok-tor, ma-loob-ha.",
+      "category": "Emergency",
+      "generated_at": "2026-09-01T15:39:16.057433"
+    },
+    {
+      "english": "My belongings, stolen, please.",
+      "filipino": "Gamit ko, nawala, pakiusap.",
+      "transliteration": "Ga-meet ko, na-wa-la, pa-kee-oo-sap.",
+      "category": "Emergency",
+      "generated_at": "2026-09-01T15:39:16.057434"
     }
   ],
-  "last_updated": "2026-09-01T04:05:24.419606"
+  "last_updated": "2026-09-01T15:39:16.057436"
 }
