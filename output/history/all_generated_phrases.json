@@ -12284,7 +12284,42 @@
       "transliteration": "Ga-meet ko, na-wa-la, pa-kee-oo-sap.",
       "category": "Emergency",
       "generated_at": "2026-09-01T15:39:16.057434"
+    },
+    {
+      "english": "Hear a phrase, say it back.",
+      "filipino": "May narinig, sabihin mo.",
+      "transliteration": "May nah-ree-neeg, sah-bee-heen mo.",
+      "category": "Success",
+      "generated_at": "2026-09-01T17:30:20.053587"
+    },
+    {
+      "english": "New word, new thought.",
+      "filipino": "Bagong salita, bagong isip.",
+      "transliteration": "Bah-gohng sah-lee-tah, bah-gohng ee-seep.",
+      "category": "Success",
+      "generated_at": "2026-09-01T17:30:20.053600"
+    },
+    {
+      "english": "Listen to the music, of speech.",
+      "filipino": "Pakinggan ang himig, ng salita.",
+      "transliteration": "Pah-kee-ngahn ahng hee-meeg, nahng sah-lee-tah.",
+      "category": "Success",
+      "generated_at": "2026-09-01T17:30:20.053602"
+    },
+    {
+      "english": "Open your ears, to Filipino.",
+      "filipino": "Buksan ang tenga, sa Filipino.",
+      "transliteration": "Boo-ksahn ahng teh-ngah, sah Fee-lee-pee-noh.",
+      "category": "Success",
+      "generated_at": "2026-09-01T17:30:20.053603"
+    },
+    {
+      "english": "Try a sentence, feel the flow.",
+      "filipino": "Subok ng pangungusap, damhin ang agos.",
+      "transliteration": "Soo-bohk nahng pah-ngoo-goo-sahp, dahm-heen ahng ah-gohs.",
+      "category": "Success",
+      "generated_at": "2026-09-01T17:30:20.053604"
     }
   ],
-  "last_updated": "2026-09-01T15:39:16.057436"
+  "last_updated": "2026-09-01T17:30:20.053606"
 }
