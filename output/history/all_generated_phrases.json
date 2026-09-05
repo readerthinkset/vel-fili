@@ -12914,7 +12914,42 @@
       "transliteration": "I-ba-ha-gi ang i-yong li-wa-nag, nang ma-hi-na-hon.",
       "category": "Wisdom",
       "generated_at": "2026-09-04T22:13:56.028032"
+    },
+    {
+      "english": "A taste, of the islands, please.",
+      "filipino": "Isang lasa, ng mga isla, pakiusap.",
+      "transliteration": "Ee-sang lah-sah, nahng mah-gah ees-lah, pah-kee-oo-sap.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-05T03:28:38.868332"
+    },
+    {
+      "english": "What's a good, starter plate?",
+      "filipino": "Ano ang masarap, na panimulang ulam?",
+      "transliteration": "Ah-no ahng mah-sah-rahp, nah pah-nee-moo-lahng oo-lahm?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-05T03:28:38.868343"
+    },
+    {
+      "english": "I'm ready, to order, now.",
+      "filipino": "Handa na po, akong umorder, ngayon.",
+      "transliteration": "Hahnd-ah nah poh, ah-kohng oo-mor-der, nah-yohng.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-05T03:28:38.868345"
+    },
+    {
+      "english": "This looks, so appealing, sir.",
+      "filipino": "Mukhang kaakit-akit, ito, ginoo.",
+      "transliteration": "Moo-khahng kah-ah-kee-tah-kee-teet, ee-toh, gee-noh-oh.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-05T03:28:38.868346"
+    },
+    {
+      "english": "A simple, Filipino meal, please.",
+      "filipino": "Isang simpleng, lutong Pinoy, pakiusap.",
+      "transliteration": "Ee-sang seem-plehng, loo-tohng Pee-noy, pah-kee-oo-sap.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-05T03:28:38.868348"
     }
   ],
-  "last_updated": "2026-09-04T22:13:56.028034"
+  "last_updated": "2026-09-05T03:28:38.868350"
 }
