@@ -13894,7 +13894,42 @@
       "transliteration": "Tu-lay na-a-yos, mas ma-ti-bay, mag-ka-sa-ma.",
       "category": "Forgiveness",
       "generated_at": "2026-09-10T22:21:30.344542"
+    },
+    {
+      "english": "Help, someone's burning.",
+      "filipino": "Tulong, may nasusunog.",
+      "transliteration": "Tu-long, ma-y na-su-su-nong.",
+      "category": "Emergency",
+      "generated_at": "2026-09-11T03:35:03.030890"
+    },
+    {
+      "english": "The water, it's rising, fast.",
+      "filipino": "Ang tubig, umaakyat, mabilis.",
+      "transliteration": "Ang tu-big, u-ma-ak-yat, ma-bi-lis.",
+      "category": "Emergency",
+      "generated_at": "2026-09-11T03:35:03.030898"
+    },
+    {
+      "english": "I'm losing, consciousness.",
+      "filipino": "Nawawalan, ako ng malay.",
+      "transliteration": "Na-wa-wa-lan, a-ko ng ma-lay.",
+      "category": "Emergency",
+      "generated_at": "2026-09-11T03:35:03.030899"
+    },
+    {
+      "english": "This area, is unsafe.",
+      "filipino": "Mapanganib, ang lugar na ito.",
+      "transliteration": "Ma-pa-nga-nib, ang lu-gar na i-to.",
+      "category": "Emergency",
+      "generated_at": "2026-09-11T03:35:03.030901"
+    },
+    {
+      "english": "My vision, is fading, quickly.",
+      "filipino": "Nawawala, paningin ko, agad.",
+      "transliteration": "Na-wa-wa-la, pa-ni-ngin ko, a-gad.",
+      "category": "Emergency",
+      "generated_at": "2026-09-11T03:35:03.030902"
     }
   ],
-  "last_updated": "2026-09-10T22:21:30.344544"
+  "last_updated": "2026-09-11T03:35:03.030903"
 }
