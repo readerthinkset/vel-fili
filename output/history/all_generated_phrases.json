@@ -14279,7 +14279,42 @@
       "transliteration": "Gah-wan nah-tin, ng dee-seh-nyoh.",
       "category": "Work",
       "generated_at": "2026-09-13T03:46:54.978932"
+    },
+    {
+      "english": "Six eggs, for breakfast, maybe seven.",
+      "filipino": "Anim na itlog, sa almusal, baka pito.",
+      "transliteration": "Ahn-gohn nah eeht-luhg, sah ahl-moo-sahl, bah-kah peh-toh.",
+      "category": "Numbers",
+      "generated_at": "2026-09-13T15:10:59.935098"
+    },
+    {
+      "english": "Seven seas, I will sail, someday.",
+      "filipino": "Pitong dagat, aking sasayawin, balang araw.",
+      "transliteration": "Peh-tohn dah-gahht, ahh-keeng sah-sah-yah-weeen, bah-lahng ahh-rahw.",
+      "category": "Numbers",
+      "generated_at": "2026-09-13T15:10:59.935110"
+    },
+    {
+      "english": "Eight coins, in my pocket, jingling.",
+      "filipino": "Walong barya, sa bulsa ko, tumutunog.",
+      "transliteration": "Wah-lohn bah-ree-yah, sah bool-sah koh, too-moo-too-nohg.",
+      "category": "Numbers",
+      "generated_at": "2026-09-13T15:10:59.935112"
+    },
+    {
+      "english": "Ten fingers, I can count, them all.",
+      "filipino": "Sampung daliri, kaya kong bilangin, lahat.",
+      "transliteration": "Sahm-poong dah-lee-ree, kah-yah kohng bee-lahn-geen, lah-haht.",
+      "category": "Numbers",
+      "generated_at": "2026-09-13T15:10:59.935113"
+    },
+    {
+      "english": "Eleven friends, met for lunch, today.",
+      "filipino": "Labing-isang kaibigan, nagkita sa tanghalian, ngayon.",
+      "transliteration": "Lah-beeng-ee-sahng kah-ee-bee-gahhn, nahg-kee-tah sah tahn-hahl-ee-ahn, nah-goh-yohn.",
+      "category": "Numbers",
+      "generated_at": "2026-09-13T15:10:59.935114"
     }
   ],
-  "last_updated": "2026-09-13T03:46:54.978933"
+  "last_updated": "2026-09-13T15:10:59.935116"
 }
