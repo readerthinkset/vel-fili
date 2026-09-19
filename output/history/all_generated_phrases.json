@@ -15259,7 +15259,42 @@
       "transliteration": "Tara, iguhit, ang bagong landas.",
       "category": "Work",
       "generated_at": "2026-09-19T03:41:38.279256"
+    },
+    {
+      "english": "Hear this, then repeat.",
+      "filipino": "Pakinggan mo ito, ulitin mo.",
+      "transliteration": "Pa-king-gan mo e-to, u-li-tin mo.",
+      "category": "Directions",
+      "generated_at": "2026-09-19T14:55:34.780915"
+    },
+    {
+      "english": "Say it slowly, for me.",
+      "filipino": "Sabihin mo nang dahan-dahan, para sa akin.",
+      "transliteration": "Sa-bi-hin mo nang da-han-da-han, pa-ra sa a-kin.",
+      "category": "Directions",
+      "generated_at": "2026-09-19T14:55:34.780923"
+    },
+    {
+      "english": "Try to match the sound.",
+      "filipino": "Subukang tapatan ang tunog.",
+      "transliteration": "Su-buk-ang ta-pa-tan ang tu-nog.",
+      "category": "Directions",
+      "generated_at": "2026-09-19T14:55:34.780925"
+    },
+    {
+      "english": "Let the vowel sing.",
+      "filipino": "Hayaang kumanta ang patinig.",
+      "transliteration": "Ha-ya-ang kum-gan-ta ang pa-ti-nig.",
+      "category": "Directions",
+      "generated_at": "2026-09-19T14:55:34.780926"
+    },
+    {
+      "english": "Mimic the speaker, closely.",
+      "filipino": "Gayahin mo ang nagsasalita, mahigpit.",
+      "transliteration": "Ga-ya-hin mo ang nag-sa-sa-li-ta, ma-hig-pit.",
+      "category": "Directions",
+      "generated_at": "2026-09-19T14:55:34.780927"
     }
   ],
-  "last_updated": "2026-09-19T03:41:38.279257"
+  "last_updated": "2026-09-19T14:55:34.780929"
 }
