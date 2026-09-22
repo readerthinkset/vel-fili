@@ -15749,7 +15749,42 @@
       "transliteration": "Su-bu-kan, na-tin, i-to.",
       "category": "Basic Phrases",
       "generated_at": "2026-09-22T03:50:56.156918"
+    },
+    {
+      "english": "What's good, here?",
+      "filipino": "Ano ang masarap, dito?",
+      "transliteration": "Ah-no ahng mah-sah-rahp, dee-toh?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-22T15:50:24.135914"
+    },
+    {
+      "english": "Something, quick, please.",
+      "filipino": "Isang mabilis, po.",
+      "transliteration": "Ee-sahng mah-bee-lis, poh.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-22T15:50:24.135923"
+    },
+    {
+      "english": "This dish, wow.",
+      "filipino": "Ang ulam, wow.",
+      "transliteration": "Ahng oo-lahm, wow.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-22T15:50:24.135924"
+    },
+    {
+      "english": "Can I, have a doggy bag?",
+      "filipino": "Pwede ba, to take home?",
+      "transliteration": "Pweh-deh bah, toh tahk-eeh hohm?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-22T15:50:24.135926"
+    },
+    {
+      "english": "I love, this sauce.",
+      "filipino": "Gusto ko, itong sauce.",
+      "transliteration": "Goo-stoh koh, ee-tohng sauce.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-22T15:50:24.135926"
     }
   ],
-  "last_updated": "2026-09-22T03:50:56.156920"
+  "last_updated": "2026-09-22T15:50:24.135928"
 }
