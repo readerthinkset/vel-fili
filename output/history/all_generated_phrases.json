@@ -16344,7 +16344,42 @@
       "transliteration": "Oo-lap sa boo-lak, loo-mee-lee-pa-d ma-ta-as.",
       "category": "Weather",
       "generated_at": "2026-09-25T18:08:21.610743"
+    },
+    {
+      "english": "Your Filipino, blooming now.",
+      "filipino": "Ang iyong Filipino, namumukadkad na.",
+      "transliteration": "Ang ee-yong Fee-lee-pee-no, nah-moo-moo-kad-kad nah.",
+      "category": "Confidence",
+      "generated_at": "2026-09-25T20:19:44.519457"
+    },
+    {
+      "english": "Speak the language, feel the joy.",
+      "filipino": "Bigkasin ang wika, damhin ang saya.",
+      "transliteration": "Beeg-kas-in ang wee-kah, dam-heen ang sah-yah.",
+      "category": "Confidence",
+      "generated_at": "2026-09-25T20:19:44.519468"
+    },
+    {
+      "english": "Each phrase, a small victory.",
+      "filipino": "Bawat parirala, maliit na tagumpay.",
+      "transliteration": "Bah-wat pah-ree-rah-lah, mah-leet nah tah-goom-pay.",
+      "category": "Confidence",
+      "generated_at": "2026-09-25T20:19:44.519470"
+    },
+    {
+      "english": "You're connecting, beautifully.",
+      "filipino": "Nakakakonekta ka, nang maganda.",
+      "transliteration": "Nah-kah-kah-ko-nek-tah kah, nang mah-gan-dah.",
+      "category": "Confidence",
+      "generated_at": "2026-09-25T20:19:44.519471"
+    },
+    {
+      "english": "Let your words, flow freely.",
+      "filipino": "Hayaang ang iyong salita, umagos.",
+      "transliteration": "Ha-yah-ang ang ee-yong sah-lee-tah, oo-mah-gos.",
+      "category": "Confidence",
+      "generated_at": "2026-09-25T20:19:44.519473"
     }
   ],
-  "last_updated": "2026-09-25T18:08:21.610745"
+  "last_updated": "2026-09-25T20:19:44.519475"
 }
