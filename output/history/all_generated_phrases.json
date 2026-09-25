@@ -16309,7 +16309,42 @@
       "transliteration": "Kilala ka, malaking regalo.",
       "category": "Friendship",
       "generated_at": "2026-09-25T16:01:09.584751"
+    },
+    {
+      "english": "Sky's a deep indigo, night's coming.",
+      "filipino": "Bughaw ang langit, gabi na.",
+      "transliteration": "Boog-haw ang la-hngit, ga-bee na.",
+      "category": "Weather",
+      "generated_at": "2026-09-25T18:08:21.610729"
+    },
+    {
+      "english": "Sun's a fiery ball, very hot.",
+      "filipino": "Araw, bolang apoy, mainit talaga.",
+      "transliteration": "A-raw, bo-lang a-poy, ma-hee-nit ta-la-ga.",
+      "category": "Weather",
+      "generated_at": "2026-09-25T18:08:21.610738"
+    },
+    {
+      "english": "Wind's a playful gust, cooling us.",
+      "filipino": "Hangin, malikot na ihip, pampalamig.",
+      "transliteration": "Hang-in, ma-lee-kot na ee-hip, pam-pa-la-meeg.",
+      "category": "Weather",
+      "generated_at": "2026-09-25T18:08:21.610740"
+    },
+    {
+      "english": "Rain's a soft patter, on the roof.",
+      "filipino": "Ulan, mahinang kalampag, sa bubong.",
+      "transliteration": "Oo-lan, ma-hee-nawng ka-lam-pag, sa boo-bong.",
+      "category": "Weather",
+      "generated_at": "2026-09-25T18:08:21.610742"
+    },
+    {
+      "english": "Clouds like cotton balls, floating high.",
+      "filipino": "Ulapsa bulak, lumilipad mataas.",
+      "transliteration": "Oo-lap sa boo-lak, loo-mee-lee-pa-d ma-ta-as.",
+      "category": "Weather",
+      "generated_at": "2026-09-25T18:08:21.610743"
     }
   ],
-  "last_updated": "2026-09-25T16:01:09.584753"
+  "last_updated": "2026-09-25T18:08:21.610745"
 }
