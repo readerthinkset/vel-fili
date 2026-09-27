@@ -16729,7 +16729,42 @@
       "transliteration": "Ang best-ee-dah pahng-ah-raow, pah-rah sah picnic.",
       "category": "Clothes",
       "generated_at": "2026-09-27T19:59:25.699481"
+    },
+    {
+      "english": "Help, I'm falling, behind.",
+      "filipino": "Tulong, nahuhulog, ako.",
+      "transliteration": "Tul-long, na-hoo-hoo-log, a-ko.",
+      "category": "Emergency",
+      "generated_at": "2026-09-27T22:53:49.143373"
+    },
+    {
+      "english": "My phone, it's gone, lost.",
+      "filipino": "Telepono ko, nawala, na.",
+      "transliteration": "Te-le-po-no ko, na-wa-la, na.",
+      "category": "Emergency",
+      "generated_at": "2026-09-27T22:53:49.143383"
+    },
+    {
+      "english": "This place, feels wrong, deeply.",
+      "filipino": "Lugar na ito, kakaiba, talaga.",
+      "transliteration": "Lu-gar na i-to, ka-ka-i-ba, ta-la-ga.",
+      "category": "Emergency",
+      "generated_at": "2026-09-27T22:53:49.143385"
+    },
+    {
+      "english": "Suddenly, I'm dizzy, very.",
+      "filipino": "Bigla, nasusuka, ako.",
+      "transliteration": "Big-la, na-su-su-ka, a-ko.",
+      "category": "Emergency",
+      "generated_at": "2026-09-27T22:53:49.143386"
+    },
+    {
+      "english": "My eyes, water, uncontrollably.",
+      "filipino": "Mata ko, tumutulo, walang tigil.",
+      "transliteration": "Ma-ta ko, tu-mu-tu-lo, wa-lang ti-gil.",
+      "category": "Emergency",
+      "generated_at": "2026-09-27T22:53:49.143387"
     }
   ],
-  "last_updated": "2026-09-27T19:59:25.699483"
+  "last_updated": "2026-09-27T22:53:49.143389"
 }
