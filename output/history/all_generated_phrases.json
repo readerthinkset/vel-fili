@@ -16799,7 +16799,42 @@
       "transliteration": "Ba-wat pag-see-kat ng a-raw, ba-goo sim-oo-la.",
       "category": "Wisdom",
       "generated_at": "2026-09-28T04:16:35.776554"
+    },
+    {
+      "english": "Morning light, soft and bright.",
+      "filipino": "Sinag ng umaga, banayad at maliwanag.",
+      "transliteration": "Si-nag ng u-ma-ga, ba-na-yad at ma-li-wa-nag.",
+      "category": "Time",
+      "generated_at": "2026-09-28T18:50:32.036773"
+    },
+    {
+      "english": "Afternoon sun, golden spun.",
+      "filipino": "Araw ng hapon, gintong hinabi.",
+      "transliteration": "A-raw ng ha-pon, gin-tong hi-na-bi.",
+      "category": "Time",
+      "generated_at": "2026-09-28T18:50:32.036781"
+    },
+    {
+      "english": "Evening glow, shadows grow.",
+      "filipino": "Liwanag ng gabi, anino'y lumalaki.",
+      "transliteration": "Li-wa-nag ng ga-bi, a-ni-no'y lu-ma-la-ki.",
+      "category": "Time",
+      "generated_at": "2026-09-28T18:50:32.036782"
+    },
+    {
+      "english": "Night descends, quiet friends.",
+      "filipino": "Gabi'y dumadating, tahimik na kaibigan.",
+      "transliteration": "Ga-bi'y du-ma-da-ting, ta-hi-mik na ka-i-bi-gan.",
+      "category": "Time",
+      "generated_at": "2026-09-28T18:50:32.036783"
+    },
+    {
+      "english": "First light, chasing night.",
+      "filipino": "Unang liwanag, tinataboy ang dilim.",
+      "transliteration": "U-nang li-wa-nag, ti-na-ta-boy ang di-lim.",
+      "category": "Time",
+      "generated_at": "2026-09-28T18:50:32.036784"
     }
   ],
-  "last_updated": "2026-09-28T04:16:35.776556"
+  "last_updated": "2026-09-28T18:50:32.036785"
 }
