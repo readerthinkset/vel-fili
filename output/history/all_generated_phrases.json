@@ -16904,7 +16904,42 @@
       "transliteration": "A-no i-yon, sa ka-bi-lang ban-da?",
       "category": "Basic Phrases",
       "generated_at": "2026-09-28T22:27:21.061125"
+    },
+    {
+      "english": "One shadow, follows you.",
+      "filipino": "Isang anino, sumusunod sa iyo.",
+      "transliteration": "Ee-sang ah-nee-noh, soo-moo-soo-nod sa ee-yo.",
+      "category": "Numbers",
+      "generated_at": "2026-09-29T00:16:33.698126"
+    },
+    {
+      "english": "Two shadows, dance together.",
+      "filipino": "Dalawang anino, nagsasayawan.",
+      "transliteration": "Da-la-wang ah-nee-noh, nag-sa-sa-ya-wan.",
+      "category": "Numbers",
+      "generated_at": "2026-09-29T00:16:33.698139"
+    },
+    {
+      "english": "Three echoes, in the canyon.",
+      "filipino": "Tatlong alingawngaw, sa lambak.",
+      "transliteration": "Tat-long ah-ling-aw-ngaw, sa lam-bak.",
+      "category": "Numbers",
+      "generated_at": "2026-09-29T00:16:33.698141"
+    },
+    {
+      "english": "Four winds, whisper secrets.",
+      "filipino": "Apat na hangin, bumubulong.",
+      "transliteration": "Ah-pat na han-gin, boo-boo-lo-ng.",
+      "category": "Numbers",
+      "generated_at": "2026-09-29T00:16:33.698142"
+    },
+    {
+      "english": "Five senses, awaken.",
+      "filipino": "Limang pandama, nagising.",
+      "transliteration": "Lee-mang pan-da-ma, nag-ee-seeng.",
+      "category": "Numbers",
+      "generated_at": "2026-09-29T00:16:33.698144"
     }
   ],
-  "last_updated": "2026-09-28T22:27:21.061126"
+  "last_updated": "2026-09-29T00:16:33.698146"
 }
