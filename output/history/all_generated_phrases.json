@@ -17604,7 +17604,42 @@
       "transliteration": "Natututo ka, nang maganda.",
       "category": "Confidence",
       "generated_at": "2026-10-02T21:13:19.367399"
+    },
+    {
+      "english": "This, catches my eye, truly.",
+      "filipino": "Talaga, bumagay sa paningin ko, ito.",
+      "transliteration": "Ta-la-ga, bu-mag-ay sa pan-in-gin ko, i-to.",
+      "category": "Shopping",
+      "generated_at": "2026-10-02T23:38:09.286263"
+    },
+    {
+      "english": "It’s, unexpectedly beautiful, wow.",
+      "filipino": "Hindi inaasahan, ang ganda pala, wow.",
+      "transliteration": "Hin-di i-na-as-a-han, ang gan-da pa-la, wow.",
+      "category": "Shopping",
+      "generated_at": "2026-10-02T23:38:09.286273"
+    },
+    {
+      "english": "What a, delightful find, right?",
+      "filipino": "Nakakatuwa, naman itong makita, di ba?",
+      "transliteration": "Na-ka-ka-tu-wa, na-man i-tong ma-ki-ta, di ba?",
+      "category": "Shopping",
+      "generated_at": "2026-10-02T23:38:09.286275"
+    },
+    {
+      "english": "This, has a special feeling, yes.",
+      "filipino": "May kakaiba, talagang pakiramdam, oo.",
+      "transliteration": "May ka-ka-i-ba, ta-la-gang pa-ki-ram-dam, oo.",
+      "category": "Shopping",
+      "generated_at": "2026-10-02T23:38:09.286276"
+    },
+    {
+      "english": "Could I, try this one, on?",
+      "filipino": "Pwede ko, bang isuot, ito?",
+      "transliteration": "Pwede ko, bang i-su-ot, i-to?",
+      "category": "Shopping",
+      "generated_at": "2026-10-02T23:38:09.286277"
     }
   ],
-  "last_updated": "2026-10-02T21:13:19.367400"
+  "last_updated": "2026-10-02T23:38:09.286279"
 }
