@@ -17499,7 +17499,42 @@
       "transliteration": "Matapang na puso, patuloy tibok.",
       "category": "Courage",
       "generated_at": "2026-10-02T04:36:18.453649"
+    },
+    {
+      "english": "Whisper the word, softly.",
+      "filipino": "Bulongin ang salita, mahina.",
+      "transliteration": "Bu-long-in ang sa-li-ta, ma-hi-na.",
+      "category": "Directions",
+      "generated_at": "2026-10-02T16:55:19.062518"
+    },
+    {
+      "english": "Feel the beat, then sing.",
+      "filipino": "Damhin ang tugtog, saka awit.",
+      "transliteration": "Dam-hin ang tug-tog, sa-ka a-wit.",
+      "category": "Directions",
+      "generated_at": "2026-10-02T16:55:19.062527"
+    },
+    {
+      "english": "Trace the letters, with care.",
+      "filipino": "Sundin ang titik, maingat.",
+      "transliteration": "Sun-din ang ti-tik, ma-ing-at.",
+      "category": "Directions",
+      "generated_at": "2026-10-02T16:55:19.062528"
+    },
+    {
+      "english": "Open wide, make the sound.",
+      "filipino": "Buksan ng malaki, gawin tunog.",
+      "transliteration": "Bu-ksan ng ma-la-ki, ga-win tu-nog.",
+      "category": "Directions",
+      "generated_at": "2026-10-02T16:55:19.062530"
+    },
+    {
+      "english": "Hear the music, then speak.",
+      "filipino": "Pakinggan ang himig, saka sabihin.",
+      "transliteration": "Pa-king-gan ang hi-mig, sa-ka sa-bi-hin.",
+      "category": "Directions",
+      "generated_at": "2026-10-02T16:55:19.062531"
     }
   ],
-  "last_updated": "2026-10-02T04:36:18.453650"
+  "last_updated": "2026-10-02T16:55:19.062533"
 }
