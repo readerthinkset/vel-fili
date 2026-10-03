@@ -17709,7 +17709,42 @@
       "transliteration": "Ma-bu-hay, ka-pa-wa ka-lu-lu-wa.",
       "category": "Greetings",
       "generated_at": "2026-10-03T15:19:02.441555"
+    },
+    {
+      "english": "My ears, are ringing, loudly.",
+      "filipino": "Tumatunog, mga tenga ko, malakas.",
+      "transliteration": "Tu-ma-tu-nóg, ma-nga te-nga kó, ma-lá-kas.",
+      "category": "Emergency",
+      "generated_at": "2026-10-03T17:41:04.111939"
+    },
+    {
+      "english": "A loud bang, happened, just now.",
+      "filipino": "Malakas na putok, nangyari, ngayon lang.",
+      "transliteration": "Ma-lá-kas na pu-tók, na-ng-yá-ri, na-gú-yon lang.",
+      "category": "Emergency",
+      "generated_at": "2026-10-03T17:41:04.111948"
+    },
+    {
+      "english": "I feel, a sharp pain, here.",
+      "filipino": "Mayroong matalas, na kirot, dito.",
+      "transliteration": "Ma-yá-ron ma-tá-las, na ki-rót, di-tó.",
+      "category": "Emergency",
+      "generated_at": "2026-10-03T17:41:04.111950"
+    },
+    {
+      "english": "My strength, is leaving, me.",
+      "filipino": "Nawawala, ang lakas ko, papalayo.",
+      "transliteration": "Na-wa-wa-lá, ang lá-kas kó, pa-pa-lá-yo.",
+      "category": "Emergency",
+      "generated_at": "2026-10-03T17:41:04.111951"
+    },
+    {
+      "english": "This floor, is very wet, slippery.",
+      "filipino": "Ang sahig, basa talaga, madulas.",
+      "transliteration": "Ang sa-híg, ba-sá ta-lá-ga, ma-dú-las.",
+      "category": "Emergency",
+      "generated_at": "2026-10-03T17:41:04.111952"
     }
   ],
-  "last_updated": "2026-10-03T15:19:02.441557"
+  "last_updated": "2026-10-03T17:41:04.111954"
 }
