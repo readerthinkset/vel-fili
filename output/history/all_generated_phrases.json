@@ -17814,7 +17814,42 @@
       "transliteration": "Ang ma-sa-yang ee-bon, kan-ta ng ma-ta-mees, sa poo-no.",
       "category": "Animals",
       "generated_at": "2026-10-04T04:50:04.076184"
+    },
+    {
+      "english": "Ocean blue, so vast, so deep.",
+      "filipino": "Asul dagat, malawak, malalim.",
+      "transliteration": "Ah-sool dah-gat, mah-lah-wuk, mah-lah-leem.",
+      "category": "Colors",
+      "generated_at": "2026-10-04T16:03:52.616838"
+    },
+    {
+      "english": "Forest green, life's quiet hush.",
+      "filipino": "Berde kagubatan, tahimik na huni.",
+      "transliteration": "Behr-deh kah-goo-bah-tan, tah-hee-mik nah hoo-nee.",
+      "category": "Colors",
+      "generated_at": "2026-10-04T16:03:52.616861"
+    },
+    {
+      "english": "Sunset orange, painting the sky.",
+      "filipino": "Kahel paglubog, pinta sa langit.",
+      "transliteration": "Kah-hel pag-loo-bog, peen-tah sah lah-ngeet.",
+      "category": "Colors",
+      "generated_at": "2026-10-04T16:03:52.616863"
+    },
+    {
+      "english": "Midnight black, stars begin to gleam.",
+      "filipino": "Itim hatinggabi, bituin kumikislap.",
+      "transliteration": "Ee-teem hah-teeng-gah-bee, bee-toon koo-mee-kees-lap.",
+      "category": "Colors",
+      "generated_at": "2026-10-04T16:03:52.616864"
+    },
+    {
+      "english": "Sand beige, warm on the shore.",
+      "filipino": "Beige buhangin, init sa baybayin.",
+      "transliteration": "Beh-eej boo-hah-neen, ee-neet sah bahy-bah-yeen.",
+      "category": "Colors",
+      "generated_at": "2026-10-04T16:03:52.616865"
     }
   ],
-  "last_updated": "2026-10-04T04:50:04.076186"
+  "last_updated": "2026-10-04T16:03:52.616867"
 }
