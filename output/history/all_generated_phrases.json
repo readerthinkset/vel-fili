@@ -18654,7 +18654,42 @@
       "transliteration": "Araw yakap init, kalikasan buhay.",
       "category": "Weather",
       "generated_at": "2026-10-09T18:45:51.606209"
+    },
+    {
+      "english": "Morning light, a gentle kiss.",
+      "filipino": "Sinag sa umaga, banayad na halik.",
+      "transliteration": "Si-nag sa u-ma-ga, ba-na-yad na ha-lik.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-09T19:08:16.386677"
+    },
+    {
+      "english": "Stretch my limbs, greet the day.",
+      "filipino": "Iunat ang mga braso, batiin ang araw.",
+      "transliteration": "I-u-nat ang ma-ga bra-so, ba-ti-in ang a-raw.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-09T19:08:16.386687"
+    },
+    {
+      "english": "Sip my tea, slowly, deeply.",
+      "filipino": "Inumin ang tsaa, dahan-dahan, malalim.",
+      "transliteration": "I-nu-min ang tsa-a, da-han-da-han, ma-la-lim.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-09T19:08:16.386689"
+    },
+    {
+      "english": "Window pane, softest glow.",
+      "filipino": "Salamin sa bintana, pinakamalambot na ningning.",
+      "transliteration": "Sa-la-min sa bin-ta-na, pi-na-ka-ma-lam-bot na ning-ning.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-09T19:08:16.386691"
+    },
+    {
+      "english": "Feet find the floor, steady now.",
+      "filipino": "Mga paa sa sahig, matatag na ngayon.",
+      "transliteration": "Ma-ga pa-a sa sa-hig, ma-ta-tag na nga-yon.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-09T19:08:16.386692"
     }
   ],
-  "last_updated": "2026-10-09T18:45:51.606211"
+  "last_updated": "2026-10-09T19:08:16.386694"
 }
