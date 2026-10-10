@@ -18759,7 +18759,42 @@
       "transliteration": "Ang i-yong di-wa, ay ma-ti-bay na pak-pak.",
       "category": "Courage",
       "generated_at": "2026-10-09T23:53:53.579082"
+    },
+    {
+      "english": "Listen closely, then echo.",
+      "filipino": "Makinig mabuti, tapos ulitin.",
+      "transliteration": "Ma-ki-niy ma-bu-ti, ta-pos u-li-tin.",
+      "category": "Directions",
+      "generated_at": "2026-10-10T04:52:11.815147"
+    },
+    {
+      "english": "Hear the tone, imitate.",
+      "filipino": "Dinggin ang tono, gayahin.",
+      "transliteration": "Di-nggin ang to-no, ga-ya-hin.",
+      "category": "Directions",
+      "generated_at": "2026-10-10T04:52:11.815157"
+    },
+    {
+      "english": "Feel the mouth shape, try.",
+      "filipino": "Damhin ang hugis-bibig, subukan.",
+      "transliteration": "Dam-hin ang hu-gis-bi-big, su-bu-kan.",
+      "category": "Directions",
+      "generated_at": "2026-10-10T04:52:11.815158"
+    },
+    {
+      "english": "Repeat this sound, please.",
+      "filipino": "Ulitin ang tunog na ito, pakiusap.",
+      "transliteration": "U-li-tin ang tu-nog na i-to, pa-ki-u-sap.",
+      "category": "Directions",
+      "generated_at": "2026-10-10T04:52:11.815158"
+    },
+    {
+      "english": "Follow the rhythm, softly.",
+      "filipino": "Sundin ang ritmo, marahan.",
+      "transliteration": "Sun-din ang ri-tmo, ma-ra-han.",
+      "category": "Directions",
+      "generated_at": "2026-10-10T04:52:11.815159"
     }
   ],
-  "last_updated": "2026-10-09T23:53:53.579083"
+  "last_updated": "2026-10-10T04:52:11.815160"
 }
