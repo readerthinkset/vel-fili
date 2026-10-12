@@ -19074,7 +19074,42 @@
       "transliteration": "Ang i-yong pag-da-ting, nag-pa-pa-li-wa-nag.",
       "category": "Greetings",
       "generated_at": "2026-10-11T23:31:07.085846"
+    },
+    {
+      "english": "Danger, coming, quickly.",
+      "filipino": "Panganib, paparating, agad.",
+      "transliteration": "Pah-ngah-neeb, pah-pah-rah-ting, ah-gad.",
+      "category": "Emergency",
+      "generated_at": "2026-10-12T04:53:56.637315"
+    },
+    {
+      "english": "Need help, immediately.",
+      "filipino": "Kailangan ng tulong, kaagad.",
+      "transliteration": "Kah-ee-lah-ngan nahng too-long, kah-ah-gad.",
+      "category": "Emergency",
+      "generated_at": "2026-10-12T04:53:56.637325"
+    },
+    {
+      "english": "Alert, everyone, move!",
+      "filipino": "Babala, lahat, galaw!",
+      "transliteration": "Bah-bah-lah, lah-hat, gah-laow!",
+      "category": "Emergency",
+      "generated_at": "2026-10-12T04:53:56.637326"
+    },
+    {
+      "english": "This is, serious, very.",
+      "filipino": "Ito'y seryoso, talaga.",
+      "transliteration": "Ee-toh'y seh-ryoh-soh, tah-lah-gah.",
+      "category": "Emergency",
+      "generated_at": "2026-10-12T04:53:56.637328"
+    },
+    {
+      "english": "Stay back, it's unstable.",
+      "filipino": "Huwag lumapit, hindi matatag.",
+      "transliteration": "Hwahg loo-mah-peet, heen-dee mah-tah-tahg.",
+      "category": "Emergency",
+      "generated_at": "2026-10-12T04:53:56.637329"
     }
   ],
-  "last_updated": "2026-10-11T23:31:07.085848"
+  "last_updated": "2026-10-12T04:53:56.637331"
 }
