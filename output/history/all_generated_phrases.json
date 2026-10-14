@@ -19424,7 +19424,42 @@
       "transliteration": "A-raw ko, mas ma-lee-wa-nag, sa-la-mat.",
       "category": "Gratitude",
       "generated_at": "2026-10-13T23:53:11.042900"
+    },
+    {
+      "english": "This recipe, is quite unique.",
+      "filipino": "Ang lutong ito, ay kakaiba.",
+      "transliteration": "Ang luh-tong ee-toh, ah-ee ka-ka-ee-ba.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-14T03:59:01.149911"
+    },
+    {
+      "english": "My compliments, to the chef.",
+      "filipino": "Bati ko, sa kusinero.",
+      "transliteration": "Ba-tee ko, sa ku-see-neh-ro.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-14T03:59:01.149923"
+    },
+    {
+      "english": "A delightful, surprise, indeed.",
+      "filipino": "Nakakatuwa, talagang sorpresa.",
+      "transliteration": "Na-ka-ka-too-wa, ta-la-gang sor-preh-sa.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-14T03:59:01.149925"
+    },
+    {
+      "english": "This portion, is generous.",
+      "filipino": "Malaki, ang serving nito.",
+      "transliteration": "Ma-la-kee, ang ser-ving nee-toh.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-14T03:59:01.149926"
+    },
+    {
+      "english": "What's the house, specialty?",
+      "filipino": "Ano ang, espesyal dito?",
+      "transliteration": "A-no ang, es-pes-yal dee-toh?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-14T03:59:01.149927"
     }
   ],
-  "last_updated": "2026-10-13T23:53:11.042901"
+  "last_updated": "2026-10-14T03:59:01.149928"
 }
