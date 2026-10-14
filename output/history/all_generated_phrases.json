@@ -19529,7 +19529,42 @@
       "transliteration": "Hu-gi-sin, na-tin, ang bi-syong, i-to.",
       "category": "Work",
       "generated_at": "2026-10-14T18:13:13.162401"
+    },
+    {
+      "english": "Mango sticky rice, sweet, creamy, yes?",
+      "filipino": "Manga, malagkit, matamis, malapot, oo?",
+      "transliteration": "Mang-ga, ma-lag-kit, ma-ta-mis, ma-la-pot, oo?",
+      "category": "Food",
+      "generated_at": "2026-10-14T20:30:23.569605"
+    },
+    {
+      "english": "This halo-halo, so many toppings, wow!",
+      "filipino": "Ang halo-halo, ang daming palamuti, wow!",
+      "transliteration": "Ang ha-lo-ha-lo, ang da-ming pa-la-mu-ti, wow!",
+      "category": "Food",
+      "generated_at": "2026-10-14T20:30:23.569616"
+    },
+    {
+      "english": "Crispy pata, tender meat, delicious!",
+      "filipino": "Crispy pata, malambot ang laman, masarap!",
+      "transliteration": "Cris-py pa-ta, ma-lam-bot ang la-man, ma-sa-rap!",
+      "category": "Food",
+      "generated_at": "2026-10-14T20:30:23.569617"
+    },
+    {
+      "english": "Sinigang, sour soup, very comforting.",
+      "filipino": "Sinigang, maasim na sabaw, nakakagaan.",
+      "transliteration": "Si-ni-gang, ma-a-sim na sa-baw, na-ka-ka-ga-an.",
+      "category": "Food",
+      "generated_at": "2026-10-14T20:30:23.569618"
+    },
+    {
+      "english": "Adobo, chicken or pork, classic taste.",
+      "filipino": "Adobo, manok o baboy, kilalang lasa.",
+      "transliteration": "A-do-bo, ma-no-k o ba-boy, ki-la-lang la-sa.",
+      "category": "Food",
+      "generated_at": "2026-10-14T20:30:23.569619"
     }
   ],
-  "last_updated": "2026-10-14T18:13:13.162402"
+  "last_updated": "2026-10-14T20:30:23.569620"
 }
