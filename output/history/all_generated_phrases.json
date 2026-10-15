@@ -19634,7 +19634,42 @@
       "transliteration": "bu-KSA-n ang I-sip, i-SA-ra ang DU-da",
       "category": "Balance",
       "generated_at": "2026-10-15T03:41:22.402255"
+    },
+    {
+      "english": "Bright sun, feels good.",
+      "filipino": "Araw na mainit, masarap sa balat.",
+      "transliteration": "A-raw na ma-i-nit, ma-sa-rap sa ba-lat.",
+      "category": "Weather",
+      "generated_at": "2026-10-15T15:51:41.772425"
+    },
+    {
+      "english": "Cool breeze, a welcome relief.",
+      "filipino": "Hangin na malamig, ginhawa.",
+      "transliteration": "Ha-ngin na ma-la-mig, gin-ha-wa.",
+      "category": "Weather",
+      "generated_at": "2026-10-15T15:51:41.772435"
+    },
+    {
+      "english": "Rain's here, grab an umbrella.",
+      "filipino": "Uulan na, kumuha ka ng payong.",
+      "transliteration": "Uu-lan na, ku-mu-ha ka ng pa-yong.",
+      "category": "Weather",
+      "generated_at": "2026-10-15T15:51:41.772437"
+    },
+    {
+      "english": "Sky's changing, storm's coming.",
+      "filipino": "Nag-iiba ang langit, paparating ang bagyo.",
+      "transliteration": "Nag-i-i-ba ang la-ngit, pa-pa-ra-ting ang ba-gyo.",
+      "category": "Weather",
+      "generated_at": "2026-10-15T15:51:41.772438"
+    },
+    {
+      "english": "Foggy morning, can't see far.",
+      "filipino": "Maulap na umaga, malabo ang tanaw.",
+      "transliteration": "Ma-u-lap na u-ma-ga, ma-la-bo ang ta-naw.",
+      "category": "Weather",
+      "generated_at": "2026-10-15T15:51:41.772439"
     }
   ],
-  "last_updated": "2026-10-15T03:41:22.402257"
+  "last_updated": "2026-10-15T15:51:41.772441"
 }
