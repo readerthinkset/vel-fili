@@ -20299,7 +20299,42 @@
       "transliteration": "Gu-bat ber-de, a-ni-no'y da-han-da-han na-hu-hu-log.",
       "category": "Colors",
       "generated_at": "2026-10-19T19:50:26.279389"
+    },
+    {
+      "english": "Gas leak, detected, strongly.",
+      "filipino": "May tagas, ng gas, naamoy.",
+      "transliteration": "May tagas, ng gas, naamoy.",
+      "category": "Emergency",
+      "generated_at": "2026-10-19T21:31:02.500792"
+    },
+    {
+      "english": "Structural damage, visible, now.",
+      "filipino": "May sira, sa istraktura, tingnan.",
+      "transliteration": "May sira, sa istraktura, tingnan.",
+      "category": "Emergency",
+      "generated_at": "2026-10-19T21:31:02.500802"
+    },
+    {
+      "english": "The ceiling, is cracking, loudly.",
+      "filipino": "Ang kisame, bumibitak, malakas.",
+      "transliteration": "Ang kisame, bumibitak, malakas.",
+      "category": "Emergency",
+      "generated_at": "2026-10-19T21:31:02.500804"
+    },
+    {
+      "english": "Warning siren, is sounding, now.",
+      "filipino": "Tunog ng babala, umiingay, na.",
+      "transliteration": "Tunog ng babala, umiingay, na.",
+      "category": "Emergency",
+      "generated_at": "2026-10-19T21:31:02.500805"
+    },
+    {
+      "english": "I feel, faint, very weak.",
+      "filipino": "Nahihilo, ako, nang husto.",
+      "transliteration": "Nahihilo, ako, nang husto.",
+      "category": "Emergency",
+      "generated_at": "2026-10-19T21:31:02.500806"
     }
   ],
-  "last_updated": "2026-10-19T19:50:26.279390"
+  "last_updated": "2026-10-19T21:31:02.500807"
 }
