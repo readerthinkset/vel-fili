@@ -20509,7 +20509,42 @@
       "transliteration": "Ha-ya-ang sum-sa-yaw ang ma-ga pan-tig.",
       "category": "Growth",
       "generated_at": "2026-10-20T20:33:57.275758"
+    },
+    {
+      "english": "Sun's dipping low, painting colors.",
+      "filipino": "Araw'y lumulubog, nagpipinta ng kulay.",
+      "transliteration": "A-raw'y loo-loo-boog, nag-pee-pin-ta nang koo-lai.",
+      "category": "Weather",
+      "generated_at": "2026-10-20T23:11:05.622567"
+    },
+    {
+      "english": "A soft breeze, whispers secrets.",
+      "filipino": "Mahinang simoy, bumubulong ng lihim.",
+      "transliteration": "Ma-hee-nang see-moy, boo-boo-loong nang lee-heem.",
+      "category": "Weather",
+      "generated_at": "2026-10-20T23:11:05.622574"
+    },
+    {
+      "english": "Drops begin to dance, a gentle rhythm.",
+      "filipino": "Patak nagsisimula, malumanay na tugtog.",
+      "transliteration": "Pa-tak nag-see-see-mee-la, ma-loo-ma-nai na toog-toog.",
+      "category": "Weather",
+      "generated_at": "2026-10-20T23:11:05.622576"
+    },
+    {
+      "english": "Clouds gather, a soft gray blanket.",
+      "filipino": "Ulap nagtitipon, malambot na kulay abo.",
+      "transliteration": "Oo-lap nag-tee-tee-poon, mal-lem-bot na koo-lai a-boh.",
+      "category": "Weather",
+      "generated_at": "2026-10-20T23:11:05.622577"
+    },
+    {
+      "english": "Sunbeams break through, golden shafts.",
+      "filipino": "Sinag ng araw, ginintuang sinulid.",
+      "transliteration": "See-nag nang a-raw, gee-nee-too-ang see-noo-leed.",
+      "category": "Weather",
+      "generated_at": "2026-10-20T23:11:05.622579"
     }
   ],
-  "last_updated": "2026-10-20T20:33:57.275760"
+  "last_updated": "2026-10-20T23:11:05.622580"
 }
