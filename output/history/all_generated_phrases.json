@@ -20439,7 +20439,42 @@
       "transliteration": "Ka-pa-ya-pa-an, na-ta-tag-pu-an ka.",
       "category": "Happiness",
       "generated_at": "2026-10-20T16:54:25.107876"
+    },
+    {
+      "english": "This food, smells amazing.",
+      "filipino": "Ang pagkain na ito, mabango.",
+      "transliteration": "Ang pagkain na ito, mabango.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-20T18:27:06.309263"
+    },
+    {
+      "english": "Let's rest, for a bit.",
+      "filipino": "Maaari tayong magpahinga, sandali.",
+      "transliteration": "Maaari tayong magpahinga, sandali.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-20T18:27:06.309274"
+    },
+    {
+      "english": "Look at that, bird.",
+      "filipino": "Tingnan mo 'yan, ibon.",
+      "transliteration": "Tingnan mo 'yan, ibon.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-20T18:27:06.309276"
+    },
+    {
+      "english": "Your help, is appreciated.",
+      "filipino": "Ang tulong mo, lubos kong pinasasalamatan.",
+      "transliteration": "Ang tulong mo, lubos kong pinasasalamatan.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-20T18:27:06.309277"
+    },
+    {
+      "english": "This place, is peaceful.",
+      "filipino": "Ang lugar na ito, payapa.",
+      "transliteration": "Ang lugar na ito, payapa.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-20T18:27:06.309278"
     }
   ],
-  "last_updated": "2026-10-20T16:54:25.107878"
+  "last_updated": "2026-10-20T18:27:06.309280"
 }
