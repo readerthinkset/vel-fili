@@ -21454,7 +21454,42 @@
       "transliteration": "Nah-too-kloh-sah-n nah-teen, hee-mah-lah nahng boo-hye. Sah-mah-sah-mah.",
       "category": "Relationships",
       "generated_at": "2026-10-26T19:53:14.066973"
+    },
+    {
+      "english": "Tiny frog, hops on lily pad.",
+      "filipino": "Maliit na palaka, talon sa dahon ng water lily.",
+      "transliteration": "Mali-it na pa-la-ka, ta-lon sa da-hon ng wa-ter li-ly.",
+      "category": "Animals",
+      "generated_at": "2026-10-26T21:39:07.569374"
+    },
+    {
+      "english": "Bright parrot, mimics human speech.",
+      "filipino": "Makulay na loro, gayahin ang salita ng tao.",
+      "transliteration": "Ma-ku-lay na lo-ro, ga-ya-hin ang sa-li-ta ng ta-o.",
+      "category": "Animals",
+      "generated_at": "2026-10-26T21:39:07.569385"
+    },
+    {
+      "english": "Slow snail, leaves a trail.",
+      "filipino": "Mabagal na suso, nag-iiwan ng bakas.",
+      "transliteration": "Ma-ba-gal na su-so, nag-ii-wa-n ng ba-kas.",
+      "category": "Animals",
+      "generated_at": "2026-10-26T21:39:07.569387"
+    },
+    {
+      "english": "Fierce crocodile, waits in ambush.",
+      "filipino": "Mabangis na buwaya, nag-aabang sa patibong.",
+      "transliteration": "Ma-ba-ngis na bu-wa-ya, nag-a-a-bang sa pa-ti-bong.",
+      "category": "Animals",
+      "generated_at": "2026-10-26T21:39:07.569388"
+    },
+    {
+      "english": "Graceful swan, glides on water.",
+      "filipino": "Marilag na gansa, lumalangoy sa tubig.",
+      "transliteration": "Ma-ri-lag na gan-sa, lu-ma-la-ngoy sa tu-big.",
+      "category": "Animals",
+      "generated_at": "2026-10-26T21:39:07.569389"
     }
   ],
-  "last_updated": "2026-10-26T19:53:14.066975"
+  "last_updated": "2026-10-26T21:39:07.569391"
 }
