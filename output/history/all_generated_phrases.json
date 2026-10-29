@@ -21839,7 +21839,42 @@
       "transliteration": "Itong kape, matapang at masarap.",
       "category": "Common Expressions",
       "generated_at": "2026-10-28T21:39:00.293163"
+    },
+    {
+      "english": "Sun's shy today, peeking out.",
+      "filipino": "Mahihiya ang araw, sumisilip.",
+      "transliteration": "Ma-hee-hee-ah ang ah-rahw, soo-mee-lee-pahp.",
+      "category": "Weather",
+      "generated_at": "2026-10-29T00:00:10.850254"
+    },
+    {
+      "english": "Sky's got streaks, like paint.",
+      "filipino": "May guhit ang langit, parang pinta.",
+      "transliteration": "My goo-heet ang lah-ngit, pah-rahng peen-tah.",
+      "category": "Weather",
+      "generated_at": "2026-10-29T00:00:10.850263"
+    },
+    {
+      "english": "Air's a bit humid, sticky.",
+      "filipino": "Medyo maalinsangan ang hangin, malagkit.",
+      "transliteration": "Med-yo ma-ahl-in-sah-ngan ang hah-ngin, ma-lahg-keet.",
+      "category": "Weather",
+      "generated_at": "2026-10-29T00:00:10.850265"
+    },
+    {
+      "english": "Wind's rustling leaves, a soft sound.",
+      "filipino": "Huni ng hangin, sa mga dahon.",
+      "transliteration": "Hoo-nee nang hah-ngin, sah mah-ngah dah-hon.",
+      "category": "Weather",
+      "generated_at": "2026-10-29T00:00:10.850266"
+    },
+    {
+      "english": "Clouds are like fluffy sheep, moving.",
+      "filipino": "Balahibo ng ulap, parang tupa, gumagalaw.",
+      "transliteration": "Bah-lah-hee-boh nang oo-lahp, pah-rahng too-pah, goo-mah-gah-lahw.",
+      "category": "Weather",
+      "generated_at": "2026-10-29T00:00:10.850267"
     }
   ],
-  "last_updated": "2026-10-28T21:39:00.293165"
+  "last_updated": "2026-10-29T00:00:10.850269"
 }
