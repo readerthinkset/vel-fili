@@ -22294,7 +22294,42 @@
       "transliteration": "Su-mi-sid sa wi-ka, dam-hin ang a-gos.",
       "category": "Confidence",
       "generated_at": "2026-10-31T18:29:19.740461"
+    },
+    {
+      "english": "Crimson sunset, fiery kiss.",
+      "filipino": "Pula na takip-silim, halik na apoy.",
+      "transliteration": "Poo-la na ta-keep-see-leem, hah-leek na ah-poy.",
+      "category": "Colors",
+      "generated_at": "2026-10-31T20:27:53.864596"
+    },
+    {
+      "english": "Azure sky, vast and free.",
+      "filipino": "Asul na langit, malawak at malaya.",
+      "transliteration": "Ah-soo-l na lah-ngit, ma-la-wahk at ma-la-ya.",
+      "category": "Colors",
+      "generated_at": "2026-10-31T20:27:53.864608"
+    },
+    {
+      "english": "Emerald leaves, nature's breath.",
+      "filipino": "Esmeralda na dahon, hininga ng kalikasan.",
+      "transliteration": "Es-me-rahl-da na da-hon, hee-neen-ga ng ka-lee-ka-san.",
+      "category": "Colors",
+      "generated_at": "2026-10-31T20:27:53.864609"
+    },
+    {
+      "english": "Golden hour, magic starts.",
+      "filipino": "Gintong oras, nagsisimula ang hiwaga.",
+      "transliteration": "Geen-tong o-ras, nag-see-see-moo-la ang hee-wa-ga.",
+      "category": "Colors",
+      "generated_at": "2026-10-31T20:27:53.864610"
+    },
+    {
+      "english": "Deep indigo, a starry night.",
+      "filipino": "Malalim na indigo, gabing puno ng bituin.",
+      "transliteration": "Ma-la-leem na in-dee-go, ga-beeng poo-no ng bee-too-in.",
+      "category": "Colors",
+      "generated_at": "2026-10-31T20:27:53.864611"
     }
   ],
-  "last_updated": "2026-10-31T18:29:19.740463"
+  "last_updated": "2026-10-31T20:27:53.864612"
 }
