@@ -22329,7 +22329,42 @@
       "transliteration": "Ma-la-leem na in-dee-go, ga-beeng poo-no ng bee-too-in.",
       "category": "Colors",
       "generated_at": "2026-10-31T20:27:53.864611"
+    },
+    {
+      "english": "A little, of everything, please.",
+      "filipino": "Konti, sa lahat, pakiusap.",
+      "transliteration": "Kon-tee, sa la-hat, pa-kee-oo-sap.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-31T23:23:09.398269"
+    },
+    {
+      "english": "What's, the daily, special?",
+      "filipino": "Ano, ang pang-araw-araw, na espesyal?",
+      "transliteration": "A-no, ang pang-a-raow-a-raow, na es-pe-syal?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-31T23:23:09.398279"
+    },
+    {
+      "english": "Can I, see, the menu?",
+      "filipino": "Maaari, ko bang, makita, ang menu?",
+      "transliteration": "Ma-a-ri, ko bang, ma-ki-ta, ang me-nu?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-31T23:23:09.398280"
+    },
+    {
+      "english": "Just, a little, spicy.",
+      "filipino": "Bahagya, lang, maanghang.",
+      "transliteration": "Ba-hag-ya, lang, ma-ang-hang.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-31T23:23:09.398280"
+    },
+    {
+      "english": "This smells, amazing, wow.",
+      "filipino": "Ang bango, talaga, wow.",
+      "transliteration": "Ang ba-ngo, ta-la-ga, wow.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-31T23:23:09.398281"
     }
   ],
-  "last_updated": "2026-10-31T20:27:53.864612"
+  "last_updated": "2026-10-31T23:23:09.398282"
 }
