@@ -23169,7 +23169,42 @@
       "transliteration": "Mag-ipon ng unan, para sa biglang ulan",
       "category": "Finance",
       "generated_at": "2026-11-05T22:40:28.413053"
+    },
+    {
+      "english": "Fire, behind me, please back up",
+      "filipino": "Sunog, sa likod ko, lumayo kayo",
+      "transliteration": "Sunog, sa likod ko, lumayo kayo",
+      "category": "Emergency",
+      "generated_at": "2026-11-06T00:58:01.018099"
+    },
+    {
+      "english": "Call 911 now, I am injured",
+      "filipino": "Tawag sa 911 ngayon, nasugatan ako",
+      "transliteration": "Tawag sa 911 ngayon, nasugatan ako",
+      "category": "Emergency",
+      "generated_at": "2026-11-06T00:58:01.018111"
+    },
+    {
+      "english": "I smell burning, leave the room now",
+      "filipino": "Amoy nasusunog, umalis na kayo ngayon",
+      "transliteration": "Amoy nasusunog, umalis na kayo ngayon",
+      "category": "Emergency",
+      "generated_at": "2026-11-06T00:58:01.018112"
+    },
+    {
+      "english": "Help me, I fell, my arm hurts",
+      "filipino": "Tulungan ninyo ako, nahulog ako, masakit braso ko",
+      "transliteration": "Tulungan ninyo ako, nahulog ako, masakit braso ko",
+      "category": "Emergency",
+      "generated_at": "2026-11-06T00:58:01.018113"
+    },
+    {
+      "english": "Someone fainted, bring water and stay calm",
+      "filipino": "May nanghihina, magdala ng tubig, manatiling kalmado",
+      "transliteration": "May nanghihina, magdala ng tubig, manatiling kalmado",
+      "category": "Emergency",
+      "generated_at": "2026-11-06T00:58:01.018114"
     }
   ],
-  "last_updated": "2026-11-05T22:40:28.413054"
+  "last_updated": "2026-11-06T00:58:01.018115"
 }
