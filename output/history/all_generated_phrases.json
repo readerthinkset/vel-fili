@@ -24009,7 +24009,42 @@
       "transliteration": "ee-pah-tong ang sah-lee-tah sah dee-lah mo.",
       "category": "Growth",
       "generated_at": "2026-11-10T19:27:47.522307"
+    },
+    {
+      "english": "Say it slowly, masasanay ka rin.",
+      "filipino": "Sabihin mo nang dahan-dahan, masasanay ka rin.",
+      "transliteration": "Sa-bi-hin mo nang da-han-da-han, ma-sa-sa-nay ka rin.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T20:43:21.232454"
+    },
+    {
+      "english": "Use simple words, it’s okay.",
+      "filipino": "Gumamit ka ng simple na salita, okay lang.",
+      "transliteration": "Gu-ma-mi-t ka ng sim-ple na sa-li-ta, o-kay lang.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T20:43:21.232466"
+    },
+    {
+      "english": "Ask for help, don’t be shy.",
+      "filipino": "Humingi ka ng tulong, huwag mahiya.",
+      "transliteration": "Hu-meng-ki ka ng tu-long, hu-wag ma-hi-ya.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T20:43:21.232467"
+    },
+    {
+      "english": "Try again, practice makes sense.",
+      "filipino": "Subukan mo ulit, masasanay ka rin.",
+      "transliteration": "Su-bu-kan mo u-lit, ma-sa-sa-nay ka rin.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T20:43:21.232469"
+    },
+    {
+      "english": "Welcome! Let’s talk like neighbors.",
+      "filipino": "Maligayang pagdating, mag-usap tayo na parang kapitbahay.",
+      "transliteration": "Ma-li-ga-yang pag-da-ting, ma-g-u-sap ta-yo na pa-rang ka-pit-ba-hay.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T20:43:21.232470"
     }
   ],
-  "last_updated": "2026-11-10T19:27:47.522309"
+  "last_updated": "2026-11-10T20:43:21.232472"
 }
