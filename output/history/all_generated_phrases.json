@@ -23939,7 +23939,42 @@
       "transliteration": "Itama nang may kabaitan, tuloy lang sa pasulong.",
       "category": "Success",
       "generated_at": "2026-11-10T07:08:35.187813"
+    },
+    {
+      "english": "You can do this, one try.",
+      "filipino": "Kaya mo ito, isang subok lang.",
+      "transliteration": "Kaya mo ito, isang subok lang.",
+      "category": "Confidence",
+      "generated_at": "2026-11-10T08:26:32.933408"
+    },
+    {
+      "english": "It’s okay, keep going anyway.",
+      "filipino": "Okay lang, tuloy lang.",
+      "transliteration": "Okay lang, tuloy lang.",
+      "category": "Confidence",
+      "generated_at": "2026-11-10T08:26:32.933421"
+    },
+    {
+      "english": "Believe yourself, practice will follow.",
+      "filipino": "Maniwala ka, susunod ang practice.",
+      "transliteration": "Maniwala ka, susunod ang practice.",
+      "category": "Confidence",
+      "generated_at": "2026-11-10T08:26:32.933423"
+    },
+    {
+      "english": "Say it softly, then clearer.",
+      "filipino": "Sabihin mo nang dahan-dahan, mas malinaw.",
+      "transliteration": "Sabihin mo nang dahan-dahan, mas malinaw.",
+      "category": "Confidence",
+      "generated_at": "2026-11-10T08:26:32.933424"
+    },
+    {
+      "english": "Even slow speech is still progress.",
+      "filipino": "Kahit mabagal, progress pa rin.",
+      "transliteration": "Kahit mabagal, progress pa rin.",
+      "category": "Confidence",
+      "generated_at": "2026-11-10T08:26:32.933426"
     }
   ],
-  "last_updated": "2026-11-10T07:08:35.187815"
+  "last_updated": "2026-11-10T08:26:32.933428"
 }
