@@ -23834,7 +23834,42 @@
       "transliteration": "Maliin, matuto, subukan ulit.",
       "category": "Perseverance",
       "generated_at": "2026-11-09T23:25:00.060044"
+    },
+    {
+      "english": "What sizes do you have, for me?",
+      "filipino": "Anong mga sukat ang meron, para sa akin?",
+      "transliteration": "Ano ang mga sukat ang meron, para sa akin?",
+      "category": "Shopping",
+      "generated_at": "2026-11-10T00:42:58.778162"
+    },
+    {
+      "english": "Can I see, the inside details?",
+      "filipino": "Pwede ko bang makita, ang loob na detalye?",
+      "transliteration": "Pwede ko bang makita, ang loob na detalye?",
+      "category": "Shopping",
+      "generated_at": "2026-11-10T00:42:58.778174"
+    },
+    {
+      "english": "Is there, a matching bag or shoes?",
+      "filipino": "May tugmang bag o sapatos, ba?",
+      "transliteration": "May tugmang bag o sapatos, ba?",
+      "category": "Shopping",
+      "generated_at": "2026-11-10T00:42:58.778176"
+    },
+    {
+      "english": "Does it come, in other colors?",
+      "filipino": "May iba pa bang kulay, nito?",
+      "transliteration": "May iba pa bang kulay, nito?",
+      "category": "Shopping",
+      "generated_at": "2026-11-10T00:42:58.778177"
+    },
+    {
+      "english": "Could you show, the price tag?",
+      "filipino": "Maaari mo bang ipakita, ang price tag?",
+      "transliteration": "Maaari mo bang ipakita, ang price tag?",
+      "category": "Shopping",
+      "generated_at": "2026-11-10T00:42:58.778179"
     }
   ],
-  "last_updated": "2026-11-09T23:25:00.060045"
+  "last_updated": "2026-11-10T00:42:58.778181"
 }
