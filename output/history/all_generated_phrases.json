@@ -24149,7 +24149,42 @@
       "transliteration": "Sana su-munod ang tawa saan ka man pu-munta.",
       "category": "Holidays",
       "generated_at": "2026-11-11T04:12:53.129950"
+    },
+    {
+      "english": "Hello! Kumusta ka, ngayon?",
+      "filipino": "Kumusta ka ngayon?",
+      "transliteration": "Ku-mus-ta ka ngu-yon?",
+      "category": "Greetings",
+      "generated_at": "2026-11-11T19:23:40.656057"
+    },
+    {
+      "english": "Good to see you, kamusta?",
+      "filipino": "Ikaw ba’y kamusta?",
+      "transliteration": "I-ka-woo ba’y ka-mus-ta?",
+      "category": "Greetings",
+      "generated_at": "2026-11-11T19:23:40.656068"
+    },
+    {
+      "english": "Hi, ingat ka palagi, ha?",
+      "filipino": "Ingat ka palagi, ha?",
+      "transliteration": "Ingat ka pa-la-gi, ha?",
+      "category": "Greetings",
+      "generated_at": "2026-11-11T19:23:40.656070"
+    },
+    {
+      "english": "Welcome po, kumain ka na?",
+      "filipino": "Maligayang pagdating po, kumain ka na?",
+      "transliteration": "Ma-li-ga-yang pa-gat-ing po, ku-main ka na?",
+      "category": "Greetings",
+      "generated_at": "2026-11-11T19:23:40.656071"
+    },
+    {
+      "english": "Hey, salamat for coming today.",
+      "filipino": "Salamat sa pagpunta mo ngayon.",
+      "transliteration": "Sa-la-mat sa pag-pun-ta mo ngu-yon.",
+      "category": "Greetings",
+      "generated_at": "2026-11-11T19:23:40.656073"
     }
   ],
-  "last_updated": "2026-11-11T04:12:53.129953"
+  "last_updated": "2026-11-11T19:23:40.656075"
 }
