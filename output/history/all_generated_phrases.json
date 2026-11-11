@@ -24219,7 +24219,42 @@
       "transliteration": "Sinigang na ito, maasim at nakaka-refresh.",
       "category": "Food",
       "generated_at": "2026-11-11T21:03:04.609999"
+    },
+    {
+      "english": "Good morning! How are you today?",
+      "filipino": "Magandang umaga! Kumusta ka ngayon?",
+      "transliteration": "ma-ga-an-dang u-ma-ga, ku-mus-ta ka ngay-on",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-11T23:21:43.934018"
+    },
+    {
+      "english": "Good evening. Are you busy right now?",
+      "filipino": "Magandang gabi. Abala ka ba ngayon?",
+      "transliteration": "ma-ga-an-dang ga-bi, a-ba-la ka ba ngu-yon",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-11T23:21:43.934029"
+    },
+    {
+      "english": "Nice to meet you. What’s your name?",
+      "filipino": "Ikinagagalak kitang makilala. Ano ang pangalan mo?",
+      "transliteration": "i-ki-na-ga-ga-lak ka-ting ma-ki-la-la, a-no ang pa-ga-lan mo",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-11T23:21:43.934031"
+    },
+    {
+      "english": "My name is Alex. I’m from Canada.",
+      "filipino": "Ako si Alex. Taga-Canada ako.",
+      "transliteration": "a-ko si A-leks, ta-ga-Can-a-da a-ko",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-11T23:21:43.934032"
+    },
+    {
+      "english": "Please, speak slowly so I can follow.",
+      "filipino": "Pakiusap, magsalita nang dahan-dahan.",
+      "transliteration": "pa-kiu-sa-p, mag-sa-li-ta nang da-han-da-han",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-11T23:21:43.934034"
     }
   ],
-  "last_updated": "2026-11-11T21:03:04.610001"
+  "last_updated": "2026-11-11T23:21:43.934036"
 }
