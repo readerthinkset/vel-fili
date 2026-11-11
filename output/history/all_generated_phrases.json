@@ -24184,7 +24184,42 @@
       "transliteration": "Sa-la-mat sa pag-pun-ta mo ngu-yon.",
       "category": "Greetings",
       "generated_at": "2026-11-11T19:23:40.656073"
+    },
+    {
+      "english": "Try this pancit bihon, it’s savory.",
+      "filipino": "Subukan mo itong pancit bihon, masarap.",
+      "transliteration": "Subukan mo itong pancit bihon, masarap.",
+      "category": "Food",
+      "generated_at": "2026-11-11T21:03:04.609979"
+    },
+    {
+      "english": "I love this chicken adobo with rice.",
+      "filipino": "Gusto ko ang chicken adobo, with kanin.",
+      "transliteration": "Gusto ko ang chicken adobo, with kanin.",
+      "category": "Food",
+      "generated_at": "2026-11-11T21:03:04.609995"
+    },
+    {
+      "english": "This kare-kare is peanuty and rich.",
+      "filipino": "Kare-kare na ito, mayaman at peanuty.",
+      "transliteration": "Kare-kare na ito, mayaman at peanuty.",
+      "category": "Food",
+      "generated_at": "2026-11-11T21:03:04.609996"
+    },
+    {
+      "english": "Dip your lumpia, it tastes amazing.",
+      "filipino": "Isawsaw mo ang lumpia, sobrang sarap.",
+      "transliteration": "Isawsaw mo ang lumpia, sobrang sarap.",
+      "category": "Food",
+      "generated_at": "2026-11-11T21:03:04.609998"
+    },
+    {
+      "english": "Sinigang na ito, sour and refreshing.",
+      "filipino": "Sinigang na ito, maasim at nakaka-refresh.",
+      "transliteration": "Sinigang na ito, maasim at nakaka-refresh.",
+      "category": "Food",
+      "generated_at": "2026-11-11T21:03:04.609999"
     }
   ],
-  "last_updated": "2026-11-11T19:23:40.656075"
+  "last_updated": "2026-11-11T21:03:04.610001"
 }
