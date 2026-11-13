@@ -24499,7 +24499,42 @@
       "transliteration": "Mabilis ang pag-ulan, manatili sa loob.",
       "category": "Weather",
       "generated_at": "2026-11-13T04:39:14.059562"
+    },
+    {
+      "english": "When you arrive, greet with a smile.",
+      "filipino": "Pagdating mo, bati ka na may ngiti.",
+      "transliteration": "Pag-dating mo, bati ka na may ngiti.",
+      "category": "Culture",
+      "generated_at": "2026-11-13T19:23:18.349261"
+    },
+    {
+      "english": "Let us listen first, before replying.",
+      "filipino": "Makinig muna, bago ka sumagot.",
+      "transliteration": "Ma-ki-nig mu-na, ba-go ka su-ma-sagot.",
+      "category": "Culture",
+      "generated_at": "2026-11-13T19:23:18.349276"
+    },
+    {
+      "english": "Sharing is normal, not a big deal.",
+      "filipino": "Pagbabahagi, normal lang, walang drama.",
+      "transliteration": "Pag-ba-ba-hagi, nor-mal lang, wa-lang dra-ma.",
+      "category": "Culture",
+      "generated_at": "2026-11-13T19:23:18.349278"
+    },
+    {
+      "english": "We talk softly, and we respect space.",
+      "filipino": "Nagsasalita tayo nang mahina, iginagalang ang espasyo.",
+      "transliteration": "Nag-sa-sa-li-ta ta-yo nang ma-hi-na, i-gi-na-galang ang es-pas-yo.",
+      "category": "Culture",
+      "generated_at": "2026-11-13T19:23:18.349280"
+    },
+    {
+      "english": "We take turns, so everyone gets heard.",
+      "filipino": "Nagtitigi kami, para naririnig ang lahat.",
+      "transliteration": "Nag-ti-ti-gi ka-mi, pa-ra na-ri-ri-nig ang la-hat.",
+      "category": "Culture",
+      "generated_at": "2026-11-13T19:23:18.349281"
     }
   ],
-  "last_updated": "2026-11-13T04:39:14.059564"
+  "last_updated": "2026-11-13T19:23:18.349283"
 }
