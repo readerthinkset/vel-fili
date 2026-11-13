@@ -24534,7 +24534,42 @@
       "transliteration": "Nag-ti-ti-gi ka-mi, pa-ra na-ri-ri-nig ang la-hat.",
       "category": "Culture",
       "generated_at": "2026-11-13T19:23:18.349281"
+    },
+    {
+      "english": "Please look at the speaker’s mouth.",
+      "filipino": "Pakitingnan ang bibig ng nagsasalita.",
+      "transliteration": "pa-ki-TIN-gan ang BI-big ng na-GSA-sa-LI-ta",
+      "category": "Directions",
+      "generated_at": "2026-11-13T20:45:50.519755"
+    },
+    {
+      "english": "Now try it with me, okay?",
+      "filipino": "Ngayon, subukan natin ito, ha?",
+      "transliteration": "NGA-yon, su-BU-kan na-tin i-to, ha",
+      "category": "Directions",
+      "generated_at": "2026-11-13T20:45:50.519767"
+    },
+    {
+      "english": "Go ahead, say it one time.",
+      "filipino": "Sige, sabihin mo lang nang minsan.",
+      "transliteration": "SI-ge, sa-biHIN mo lang nang MIN-san",
+      "category": "Directions",
+      "generated_at": "2026-11-13T20:45:50.519768"
+    },
+    {
+      "english": "Don’t worry, you can do it.",
+      "filipino": "Huwag kang mag-alala, kaya mo.",
+      "transliteration": "HU-wag kang ma-ga-a-la-la, ka-ya mo",
+      "category": "Directions",
+      "generated_at": "2026-11-13T20:45:50.519769"
+    },
+    {
+      "english": "Breathe in, then speak slowly.",
+      "filipino": "Huminga muna, bago mag-salita.",
+      "transliteration": "hu-MIN-ga mu-na, ba-go maG-sa-LI-ta",
+      "category": "Directions",
+      "generated_at": "2026-11-13T20:45:50.519771"
     }
   ],
-  "last_updated": "2026-11-13T19:23:18.349283"
+  "last_updated": "2026-11-13T20:45:50.519772"
 }
