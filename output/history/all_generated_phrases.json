@@ -24464,7 +24464,42 @@
       "transliteration": "Manatiling mabait, at manatiling matapang.",
       "category": "Strength",
       "generated_at": "2026-11-13T00:47:49.042140"
+    },
+    {
+      "english": "It’s sunny today, bring sunglasses.",
+      "filipino": "Maaraw ngayon, magdala ng sunglasses.",
+      "transliteration": "Maaraw ngayon, magdala ng sunglasses.",
+      "category": "Weather",
+      "generated_at": "2026-11-13T04:39:14.059547"
+    },
+    {
+      "english": "The sun is strong, watch your skin.",
+      "filipino": "Malakas ang araw, mag-ingat sa balat.",
+      "transliteration": "Malakas ang araw, mag-ingat sa balat.",
+      "category": "Weather",
+      "generated_at": "2026-11-13T04:39:14.059557"
+    },
+    {
+      "english": "Warm weather, feel free to walk.",
+      "filipino": "Mainit ang panahon, puwede kang maglakad.",
+      "transliteration": "Mainit ang panahon, puwede kang maglakad.",
+      "category": "Weather",
+      "generated_at": "2026-11-13T04:39:14.059559"
+    },
+    {
+      "english": "Clouds are low, looks like rain.",
+      "filipino": "Mababang ang mga ulap, mukhang uulan.",
+      "transliteration": "Mababang ang mga ulap, mukhang uulan.",
+      "category": "Weather",
+      "generated_at": "2026-11-13T04:39:14.059560"
+    },
+    {
+      "english": "Rain is coming fast, stay inside.",
+      "filipino": "Mabilis ang pag-ulan, manatili sa loob.",
+      "transliteration": "Mabilis ang pag-ulan, manatili sa loob.",
+      "category": "Weather",
+      "generated_at": "2026-11-13T04:39:14.059562"
     }
   ],
-  "last_updated": "2026-11-13T00:47:49.042144"
+  "last_updated": "2026-11-13T04:39:14.059564"
 }
