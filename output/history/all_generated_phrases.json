@@ -24569,7 +24569,42 @@
       "transliteration": "hu-MIN-ga mu-na, ba-go maG-sa-LI-ta",
       "category": "Directions",
       "generated_at": "2026-11-13T20:45:50.519771"
+    },
+    {
+      "english": "Let's study together, right now.",
+      "filipino": "Mag-aral tayo, ngayon na.",
+      "transliteration": "mah-GAR-al tah-yo, NGAY-on nah",
+      "category": "Education",
+      "generated_at": "2026-11-13T22:24:52.005013"
+    },
+    {
+      "english": "I understand, kahit paunti-unti.",
+      "filipino": "Naiintindihan ko, kahit paunti-unti.",
+      "transliteration": "nyai-in-tin-dee-gan koh, kahit pah-un-tee-oon-tee",
+      "category": "Education",
+      "generated_at": "2026-11-13T22:24:52.005027"
+    },
+    {
+      "english": "Repeat after me, please.",
+      "filipino": "Ulit ka pagkatapos ko, pakiusap.",
+      "transliteration": "oo-LIT kah pahgsah-DOON koh, pah-kee-yoo-sahp",
+      "category": "Education",
+      "generated_at": "2026-11-13T22:24:52.005028"
+    },
+    {
+      "english": "How do you say this?",
+      "filipino": "Paano mo ito sinasabi?",
+      "transliteration": "PAA-noh moo ee-toh si-nah-sah-bee",
+      "category": "Education",
+      "generated_at": "2026-11-13T22:24:52.005029"
+    },
+    {
+      "english": "Where is the classroom?",
+      "filipino": "Nasaan ang silid-aralan?",
+      "transliteration": "nah-SAHN ang see-lid ah-rah-lan",
+      "category": "Education",
+      "generated_at": "2026-11-13T22:24:52.005029"
     }
   ],
-  "last_updated": "2026-11-13T20:45:50.519772"
+  "last_updated": "2026-11-13T22:24:52.005031"
 }
