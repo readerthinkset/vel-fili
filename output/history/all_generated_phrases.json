@@ -24814,7 +24814,42 @@
       "transliteration": "Kinuha ko ang tuwalya, pumunta sa banyo.",
       "category": "Daily Routine",
       "generated_at": "2026-11-14T23:29:51.616388"
+    },
+    {
+      "english": "Huwag muna, wait tayo, please.",
+      "filipino": "Huwag muna, maghintay muna tayo, please.",
+      "transliteration": "Huwag muna, maghihintay muna tayo, please.",
+      "category": "Time",
+      "generated_at": "2026-11-15T04:23:02.309656"
+    },
+    {
+      "english": "Wait a minute, I'll be back.",
+      "filipino": "Sandali lang, babalik ako agad.",
+      "transliteration": "Sandali lang, babalik ako agad.",
+      "category": "Time",
+      "generated_at": "2026-11-15T04:23:02.309670"
+    },
+    {
+      "english": "Let's go now, before it starts.",
+      "filipino": "Umalis na tayo ngayon, bago magsimula.",
+      "transliteration": "Umalis na tayo ngayon, bago magsimula.",
+      "category": "Time",
+      "generated_at": "2026-11-15T04:23:02.309672"
+    },
+    {
+      "english": "Not yet, give me a minute.",
+      "filipino": "Hindi pa, bigyan mo ako ng isang minuto.",
+      "transliteration": "Hindi pa, bigyan mo ako ng isang minuto.",
+      "category": "Time",
+      "generated_at": "2026-11-15T04:23:02.309674"
+    },
+    {
+      "english": "Soon, we’ll eat after class.",
+      "filipino": "Mamaya, kakain tayo pagkatapos ng klase.",
+      "transliteration": "Mamaya, kakain tayo pagkatapos ng klase.",
+      "category": "Time",
+      "generated_at": "2026-11-15T04:23:02.309675"
     }
   ],
-  "last_updated": "2026-11-14T23:29:51.616391"
+  "last_updated": "2026-11-15T04:23:02.309677"
 }
