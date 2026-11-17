@@ -25164,7 +25164,42 @@
       "transliteration": "Ma-gla-kad pa rin, ka-hit may ngi-ting ta-pang.",
       "category": "Courage",
       "generated_at": "2026-11-17T02:41:26.031285"
+    },
+    {
+      "english": "Is this on sale today?",
+      "filipino": "May sale po ba ito ngayon?",
+      "transliteration": "May sale po ba i-to ngayon?",
+      "category": "Shopping",
+      "generated_at": "2026-11-17T06:05:06.419786"
+    },
+    {
+      "english": "Do you have this in size M?",
+      "filipino": "May ganito po ba sa size M?",
+      "transliteration": "May ganoon po ba sa size em?",
+      "category": "Shopping",
+      "generated_at": "2026-11-17T06:05:06.419799"
+    },
+    {
+      "english": "I’d like to try it on.",
+      "filipino": "Gusto ko po itong subukan.",
+      "transliteration": "Gusto ko po i-toong subukan.",
+      "category": "Shopping",
+      "generated_at": "2026-11-17T06:05:06.419800"
+    },
+    {
+      "english": "Where can I find the fitting room?",
+      "filipino": "Saan po ang fitting room?",
+      "transliteration": "Saan po ang fitting room?",
+      "category": "Shopping",
+      "generated_at": "2026-11-17T06:05:06.419802"
+    },
+    {
+      "english": "This color looks great on me.",
+      "filipino": "Maganda ang kulay na ito sa akin.",
+      "transliteration": "Maganda ang kulay na i-to sa akin.",
+      "category": "Shopping",
+      "generated_at": "2026-11-17T06:05:06.419803"
     }
   ],
-  "last_updated": "2026-11-17T02:41:26.031287"
+  "last_updated": "2026-11-17T06:05:06.419804"
 }
