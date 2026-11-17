@@ -25269,7 +25269,42 @@
       "transliteration": "Kahit mahirap, naroon pa rin ang pag-asa.",
       "category": "Hope",
       "generated_at": "2026-11-17T22:01:25.669488"
+    },
+    {
+      "english": "Excuse me, where is the nearest station?",
+      "filipino": "Pasensiya, nasaan ang pinakamalapit na istasyon?",
+      "transliteration": "Pa-sen-si-ya, na-saan ang pinaka-ma-lapit na is-ta-syon?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-17T23:47:25.345122"
+    },
+    {
+      "english": "Sorry, I don’t understand. Can you repeat?",
+      "filipino": "Pasensya na, hindi ko naintindihan. Ulitin mo.",
+      "transliteration": "Pa-sen-si-ya na, hin-di ko nai-nin-indi-han. U-li-tin mo.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-17T23:47:25.345137"
+    },
+    {
+      "english": "I’m just checking, is this seat taken?",
+      "filipino": "Titingin lang, may nakaupo na ba dito?",
+      "transliteration": "Ti-ti-ning lang, may na-ka-u-po na ba di-to?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-17T23:47:25.345139"
+    },
+    {
+      "english": "Wait here, I’ll be right back.",
+      "filipino": "Dito ka muna, babalik din ako agad.",
+      "transliteration": "Di-to ka mu-na, ba-balik din a-ko a-gad.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-17T23:47:25.345144"
+    },
+    {
+      "english": "We’re almost there, don’t worry.",
+      "filipino": "Malapit na tayo, huwag kang mag-alala.",
+      "transliteration": "Ma-la-pit na ta-yo, huwag kang mag-a-a-la-la.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-17T23:47:25.345145"
     }
   ],
-  "last_updated": "2026-11-17T22:01:25.669490"
+  "last_updated": "2026-11-17T23:47:25.345148"
 }
