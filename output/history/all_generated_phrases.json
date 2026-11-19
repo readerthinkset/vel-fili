@@ -25584,7 +25584,42 @@
       "transliteration": "Subukan ang salita, tapos mag-pause.",
       "category": "Directions",
       "generated_at": "2026-11-19T20:09:22.295321"
+    },
+    {
+      "english": "Good morning, today feels promising.",
+      "filipino": "Magandang umaga, may pag-asa ang araw.",
+      "transliteration": "maGAan-dang U-maga, may pa-GA-sa ang ARAW",
+      "category": "Joy",
+      "generated_at": "2026-11-19T21:58:36.857989"
+    },
+    {
+      "english": "I’m smiling, kahit pagod ako.",
+      "filipino": "Ngumingiti ako, kahit pagod ako.",
+      "transliteration": "ngu-miMI-ti a-ko, ka-hit pa-GO-d a-ko",
+      "category": "Joy",
+      "generated_at": "2026-11-19T21:58:36.858002"
+    },
+    {
+      "english": "Thank you, this helps so much.",
+      "filipino": "Salamat, napakalaking tulong nito.",
+      "transliteration": "sa-la-MAT, na-pa-ka-LA-king tu-long ni-to",
+      "category": "Joy",
+      "generated_at": "2026-11-19T21:58:36.858004"
+    },
+    {
+      "english": "My heart feels calm and warm.",
+      "filipino": "Mapayapa ang puso ko, mainit sa loob.",
+      "transliteration": "ma-pa-ya-pa ang PU-so ko, maiNIT sa LO-ob",
+      "category": "Joy",
+      "generated_at": "2026-11-19T21:58:36.858006"
+    },
+    {
+      "english": "I found my rhythm again, today.",
+      "filipino": "Nahanap ko ulit ang ritmo ko ngayon.",
+      "transliteration": "na-HA-p ko u-lit ang RI-tmo ko NGayon",
+      "category": "Joy",
+      "generated_at": "2026-11-19T21:58:36.858007"
     }
   ],
-  "last_updated": "2026-11-19T20:09:22.295323"
+  "last_updated": "2026-11-19T21:58:36.858009"
 }
