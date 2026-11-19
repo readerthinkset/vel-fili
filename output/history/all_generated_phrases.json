@@ -25549,7 +25549,42 @@
       "transliteration": "lu-ma-pit ka, at ma-na-ta-li ka sa a-kin",
       "category": "Love",
       "generated_at": "2026-11-19T05:31:29.488941"
+    },
+    {
+      "english": "Look at the speaker, then copy.",
+      "filipino": "Tingnan ang nagsasalita, tapos kopyahin.",
+      "transliteration": "Tingnan ang nagsasalita, tapos kopyahin.",
+      "category": "Directions",
+      "generated_at": "2026-11-19T20:09:22.295300"
+    },
+    {
+      "english": "Start softly, then get louder slowly.",
+      "filipino": "Simulan nang mahina, tapos palakihin dahan-dahan.",
+      "transliteration": "Simulan nang mahina, tapos palakihin dahan-dahan.",
+      "category": "Directions",
+      "generated_at": "2026-11-19T20:09:22.295316"
+    },
+    {
+      "english": "Say it again, but faster.",
+      "filipino": "Sabihin ulit, pero mas mabilis.",
+      "transliteration": "Sabihin ulit, pero mas mabilis.",
+      "category": "Directions",
+      "generated_at": "2026-11-19T20:09:22.295318"
+    },
+    {
+      "english": "Do it once more, very carefully.",
+      "filipino": "Subukan ulit, nang maingat.",
+      "transliteration": "Subukan ulit, nang maingat.",
+      "category": "Directions",
+      "generated_at": "2026-11-19T20:09:22.295319"
+    },
+    {
+      "english": "Try the word, then pause.",
+      "filipino": "Subukan ang salita, tapos mag-pause.",
+      "transliteration": "Subukan ang salita, tapos mag-pause.",
+      "category": "Directions",
+      "generated_at": "2026-11-19T20:09:22.295321"
     }
   ],
-  "last_updated": "2026-11-19T05:31:29.488943"
+  "last_updated": "2026-11-19T20:09:22.295323"
 }
