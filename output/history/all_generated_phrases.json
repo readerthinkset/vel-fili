@@ -25619,7 +25619,42 @@
       "transliteration": "na-HA-p ko u-lit ang RI-tmo ko NGayon",
       "category": "Joy",
       "generated_at": "2026-11-19T21:58:36.858007"
+    },
+    {
+      "english": "Hi! Where are you from?",
+      "filipino": "Hi! Taga-saan ka?",
+      "transliteration": "Hi! Taga-saan ka?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-19T23:26:46.314723"
+    },
+    {
+      "english": "I’m looking for a bus stop.",
+      "filipino": "Hahanap ako ng hintuan ng bus.",
+      "transliteration": "Hanahap ako ng hintuan ng bus.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-19T23:26:46.314738"
+    },
+    {
+      "english": "How do I get there, please?",
+      "filipino": "Paano ako makakarating doon, pakiusap?",
+      "transliteration": "Paano ako makakarating doon, pakiusap?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-19T23:26:46.314740"
+    },
+    {
+      "english": "Do you have a map?",
+      "filipino": "Mayroon ba kayong mapa?",
+      "transliteration": "Mayroon ba kayong mapa?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-19T23:26:46.314742"
+    },
+    {
+      "english": "Is there a pharmacy nearby?",
+      "filipino": "May botika ba malapit dito?",
+      "transliteration": "May botika ba malapit dito?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-19T23:26:46.314743"
     }
   ],
-  "last_updated": "2026-11-19T21:58:36.858009"
+  "last_updated": "2026-11-19T23:26:46.314745"
 }
