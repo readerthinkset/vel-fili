@@ -25654,7 +25654,42 @@
       "transliteration": "May botika ba malapit dito?",
       "category": "Basic Phrases",
       "generated_at": "2026-11-19T23:26:46.314743"
+    },
+    {
+      "english": "Be patient, magtatanim tayo ng araw.",
+      "filipino": "Maging pasensiya, magtatanim tayo ng araw.",
+      "transliteration": "mag-ing pasensiya, magta-tanim tayo ng araw",
+      "category": "Patience",
+      "generated_at": "2026-11-20T01:30:10.956849"
+    },
+    {
+      "english": "Wait a moment, kailangan pa ng oras.",
+      "filipino": "Sandali lang, kailangan pa ng oras.",
+      "transliteration": "san-dali lang, kai-lan-gan pa ng oras",
+      "category": "Patience",
+      "generated_at": "2026-11-20T01:30:10.956864"
+    },
+    {
+      "english": "I know, mahirap ngayon.",
+      "filipino": "Alam ko, mahirap ngayon.",
+      "transliteration": "a-lam ko, ma-hi-rap ngu-yon",
+      "category": "Patience",
+      "generated_at": "2026-11-20T01:30:10.956866"
+    },
+    {
+      "english": "Hold on, darating din ang panahon.",
+      "filipino": "Huwag kang susuko, darating din ang panahon.",
+      "transliteration": "hu-wag kang su-suko, da-ra-ting din ang pa-nahon",
+      "category": "Patience",
+      "generated_at": "2026-11-20T01:30:10.956867"
+    },
+    {
+      "english": "Let it sink in, okay lang.",
+      "filipino": "Hayaang tumama sa isip, okay lang.",
+      "transliteration": "ha-ya-ang tu-ma sa i-sip, o-ke lang",
+      "category": "Patience",
+      "generated_at": "2026-11-20T01:30:10.956869"
     }
   ],
-  "last_updated": "2026-11-19T23:26:46.314745"
+  "last_updated": "2026-11-20T01:30:10.956871"
 }
