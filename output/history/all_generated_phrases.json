@@ -25794,7 +25794,42 @@
       "transliteration": "salamat, sa pagiging matiyaga",
       "category": "Kindness",
       "generated_at": "2026-11-20T21:41:28.094346"
+    },
+    {
+      "english": "Stay calm, I need medical help now.",
+      "filipino": "Manatili kayong kalmado, kailangan ko ng medikal na tulong.",
+      "transliteration": "ma-nah-tii-li ka-yong ka-lma-do, ke-ki-lan-go ng me-di-kal na tu-long",
+      "category": "Emergency",
+      "generated_at": "2026-11-20T22:59:01.346385"
+    },
+    {
+      "english": "I cut my hand, it won't stop bleeding.",
+      "filipino": "Naputol ko ang kamay ko, hindi tumitigil ang pagdurugo.",
+      "transliteration": "na-putol ko ang ka-ma-y ko, hin-di tu-mi-ti-gil ang pag-du-ro-go",
+      "category": "Emergency",
+      "generated_at": "2026-11-20T22:59:01.346417"
+    },
+    {
+      "english": "I swallowed something wrong, please call a doctor.",
+      "filipino": "May napalunok akong mali, pakiusap, tumawag ng doktor.",
+      "transliteration": "may na-pal-u-nok a-kong ma-li, pi-ki-u-sap, tu-ma-wag ng dok-tor",
+      "category": "Emergency",
+      "generated_at": "2026-11-20T22:59:01.346420"
+    },
+    {
+      "english": "I think I have food poisoning, now.",
+      "filipino": "Sa tingin ko, food poisoning, ngayon mismo.",
+      "transliteration": "sa ting-in ko, fuud poi-zu-ning, ngu-yon mis-mo",
+      "category": "Emergency",
+      "generated_at": "2026-11-20T22:59:01.346422"
+    },
+    {
+      "english": "My chest hurts, please help me breathe.",
+      "filipino": "Masakit ang dibdib ko, tulungan niyo akong huminga.",
+      "transliteration": "ma-sa-kit ang di-bdib ko, tu-lu-gan ni-yo a-kong hu-ming-a",
+      "category": "Emergency",
+      "generated_at": "2026-11-20T22:59:01.346423"
     }
   ],
-  "last_updated": "2026-11-20T21:41:28.094348"
+  "last_updated": "2026-11-20T22:59:01.346425"
 }
