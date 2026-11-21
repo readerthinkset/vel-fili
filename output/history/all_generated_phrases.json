@@ -25934,7 +25934,42 @@
       "transliteration": "Pinapanday mo ang galing, araw-araw.",
       "category": "Success",
       "generated_at": "2026-11-21T18:49:55.998348"
+    },
+    {
+      "english": "Hi, may I see the menu, please?",
+      "filipino": "Hi, maaari ko bang makita ang menu, pakiusap?",
+      "transliteration": "Hi, maari ko bang makita ang menu, pakiusap?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-21T20:22:14.030957"
+    },
+    {
+      "english": "We’re hungry, can you seat us?",
+      "filipino": "Gutom kami, maaari ba ninyo kaming upuan?",
+      "transliteration": "Gutóm kami, maaari ba ninyo kaming upuan?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-21T20:22:14.030972"
+    },
+    {
+      "english": "What do you recommend for first-timers?",
+      "filipino": "Ano ang nirerekomenda niyo para sa first-timers?",
+      "transliteration": "Ano ang nirerekomenda niyo para sa first-timers?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-21T20:22:14.030974"
+    },
+    {
+      "english": "Does this come with rice, always?",
+      "filipino": "Kasama ba dito ang kanin, palagi?",
+      "transliteration": "Kasama ba dito ang kanin, palagi?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-21T20:22:14.030975"
+    },
+    {
+      "english": "Is there a vegetarian option, po?",
+      "filipino": "May vegetarian option ba kayo, po?",
+      "transliteration": "May vegetarian option ba kayo, po?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-21T20:22:14.030976"
     }
   ],
-  "last_updated": "2026-11-21T18:49:55.998350"
+  "last_updated": "2026-11-21T20:22:14.030978"
 }
