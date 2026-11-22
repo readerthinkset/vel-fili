@@ -26144,7 +26144,42 @@
       "transliteration": "su-ma-sa-ba-y ang ko-ro, at ngi-ngi-ti a-ko",
       "category": "Music",
       "generated_at": "2026-11-22T20:35:31.128951"
+    },
+    {
+      "english": "Turn on Bluetooth, pair with my device.",
+      "filipino": "I-on ang Bluetooth, ipares sa device ko.",
+      "transliteration": "ee-on ang BLOOT-tooth, ee-pares sa dee-vais ko",
+      "category": "Technology",
+      "generated_at": "2026-11-22T22:19:30.919652"
+    },
+    {
+      "english": "Can you connect us to Wi‑Fi now?",
+      "filipino": "Pwede ba, ikonekta tayo sa Wi‑Fi ngayon?",
+      "transliteration": "pwedeng ba, ee-koneK-ta ta-yo sa WAY-fai ngayon",
+      "category": "Technology",
+      "generated_at": "2026-11-22T22:19:30.919681"
+    },
+    {
+      "english": "Let me check my data balance.",
+      "filipino": "Hayaan mong i-check ang data ko.",
+      "transliteration": "ha-yan-an mong ee-check ang daa-ta ko",
+      "category": "Technology",
+      "generated_at": "2026-11-22T22:19:30.919683"
+    },
+    {
+      "english": "Where is my password saved?",
+      "filipino": "Saan naka-save ang password ko?",
+      "transliteration": "saan na-ka-save ang PASS-word ko",
+      "category": "Technology",
+      "generated_at": "2026-11-22T22:19:30.919685"
+    },
+    {
+      "english": "I forgot my login, help me reset.",
+      "filipino": "Nakalimutan ko ang pag-login, tulungan mo akong mag-reset.",
+      "transliteration": "na-ka-lim-utan ko ang pag-LO-gin, tu-lungan mo a-kong mag-RESET",
+      "category": "Technology",
+      "generated_at": "2026-11-22T22:19:30.919686"
     }
   ],
-  "last_updated": "2026-11-22T20:35:31.128953"
+  "last_updated": "2026-11-22T22:19:30.919689"
 }
