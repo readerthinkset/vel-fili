@@ -26424,7 +26424,42 @@
       "transliteration": "Ma-gipon pa-ra sa e-mwer-hen-si, just in case.",
       "category": "Finance",
       "generated_at": "2026-11-24T07:58:06.116317"
+    },
+    {
+      "english": "Later today, we can talk.",
+      "filipino": "Mamaya ngayon, puwede tayong mag-usap.",
+      "transliteration": "Mamaya ngayon, puwede tayong mag-usap.",
+      "category": "Time",
+      "generated_at": "2026-11-24T22:03:01.239111"
+    },
+    {
+      "english": "At this moment, please listen.",
+      "filipino": "Sa sandaling ito, pakinggan n'yo ako.",
+      "transliteration": "Sa sandaling ito, pakinggan n'yo ako.",
+      "category": "Time",
+      "generated_at": "2026-11-24T22:03:01.239127"
+    },
+    {
+      "english": "Give me five minutes, please.",
+      "filipino": "Bigyan mo ako ng limang minuto, ha.",
+      "transliteration": "Bigyan mo ako ng limang minuto, ha.",
+      "category": "Time",
+      "generated_at": "2026-11-24T22:03:01.239129"
+    },
+    {
+      "english": "In an hour, I'll text you.",
+      "filipino": "Pagkalipas ng isang oras, i-text kita.",
+      "transliteration": "Pagkalipas ng isang oras, i-text kita.",
+      "category": "Time",
+      "generated_at": "2026-11-24T22:03:01.239131"
+    },
+    {
+      "english": "We’re meeting at seven sharp.",
+      "filipino": "Magkikita tayo nang eksakto sa pito.",
+      "transliteration": "Magkikita tayo nang eksakto sa pito.",
+      "category": "Time",
+      "generated_at": "2026-11-24T22:03:01.239133"
     }
   ],
-  "last_updated": "2026-11-24T07:58:06.116322"
+  "last_updated": "2026-11-24T22:03:01.239135"
 }
