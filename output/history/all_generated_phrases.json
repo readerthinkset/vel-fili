@@ -26634,7 +26634,42 @@
       "transliteration": "Sa-la-mat, da-hil na-pa-ka-pa-sen-syo-so mo.",
       "category": "Gratitude",
       "generated_at": "2026-11-25T21:17:38.986293"
+    },
+    {
+      "english": "Drink water, when you wake up.",
+      "filipino": "Uminom ng tubig, pag gising mo.",
+      "transliteration": "oo-NEEM-om ng TOO-big, pag GISING mo",
+      "category": "Health",
+      "generated_at": "2026-11-25T22:56:14.164224"
+    },
+    {
+      "english": "Take slow breaths, before you eat.",
+      "filipino": "Huminga nang dahan-dahan, bago kumain.",
+      "transliteration": "hoo-MIN-ga nang da-HAHN-dahan, BA-ngo koo-MAIN",
+      "category": "Health",
+      "generated_at": "2026-11-25T22:56:14.164238"
+    },
+    {
+      "english": "Wash your hands, before cooking and eating.",
+      "filipino": "Hugasan ang mga kamay, bago magluto at kumain.",
+      "transliteration": "hoo-GA-san ang MGA kamay, BA-ngo mag-LOH-to at koo-MAIN",
+      "category": "Health",
+      "generated_at": "2026-11-25T22:56:14.164240"
+    },
+    {
+      "english": "Sit upright, relax your neck and shoulders.",
+      "filipino": "Umupo nang tuwid, i-relax ang leeg at balikat.",
+      "transliteration": "oo-OO-po nang TOO-wid, ee-re-LAX ang LE-el at ba-LEE-kat",
+      "category": "Health",
+      "generated_at": "2026-11-25T22:56:14.164242"
+    },
+    {
+      "english": "Eat colorful vegetables, every day if possible.",
+      "filipino": "Kumain ng makukulay na gulay, araw-araw kung maaari.",
+      "transliteration": "koo-MAIN ng ma-KOO-ku-lai na GOo-lai, ARAW-araw kung MA-a-ari",
+      "category": "Health",
+      "generated_at": "2026-11-25T22:56:14.164244"
     }
   ],
-  "last_updated": "2026-11-25T21:17:38.986297"
+  "last_updated": "2026-11-25T22:56:14.164246"
 }
