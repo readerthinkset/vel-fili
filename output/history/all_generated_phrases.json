@@ -26599,7 +26599,42 @@
       "transliteration": "nga-yon a-raw, na-wa-wa-la ang mga a-la-la-anin ko",
       "category": "Joy",
       "generated_at": "2026-11-25T06:34:07.612767"
+    },
+    {
+      "english": "Thank you, for your help today.",
+      "filipino": "Salamat, sa iyong tulong ngayon.",
+      "transliteration": "Sa-lamat, sa i-yong tu-long ngayon.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-25T21:17:38.986277"
+    },
+    {
+      "english": "I’m grateful, you always respond quickly.",
+      "filipino": "Maganda ang loob, mabilis ka laging sumagot.",
+      "transliteration": "Ma-ga-nang loob, ma-bi-lis ka la-ging su-magot.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-25T21:17:38.986288"
+    },
+    {
+      "english": "Thanks, for understanding what I meant.",
+      "filipino": "Salamat, sa pag-unawa sa ibig kong sabihin.",
+      "transliteration": "Sa-la-mat, sa pag-u-numa sa i-big kong sa-bi-hin.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-25T21:17:38.986290"
+    },
+    {
+      "english": "Your support means a lot to me.",
+      "filipino": "Malaking bagay sa akin ang suporta mo.",
+      "transliteration": "Ma-la-king ba-gay sa a-kin ang su-porta mo.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-25T21:17:38.986291"
+    },
+    {
+      "english": "Thank you, for being so patient.",
+      "filipino": "Salamat, dahil napaka-pasensyoso mo.",
+      "transliteration": "Sa-la-mat, da-hil na-pa-ka-pa-sen-syo-so mo.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-25T21:17:38.986293"
     }
   ],
-  "last_updated": "2026-11-25T06:34:07.612769"
+  "last_updated": "2026-11-25T21:17:38.986297"
 }
