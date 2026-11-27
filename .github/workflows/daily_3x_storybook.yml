@@ -2,9 +2,9 @@ name: Velocity Filipino - Storybook Publish
 
 on:
   schedule:
-    - cron: '00:32 * * *'
-    - cron: '08:32 * * *'
-    - cron: '16:32 * * *'
+    - cron: '32 0 * * *'
+    - cron: '32 8 * * *'
+    - cron: '32 16 * * *'
   workflow_dispatch:
     inputs:
       category:
