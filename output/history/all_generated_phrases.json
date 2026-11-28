@@ -26886,7 +26886,28 @@
       "transliteration": "Salamat, sobrang pinahahalagahan ko iyon.",
       "category": "Basic Phrases",
       "generated_at": "2026-11-27T19:26:39.103957"
+    },
+    {
+      "english": "Try this pork barbecue, super smoky.",
+      "filipino": "Tikman mo itong inihaw na baboy.",
+      "transliteration": "Ti-kman moi-to ang i-ni-haw na ba-boy",
+      "category": "Food",
+      "generated_at": "2026-11-28T08:20:17.932378"
+    },
+    {
+      "english": "This sisig is sizzling, and it smells great.",
+      "filipino": "Grabe, sisig ito, ang bango!",
+      "transliteration": "Gra-be, si-sig i-to, ang ba-nge!",
+      "category": "Food",
+      "generated_at": "2026-11-28T08:20:17.932394"
+    },
+    {
+      "english": "Kakanin na ito, chewy and sweet.",
+      "filipino": "Kakanin ito, malambot at matamis.",
+      "transliteration": "Ka-kal-nin i-to, ma-lam-bot at ma-ta-mis",
+      "category": "Food",
+      "generated_at": "2026-11-28T08:20:17.932397"
     }
   ],
-  "last_updated": "2026-11-27T19:26:39.103960"
+  "last_updated": "2026-11-28T08:20:17.932399"
 }
