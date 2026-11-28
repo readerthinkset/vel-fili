@@ -26907,7 +26907,28 @@
       "transliteration": "Ka-kal-nin i-to, ma-lam-bot at ma-ta-mis",
       "category": "Food",
       "generated_at": "2026-11-28T08:20:17.932397"
+    },
+    {
+      "english": "Can I get the rice on the side?",
+      "filipino": "Pwede po, hiwalay ang rice?",
+      "transliteration": "Pwedeng po, hiwalay ang rice?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-28T17:09:56.466078"
+    },
+    {
+      "english": "Is this spicy, or mild today?",
+      "filipino": "Maaanghang ba ito, or banayad?",
+      "transliteration": "Ma-aanghang ba ito, o banayad?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-28T17:09:56.466094"
+    },
+    {
+      "english": "I want something crispy and savory.",
+      "filipino": "Gusto ko, yung crispy at masarap.",
+      "transliteration": "Gusto ko, yung crispy at masarap.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-28T17:09:56.466096"
     }
   ],
-  "last_updated": "2026-11-28T08:20:17.932399"
+  "last_updated": "2026-11-28T17:09:56.466098"
 }
